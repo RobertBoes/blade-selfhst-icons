@@ -1,26 +1,26 @@
 {
-    "name": "blade-organization/blade-heroicons",
-    "description": "A package to easily make use of Heroicons in your Laravel Blade views.",
-    "keywords": ["Blade", "Heroicons", "Laravel"],
-    "homepage": "https://github.com/blade-organization/blade-heroicons",
+    "name": "robertboes/blade-selfhst-icons",
+    "description": "A package to easily make use of selfh.st Icons in your Laravel Blade views.",
+    "keywords": ["Blade", "selfh.st", "Icons", "Laravel"],
+    "homepage": "https://github.com/RobertBoes/blade-selfhst-icons",
     "license": "MIT",
     "authors": [
         {
-            "name": "Blade Developer"
+            "name": "Robert Boes"
         }
     ],
     "require": {
-        "php": "^8.4",
+        "php": "^8.2",
         "blade-ui-kit/blade-icons": "^1.6",
-        "illuminate/support": "^12.0"
+        "illuminate/support": "^11.0 || ^12.0"
     },
     "require-dev": {
-        "orchestra/testbench": "^10.0",
-        "phpunit/phpunit": "^11.0"
+        "orchestra/testbench": "^9.0 || ^10.0",
+        "phpunit/phpunit": "^10.5 || ^11.0"
     },
     "autoload": {
         "psr-4": {
-            "BladeUI\\Heroicons\\": "src"
+            "BladeUI\\SelfhstIcons\\": "src"
         }
     },
     "autoload-dev": {
@@ -31,7 +31,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "BladeUI\\Heroicons\\BladeHeroiconsServiceProvider"
+                "BladeUI\\SelfhstIcons\\BladeSelfhstIconsServiceProvider"
             ]
         }
     },
