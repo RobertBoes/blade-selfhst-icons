@@ -38,13 +38,52 @@ jobs:
             echo "changed=false" >> "$GITHUB_OUTPUT"
           fi
 
+      - name: Build changelog
+        if: steps.changes.outputs.changed == 'true'
+        id: changelog
+        run: |
+          ADDED=$(git status resources/svg --porcelain | grep '^?' | sed 's|^?? resources/svg/||' | sed 's/\.svg$//' | sort)
+          REMOVED=$(git status resources/svg --porcelain | grep '^ D' | sed 's|^ D resources/svg/||' | sed 's/\.svg$//' | sort)
+          MODIFIED=$(git status resources/svg --porcelain | grep '^ M' | sed 's|^ M resources/svg/||' | sed 's/\.svg$//' | sort)
+
+          BODY=""
+
+          if [ -n "$ADDED" ]; then
+            COUNT=$(echo "$ADDED" | wc -l | tr -d ' ')
+            BODY="${BODY}### Added (${COUNT})\n"
+            while IFS= read -r icon; do
+              BODY="${BODY}- \`${icon}\`\n"
+            done <<< "$ADDED"
+            BODY="${BODY}\n"
+          fi
+
+          if [ -n "$REMOVED" ]; then
+            COUNT=$(echo "$REMOVED" | wc -l | tr -d ' ')
+            BODY="${BODY}### Removed (${COUNT})\n"
+            while IFS= read -r icon; do
+              BODY="${BODY}- \`${icon}\`\n"
+            done <<< "$REMOVED"
+            BODY="${BODY}\n"
+          fi
+
+          if [ -n "$MODIFIED" ]; then
+            COUNT=$(echo "$MODIFIED" | wc -l | tr -d ' ')
+            BODY="${BODY}### Modified (${COUNT})\n"
+            while IFS= read -r icon; do
+              BODY="${BODY}- \`${icon}\`\n"
+            done <<< "$MODIFIED"
+            BODY="${BODY}\n"
+          fi
+
+          # Write to file to avoid escaping issues
+          echo -e "$BODY" > /tmp/pr-changelog.md
+
       - name: Create Pull Request
         if: steps.changes.outputs.changed == 'true'
         uses: peter-evans/create-pull-request@v7
         with:
           commit-message: 'Update selfh.st icons'
           title: 'Update selfh.st icons'
-          body: |
-            This PR updates the selfh.st icons to the latest version from [selfhst/icons](https://github.com/selfhst/icons).
+          body-path: /tmp/pr-changelog.md
           branch: update-icons
           delete-branch: true
