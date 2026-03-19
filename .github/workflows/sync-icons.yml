@@ -29,10 +29,13 @@ jobs:
       - name: Generate icons
         run: vendor/bin/blade-icons-generate
 
+      - name: Generate enums
+        run: php bin/generate-enums.php
+
       - name: Check for changes
         id: changes
         run: |
-          if [ -n "$(git status resources/svg --porcelain)" ]; then
+          if [ -n "$(git status resources/svg src/Enums --porcelain)" ]; then
             echo "changed=true" >> "$GITHUB_OUTPUT"
           else
             echo "changed=false" >> "$GITHUB_OUTPUT"
