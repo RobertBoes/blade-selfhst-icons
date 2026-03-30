@@ -49,9 +49,9 @@ jobs:
         if: steps.changes.outputs.changed == 'true'
         id: changelog
         run: |
-          ADDED=$(git status resources/svg --porcelain | grep '^?' | sed 's|^?? resources/svg/||' | sed 's/\.svg$//' | sort)
-          REMOVED=$(git status resources/svg --porcelain | grep '^ D' | sed 's|^ D resources/svg/||' | sed 's/\.svg$//' | sort)
-          MODIFIED=$(git status resources/svg --porcelain | grep '^ M' | sed 's|^ M resources/svg/||' | sed 's/\.svg$//' | sort)
+          ADDED=$(git status resources/svg --porcelain | grep '^?' | grep '\.svg$' | sed 's|^?? resources/svg/||' | sed 's/\.svg$//' | sort)
+          REMOVED=$(git status resources/svg --porcelain | grep '^ D' | grep '\.svg$' | sed 's|^ D resources/svg/||' | sed 's/\.svg$//' | sort)
+          MODIFIED=$(git status resources/svg --porcelain | grep '^ M' | grep '\.svg$' | sed 's|^ M resources/svg/||' | sed 's/\.svg$//' | sort)
 
           BODY=""
 
