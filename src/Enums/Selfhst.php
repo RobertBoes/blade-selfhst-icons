@@ -424,6 +424,7 @@ enum Selfhst: string
     case Dockge = 'selfhst-dockge';
     case DockingStation = 'selfhst-docking-station';
     case Dockpeek = 'selfhst-dockpeek';
+    case Dockprobe = 'selfhst-dockprobe';
     case Docmost = 'selfhst-docmost';
     case DocoCd = 'selfhst-doco-cd';
     case DocsCollaboration = 'selfhst-docs-collaboration';
@@ -792,6 +793,7 @@ enum Selfhst: string
     case Homebridge = 'selfhst-homebridge';
     case Homedash = 'selfhst-homedash';
     case HomedockOs = 'selfhst-homedock-os';
+    case Homelable = 'selfhst-homelable';
     case HomematicIp = 'selfhst-homematic-ip';
     case Homepage = 'selfhst-homepage';
     case Homer = 'selfhst-homer';
@@ -1023,6 +1025,7 @@ enum Selfhst: string
     case Listseerr = 'selfhst-listseerr';
     case Litellm = 'selfhst-litellm';
     case Litlyx = 'selfhst-litlyx';
+    case LittleChat = 'selfhst-little-chat';
     case Littlelink = 'selfhst-littlelink';
     case LiveBlog = 'selfhst-live-blog';
     case Livebook = 'selfhst-livebook';
@@ -1580,6 +1583,7 @@ enum Selfhst: string
     case Plezy = 'selfhst-plezy';
     case Plikshare = 'selfhst-plikshare';
     case Plumio = 'selfhst-plumio';
+    case Pluton = 'selfhst-pluton';
     case Pocket = 'selfhst-pocket';
     case PocketCasts = 'selfhst-pocket-casts';
     case PocketId = 'selfhst-pocket-id';
@@ -2053,6 +2057,8 @@ enum Selfhst: string
     case Trakt = 'selfhst-trakt';
     case TransferZip = 'selfhst-transfer-zip';
     case Transmission = 'selfhst-transmission';
+    case Transmute = 'selfhst-transmute';
+    case Trek = 'selfhst-trek';
     case Trello = 'selfhst-trello';
     case TriliumDeprecated = 'selfhst-trilium-deprecated';
     case TriliumNotes = 'selfhst-trilium-notes';

@@ -403,6 +403,7 @@ enum SelfhstDark: string
     case Dockge = 'selfhst-dockge-dark';
     case DockingStation = 'selfhst-docking-station-dark';
     case Dockpeek = 'selfhst-dockpeek-dark';
+    case Dockprobe = 'selfhst-dockprobe-dark';
     case Docmost = 'selfhst-docmost-dark';
     case DocoCd = 'selfhst-doco-cd-dark';
     case DocsCollaboration = 'selfhst-docs-collaboration-dark';
@@ -758,6 +759,7 @@ enum SelfhstDark: string
     case Homebridge = 'selfhst-homebridge-dark';
     case Homedash = 'selfhst-homedash-dark';
     case HomedockOs = 'selfhst-homedock-os-dark';
+    case Homelable = 'selfhst-homelable-dark';
     case HomematicIp = 'selfhst-homematic-ip-dark';
     case Homepage = 'selfhst-homepage-dark';
     case Homer = 'selfhst-homer-dark';
@@ -984,6 +986,7 @@ enum SelfhstDark: string
     case Listseerr = 'selfhst-listseerr-dark';
     case Litellm = 'selfhst-litellm-dark';
     case Litlyx = 'selfhst-litlyx-dark';
+    case LittleChat = 'selfhst-little-chat-dark';
     case Littlelink = 'selfhst-littlelink-dark';
     case LiveBlog = 'selfhst-live-blog-dark';
     case Liwan = 'selfhst-liwan-dark';
@@ -1524,6 +1527,7 @@ enum SelfhstDark: string
     case Plezy = 'selfhst-plezy-dark';
     case Plikshare = 'selfhst-plikshare-dark';
     case Plumio = 'selfhst-plumio-dark';
+    case Pluton = 'selfhst-pluton-dark';
     case Pocket = 'selfhst-pocket-dark';
     case PocketCasts = 'selfhst-pocket-casts-dark';
     case PocketId = 'selfhst-pocket-id-dark';
@@ -1974,6 +1978,8 @@ enum SelfhstDark: string
     case Trakt = 'selfhst-trakt-dark';
     case TransferZip = 'selfhst-transfer-zip-dark';
     case Transmission = 'selfhst-transmission-dark';
+    case Transmute = 'selfhst-transmute-dark';
+    case Trek = 'selfhst-trek-dark';
     case Trello = 'selfhst-trello-dark';
     case TriliumDeprecated = 'selfhst-trilium-deprecated-dark';
     case TriliumNotes = 'selfhst-trilium-notes-dark';
