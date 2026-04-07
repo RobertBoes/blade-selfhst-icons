@@ -94,3 +94,6 @@ jobs:
           body-path: /tmp/pr-changelog.md
           branch: update-icons
           delete-branch: true
+          sign-commits: true
+          labels: auto_update, github_actions
+
