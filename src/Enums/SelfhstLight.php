@@ -403,6 +403,7 @@ enum SelfhstLight: string
     case Dockge = 'selfhst-dockge-light';
     case DockingStation = 'selfhst-docking-station-light';
     case Dockpeek = 'selfhst-dockpeek-light';
+    case Dockprobe = 'selfhst-dockprobe-light';
     case Docmost = 'selfhst-docmost-light';
     case DocoCd = 'selfhst-doco-cd-light';
     case DocsCollaboration = 'selfhst-docs-collaboration-light';
@@ -694,6 +695,7 @@ enum SelfhstLight: string
     case GrafanaMimir = 'selfhst-grafana-mimir-light';
     case Gramps = 'selfhst-gramps-light';
     case Grapheneos = 'selfhst-grapheneos-light';
+    case Graphhopper = 'selfhst-graphhopper-light';
     case Graphite = 'selfhst-graphite-light';
     case GrassIo = 'selfhst-grass-io-light';
     case Grav = 'selfhst-grav-light';
@@ -758,6 +760,7 @@ enum SelfhstLight: string
     case Homebridge = 'selfhst-homebridge-light';
     case Homedash = 'selfhst-homedash-light';
     case HomedockOs = 'selfhst-homedock-os-light';
+    case Homelable = 'selfhst-homelable-light';
     case HomematicIp = 'selfhst-homematic-ip-light';
     case Homepage = 'selfhst-homepage-light';
     case Homer = 'selfhst-homer-light';
@@ -985,6 +988,7 @@ enum SelfhstLight: string
     case Listseerr = 'selfhst-listseerr-light';
     case Litellm = 'selfhst-litellm-light';
     case Litlyx = 'selfhst-litlyx-light';
+    case LittleChat = 'selfhst-little-chat-light';
     case Littlelink = 'selfhst-littlelink-light';
     case LiveBlog = 'selfhst-live-blog-light';
     case Liwan = 'selfhst-liwan-light';
@@ -1320,6 +1324,7 @@ enum SelfhstLight: string
     case Ocular = 'selfhst-ocular-light';
     case Odoo = 'selfhst-odoo-light';
     case Odysee = 'selfhst-odysee-light';
+    case Oikos = 'selfhst-oikos-light';
     case OldNavy = 'selfhst-old-navy-light';
     case Olivetin = 'selfhst-olivetin-light';
     case Ollama = 'selfhst-ollama-light';
@@ -1525,6 +1530,7 @@ enum SelfhstLight: string
     case Plezy = 'selfhst-plezy-light';
     case Plikshare = 'selfhst-plikshare-light';
     case Plumio = 'selfhst-plumio-light';
+    case Pluton = 'selfhst-pluton-light';
     case Pocket = 'selfhst-pocket-light';
     case PocketCasts = 'selfhst-pocket-casts-light';
     case PocketId = 'selfhst-pocket-id-light';
@@ -1961,6 +1967,7 @@ enum SelfhstLight: string
     case Tirreno = 'selfhst-tirreno-light';
     case Tldraw = 'selfhst-tldraw-light';
     case Tmdb = 'selfhst-tmdb-light';
+    case Todoist = 'selfhst-todoist-light';
     case Toodoom = 'selfhst-toodoom-light';
     case Tooljet = 'selfhst-tooljet-light';
     case Tor = 'selfhst-tor-light';
@@ -1981,6 +1988,8 @@ enum SelfhstLight: string
     case Trakt = 'selfhst-trakt-light';
     case TransferZip = 'selfhst-transfer-zip-light';
     case Transmission = 'selfhst-transmission-light';
+    case Transmute = 'selfhst-transmute-light';
+    case Trek = 'selfhst-trek-light';
     case Trello = 'selfhst-trello-light';
     case TriliumDeprecated = 'selfhst-trilium-deprecated-light';
     case TriliumNotes = 'selfhst-trilium-notes-light';
