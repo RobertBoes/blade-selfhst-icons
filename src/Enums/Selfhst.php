@@ -55,6 +55,7 @@ enum Selfhst: string
     case Alist = 'selfhst-alist';
     case Almalinux = 'selfhst-almalinux';
     case AlpineLinux = 'selfhst-alpine-linux';
+    case Altcha = 'selfhst-altcha';
     case Alternativeto = 'selfhst-alternativeto';
     case Amazon = 'selfhst-amazon';
     case AmazonMusic = 'selfhst-amazon-music';
@@ -69,6 +70,7 @@ enum Selfhst: string
     case AmericanAirlines = 'selfhst-american-airlines';
     case AmericanEagle = 'selfhst-american-eagle';
     case AmericanExpress = 'selfhst-american-express';
+    case Amicoscript = 'selfhst-amicoscript';
     case Amnezia = 'selfhst-amnezia';
     case Amurex = 'selfhst-amurex';
     case AnOtterWiki = 'selfhst-an-otter-wiki';
@@ -77,6 +79,7 @@ enum Selfhst: string
     case AndroidAuto = 'selfhst-android-auto';
     case AndroidPolice = 'selfhst-android-police';
     case AndroidRobot = 'selfhst-android-robot';
+    case Anibridge = 'selfhst-anibridge';
     case AnimationDigitalNetwork = 'selfhst-animation-digital-network';
     case Anki = 'selfhst-anki';
     case Anonaddy = 'selfhst-anonaddy';
@@ -243,6 +246,7 @@ enum Selfhst: string
     case Calmness = 'selfhst-calmness';
     case Cannery = 'selfhst-cannery';
     case CannoliShell = 'selfhst-cannoli-shell';
+    case CapacitorRuntime = 'selfhst-capacitor-runtime';
     case Capcut = 'selfhst-capcut';
     case CapitalOne = 'selfhst-capital-one';
     case Caprover = 'selfhst-caprover';
@@ -353,6 +357,7 @@ enum Selfhst: string
     case Crosswatch = 'selfhst-crosswatch';
     case CrowCi = 'selfhst-crow-ci';
     case Crowdsec = 'selfhst-crowdsec';
+    case CrowdsecManager = 'selfhst-crowdsec-manager';
     case CrtSh = 'selfhst-crt-sh';
     case Crunchyroll = 'selfhst-crunchyroll';
     case Cryptgeon = 'selfhst-cryptgeon';
@@ -587,6 +592,7 @@ enum Selfhst: string
     case Flixor = 'selfhst-flixor';
     case Flohmarkt = 'selfhst-flohmarkt';
     case Flood = 'selfhst-flood';
+    case FlowLike = 'selfhst-flow-like';
     case Flowinquiry = 'selfhst-flowinquiry';
     case Flowise = 'selfhst-flowise';
     case FluentReader = 'selfhst-fluent-reader';
@@ -1006,6 +1012,7 @@ enum Selfhst: string
     case LidarrRadarr = 'selfhst-lidarr-radarr';
     case Lidbrainz = 'selfhst-lidbrainz';
     case Limesurvey = 'selfhst-limesurvey';
+    case Linear = 'selfhst-linear';
     case Lingarr = 'selfhst-lingarr';
     case Linguacafe = 'selfhst-linguacafe';
     case LingvaTranslate = 'selfhst-lingva-translate';
@@ -1106,6 +1113,7 @@ enum Selfhst: string
     case Mealie = 'selfhst-mealie';
     case Medama = 'selfhst-medama';
     case Medassist = 'selfhst-medassist';
+    case Medialyze = 'selfhst-medialyze';
     case Mediamanager = 'selfhst-mediamanager';
     case Mediamtx = 'selfhst-mediamtx';
     case Mediathekview = 'selfhst-mediathekview';
@@ -1525,6 +1533,7 @@ enum Selfhst: string
     case Pgadmin = 'selfhst-pgadmin';
     case Phanpy = 'selfhst-phanpy';
     case Phice = 'selfhst-phice';
+    case PhilipsHue = 'selfhst-philips-hue';
     case Phorge = 'selfhst-phorge';
     case Phoscon = 'selfhst-phoscon';
     case Photopea = 'selfhst-photopea';
@@ -1582,7 +1591,6 @@ enum Selfhst: string
     case PlexPhotos = 'selfhst-plex-photos';
     case PlexRewind = 'selfhst-plex-rewind';
     case Plexamp = 'selfhst-plexamp';
-    case Plexanibridge = 'selfhst-plexanibridge';
     case Plezy = 'selfhst-plezy';
     case Plikshare = 'selfhst-plikshare';
     case Plumio = 'selfhst-plumio';
@@ -2028,6 +2036,7 @@ enum Selfhst: string
     case Tidal = 'selfhst-tidal';
     case Tiddlywiki = 'selfhst-tiddlywiki';
     case Tidyquest = 'selfhst-tidyquest';
+    case TiesLinkSharing = 'selfhst-ties-link-sharing';
     case Tiktok = 'selfhst-tiktok';
     case Tillywork = 'selfhst-tillywork';
     case Timesy = 'selfhst-timesy';
@@ -2175,7 +2184,6 @@ enum Selfhst: string
     case VueJs = 'selfhst-vue-js';
     case Vuetorrent = 'selfhst-vuetorrent';
     case Vykar = 'selfhst-vykar';
-    case Wagmios = 'selfhst-wagmios';
     case Wakapi = 'selfhst-wakapi';
     case Wallabag = 'selfhst-wallabag';
     case Wallos = 'selfhst-wallos';
@@ -2300,5 +2308,6 @@ enum Selfhst: string
     case ZorinOs = 'selfhst-zorin-os';
     case ZotRegistry = 'selfhst-zot-registry';
     case Zotero = 'selfhst-zotero';
+    case Zublo = 'selfhst-zublo';
     case Zulip = 'selfhst-zulip';
 }
