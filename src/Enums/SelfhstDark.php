@@ -235,6 +235,7 @@ enum SelfhstDark: string
     case Caderno = 'selfhst-caderno-dark';
     case Cadvisor = 'selfhst-cadvisor-dark';
     case CalCom = 'selfhst-cal-com-dark';
+    case Calagopus = 'selfhst-calagopus-dark';
     case CalibreWeb = 'selfhst-calibre-web-dark';
     case Calmness = 'selfhst-calmness-dark';
     case CapacitorRuntime = 'selfhst-capacitor-runtime-dark';
@@ -316,6 +317,7 @@ enum SelfhstDark: string
     case ContainerHub = 'selfhst-container-hub-dark';
     case Containerssh = 'selfhst-containerssh-dark';
     case Contao = 'selfhst-contao-dark';
+    case Continuwuity = 'selfhst-continuwuity-dark';
     case ControlD = 'selfhst-control-d-dark';
     case Converse = 'selfhst-converse-dark';
     case Convos = 'selfhst-convos-dark';
@@ -723,6 +725,7 @@ enum SelfhstDark: string
     case HarborGuard = 'selfhst-harbor-guard-dark';
     case HarborScale = 'selfhst-harbor-scale-dark';
     case Hardcover = 'selfhst-hardcover-dark';
+    case Hashicorp = 'selfhst-hashicorp-dark';
     case HashicorpBoundary = 'selfhst-hashicorp-boundary-dark';
     case HashicorpConsul = 'selfhst-hashicorp-consul-dark';
     case HashicorpNomad = 'selfhst-hashicorp-nomad-dark';
@@ -1049,6 +1052,8 @@ enum SelfhstDark: string
     case ManyNotes = 'selfhst-many-notes-dark';
     case Mariadb = 'selfhst-mariadb-dark';
     case Markstack = 'selfhst-markstack-dark';
+    case Marp = 'selfhst-marp-dark';
+    case Marpui = 'selfhst-marpui-dark';
     case Marreta = 'selfhst-marreta-dark';
     case Mashable = 'selfhst-mashable-dark';
     case Mastercard = 'selfhst-mastercard-dark';
@@ -1422,6 +1427,7 @@ enum SelfhstDark: string
     case Ovpn = 'selfhst-ovpn-dark';
     case Owncast = 'selfhst-owncast-dark';
     case Owncloud = 'selfhst-owncloud-dark';
+    case Ownfoil = 'selfhst-ownfoil-dark';
     case Owntone = 'selfhst-owntone-dark';
     case Owntracks = 'selfhst-owntracks-dark';
     case Oxicloud = 'selfhst-oxicloud-dark';
@@ -1593,6 +1599,7 @@ enum SelfhstDark: string
     case ProtonWallet = 'selfhst-proton-wallet-dark';
     case Protondb = 'selfhst-protondb-dark';
     case Prowlarr = 'selfhst-prowlarr-dark';
+    case Proxcenter = 'selfhst-proxcenter-dark';
     case Proxmenux = 'selfhst-proxmenux-dark';
     case Proxmox = 'selfhst-proxmox-dark';
     case ProxmoxHelperScripts = 'selfhst-proxmox-helper-scripts-dark';
@@ -1672,6 +1679,7 @@ enum SelfhstDark: string
     case Reaparr = 'selfhst-reaparr-dark';
     case ReceiptWrangler = 'selfhst-receipt-wrangler-dark';
     case Recipesage = 'selfhst-recipesage-dark';
+    case Reclaimerr = 'selfhst-reclaimerr-dark';
     case Recyclarr = 'selfhst-recyclarr-dark';
     case Reddit = 'selfhst-reddit-dark';
     case RedditDownvote = 'selfhst-reddit-downvote-dark';
@@ -1801,6 +1809,7 @@ enum SelfhstDark: string
     case Simpledms = 'selfhst-simpledms-dark';
     case Simplelogin = 'selfhst-simplelogin-dark';
     case SimplexChat = 'selfhst-simplex-chat-dark';
+    case Sipeed = 'selfhst-sipeed-dark';
     case Siyuan = 'selfhst-siyuan-dark';
     case Skyshowtime = 'selfhst-skyshowtime-dark';
     case Slack = 'selfhst-slack-dark';
@@ -1809,6 +1818,7 @@ enum SelfhstDark: string
     case Slickdeals = 'selfhst-slickdeals-dark';
     case Slotpoll = 'selfhst-slotpoll-dark';
     case Slskd = 'selfhst-slskd-dark';
+    case Smallstep = 'selfhst-smallstep-dark';
     case Smartfox = 'selfhst-smartfox-dark';
     case Smlight = 'selfhst-smlight-dark';
     case Snapcast = 'selfhst-snapcast-dark';
@@ -2070,6 +2080,7 @@ enum SelfhstDark: string
     case Versity = 'selfhst-versity-dark';
     case Vert = 'selfhst-vert-dark';
     case VertigoComics = 'selfhst-vertigo-comics-dark';
+    case Vertiv = 'selfhst-vertiv-dark';
     case Viaplay = 'selfhst-viaplay-dark';
     case Victoriametrics = 'selfhst-victoriametrics-dark';
     case Vidzy = 'selfhst-vidzy-dark';
@@ -2121,6 +2132,7 @@ enum SelfhstDark: string
     case Weaviate = 'selfhst-weaviate-dark';
     case WebCheck = 'selfhst-web-check-dark';
     case Webgazer = 'selfhst-webgazer-dark';
+    case WebhookTester = 'selfhst-webhook-tester-dark';
     case Weblate = 'selfhst-weblate-dark';
     case Webmin = 'selfhst-webmin-dark';
     case Websocket = 'selfhst-websocket-dark';

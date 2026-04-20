@@ -235,6 +235,7 @@ enum SelfhstLight: string
     case Caderno = 'selfhst-caderno-light';
     case Cadvisor = 'selfhst-cadvisor-light';
     case CalCom = 'selfhst-cal-com-light';
+    case Calagopus = 'selfhst-calagopus-light';
     case CalibreWeb = 'selfhst-calibre-web-light';
     case Calmness = 'selfhst-calmness-light';
     case CapacitorRuntime = 'selfhst-capacitor-runtime-light';
@@ -316,6 +317,7 @@ enum SelfhstLight: string
     case ContainerHub = 'selfhst-container-hub-light';
     case Containerssh = 'selfhst-containerssh-light';
     case Contao = 'selfhst-contao-light';
+    case Continuwuity = 'selfhst-continuwuity-light';
     case ControlD = 'selfhst-control-d-light';
     case Converse = 'selfhst-converse-light';
     case Convos = 'selfhst-convos-light';
@@ -723,6 +725,7 @@ enum SelfhstLight: string
     case HarborGuard = 'selfhst-harbor-guard-light';
     case HarborScale = 'selfhst-harbor-scale-light';
     case Hardcover = 'selfhst-hardcover-light';
+    case Hashicorp = 'selfhst-hashicorp-light';
     case HashicorpBoundary = 'selfhst-hashicorp-boundary-light';
     case HashicorpConsul = 'selfhst-hashicorp-consul-light';
     case HashicorpNomad = 'selfhst-hashicorp-nomad-light';
@@ -1050,6 +1053,8 @@ enum SelfhstLight: string
     case ManyNotes = 'selfhst-many-notes-light';
     case Mariadb = 'selfhst-mariadb-light';
     case Markstack = 'selfhst-markstack-light';
+    case Marp = 'selfhst-marp-light';
+    case Marpui = 'selfhst-marpui-light';
     case Marreta = 'selfhst-marreta-light';
     case Mashable = 'selfhst-mashable-light';
     case Mastercard = 'selfhst-mastercard-light';
@@ -1423,6 +1428,7 @@ enum SelfhstLight: string
     case Ovpn = 'selfhst-ovpn-light';
     case Owncast = 'selfhst-owncast-light';
     case Owncloud = 'selfhst-owncloud-light';
+    case Ownfoil = 'selfhst-ownfoil-light';
     case Owntone = 'selfhst-owntone-light';
     case Owntracks = 'selfhst-owntracks-light';
     case Oxicloud = 'selfhst-oxicloud-light';
@@ -1595,6 +1601,7 @@ enum SelfhstLight: string
     case Protondb = 'selfhst-protondb-light';
     case Prowlarr = 'selfhst-prowlarr-light';
     case ProwlarrRadarr = 'selfhst-prowlarr-radarr-light';
+    case Proxcenter = 'selfhst-proxcenter-light';
     case Proxmenux = 'selfhst-proxmenux-light';
     case Proxmox = 'selfhst-proxmox-light';
     case ProxmoxHelperScripts = 'selfhst-proxmox-helper-scripts-light';
@@ -1676,6 +1683,7 @@ enum SelfhstLight: string
     case Reaparr = 'selfhst-reaparr-light';
     case ReceiptWrangler = 'selfhst-receipt-wrangler-light';
     case Recipesage = 'selfhst-recipesage-light';
+    case Reclaimerr = 'selfhst-reclaimerr-light';
     case Recyclarr = 'selfhst-recyclarr-light';
     case Reddit = 'selfhst-reddit-light';
     case RedditDownvote = 'selfhst-reddit-downvote-light';
@@ -1805,6 +1813,7 @@ enum SelfhstLight: string
     case Simpledms = 'selfhst-simpledms-light';
     case Simplelogin = 'selfhst-simplelogin-light';
     case SimplexChat = 'selfhst-simplex-chat-light';
+    case Sipeed = 'selfhst-sipeed-light';
     case Siyuan = 'selfhst-siyuan-light';
     case Skyshowtime = 'selfhst-skyshowtime-light';
     case Slack = 'selfhst-slack-light';
@@ -1813,6 +1822,7 @@ enum SelfhstLight: string
     case Slickdeals = 'selfhst-slickdeals-light';
     case Slotpoll = 'selfhst-slotpoll-light';
     case Slskd = 'selfhst-slskd-light';
+    case Smallstep = 'selfhst-smallstep-light';
     case Smartfox = 'selfhst-smartfox-light';
     case Smlight = 'selfhst-smlight-light';
     case Snapcast = 'selfhst-snapcast-light';
@@ -2077,6 +2087,7 @@ enum SelfhstLight: string
     case Versity = 'selfhst-versity-light';
     case Vert = 'selfhst-vert-light';
     case VertigoComics = 'selfhst-vertigo-comics-light';
+    case Vertiv = 'selfhst-vertiv-light';
     case Viaplay = 'selfhst-viaplay-light';
     case Victoriametrics = 'selfhst-victoriametrics-light';
     case Vidzy = 'selfhst-vidzy-light';
@@ -2128,6 +2139,7 @@ enum SelfhstLight: string
     case Weaviate = 'selfhst-weaviate-light';
     case WebCheck = 'selfhst-web-check-light';
     case Webgazer = 'selfhst-webgazer-light';
+    case WebhookTester = 'selfhst-webhook-tester-light';
     case Weblate = 'selfhst-weblate-light';
     case Webmin = 'selfhst-webmin-light';
     case Websocket = 'selfhst-websocket-light';

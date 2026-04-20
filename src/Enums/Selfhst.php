@@ -241,6 +241,7 @@ enum Selfhst: string
     case Caderno = 'selfhst-caderno';
     case Cadvisor = 'selfhst-cadvisor';
     case CalCom = 'selfhst-cal-com';
+    case Calagopus = 'selfhst-calagopus';
     case Calibre = 'selfhst-calibre';
     case CalibreWeb = 'selfhst-calibre-web';
     case Calmness = 'selfhst-calmness';
@@ -333,6 +334,7 @@ enum Selfhst: string
     case ContainerHub = 'selfhst-container-hub';
     case Containerssh = 'selfhst-containerssh';
     case Contao = 'selfhst-contao';
+    case Continuwuity = 'selfhst-continuwuity';
     case ControlD = 'selfhst-control-d';
     case Converse = 'selfhst-converse';
     case Convos = 'selfhst-convos';
@@ -756,6 +758,7 @@ enum Selfhst: string
     case HarborGuard = 'selfhst-harbor-guard';
     case HarborScale = 'selfhst-harbor-scale';
     case Hardcover = 'selfhst-hardcover';
+    case Hashicorp = 'selfhst-hashicorp';
     case HashicorpBoundary = 'selfhst-hashicorp-boundary';
     case HashicorpConsul = 'selfhst-hashicorp-consul';
     case HashicorpNomad = 'selfhst-hashicorp-nomad';
@@ -1091,6 +1094,8 @@ enum Selfhst: string
     case ManyNotes = 'selfhst-many-notes';
     case Mariadb = 'selfhst-mariadb';
     case Markstack = 'selfhst-markstack';
+    case Marp = 'selfhst-marp';
+    case Marpui = 'selfhst-marpui';
     case Marreta = 'selfhst-marreta';
     case Mashable = 'selfhst-mashable';
     case Mastercard = 'selfhst-mastercard';
@@ -1478,6 +1483,7 @@ enum Selfhst: string
     case Owlistic = 'selfhst-owlistic';
     case Owncast = 'selfhst-owncast';
     case Owncloud = 'selfhst-owncloud';
+    case Ownfoil = 'selfhst-ownfoil';
     case Owntone = 'selfhst-owntone';
     case Owntracks = 'selfhst-owntracks';
     case Oxicloud = 'selfhst-oxicloud';
@@ -1653,6 +1659,7 @@ enum Selfhst: string
     case Protondb = 'selfhst-protondb';
     case Prowlarr = 'selfhst-prowlarr';
     case ProwlarrRadarr = 'selfhst-prowlarr-radarr';
+    case Proxcenter = 'selfhst-proxcenter';
     case Proxmenux = 'selfhst-proxmenux';
     case Proxmox = 'selfhst-proxmox';
     case ProxmoxHelperScripts = 'selfhst-proxmox-helper-scripts';
@@ -1738,6 +1745,7 @@ enum Selfhst: string
     case Reaparr = 'selfhst-reaparr';
     case ReceiptWrangler = 'selfhst-receipt-wrangler';
     case Recipesage = 'selfhst-recipesage';
+    case Reclaimerr = 'selfhst-reclaimerr';
     case Recyclarr = 'selfhst-recyclarr';
     case Reddit = 'selfhst-reddit';
     case RedditDownvote = 'selfhst-reddit-downvote';
@@ -1872,6 +1880,7 @@ enum Selfhst: string
     case Simpledms = 'selfhst-simpledms';
     case Simplelogin = 'selfhst-simplelogin';
     case SimplexChat = 'selfhst-simplex-chat';
+    case Sipeed = 'selfhst-sipeed';
     case Siyuan = 'selfhst-siyuan';
     case Skyshowtime = 'selfhst-skyshowtime';
     case Slack = 'selfhst-slack';
@@ -1880,6 +1889,7 @@ enum Selfhst: string
     case Slickdeals = 'selfhst-slickdeals';
     case Slotpoll = 'selfhst-slotpoll';
     case Slskd = 'selfhst-slskd';
+    case Smallstep = 'selfhst-smallstep';
     case Smartfox = 'selfhst-smartfox';
     case Smlight = 'selfhst-smlight';
     case Snapcast = 'selfhst-snapcast';
@@ -2152,6 +2162,7 @@ enum Selfhst: string
     case Versity = 'selfhst-versity';
     case Vert = 'selfhst-vert';
     case VertigoComics = 'selfhst-vertigo-comics';
+    case Vertiv = 'selfhst-vertiv';
     case Viaplay = 'selfhst-viaplay';
     case Victoriametrics = 'selfhst-victoriametrics';
     case Vidzy = 'selfhst-vidzy';
@@ -2206,6 +2217,7 @@ enum Selfhst: string
     case Weaviate = 'selfhst-weaviate';
     case WebCheck = 'selfhst-web-check';
     case Webgazer = 'selfhst-webgazer';
+    case WebhookTester = 'selfhst-webhook-tester';
     case Weblate = 'selfhst-weblate';
     case Webmin = 'selfhst-webmin';
     case Websocket = 'selfhst-websocket';
