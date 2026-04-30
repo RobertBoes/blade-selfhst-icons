@@ -128,6 +128,7 @@ enum Selfhst: string
     case Arrmatey = 'selfhst-arrmatey';
     case ArsTechnica = 'selfhst-ars-technica';
     case Asciinema = 'selfhst-asciinema';
+    case Ashim = 'selfhst-ashim';
     case AspNetCore = 'selfhst-asp-net-core';
     case Asrock = 'selfhst-asrock';
     case Asterisk = 'selfhst-asterisk';
@@ -262,6 +263,7 @@ enum Selfhst: string
     case Centos = 'selfhst-centos';
     case Ceph = 'selfhst-ceph';
     case Cerbos = 'selfhst-cerbos';
+    case Certimate = 'selfhst-certimate';
     case Changedetection = 'selfhst-changedetection';
     case ChangelogNightly = 'selfhst-changelog-nightly';
     case ChannelsDvr = 'selfhst-channels-dvr';
@@ -385,6 +387,7 @@ enum Selfhst: string
     case Databasus = 'selfhst-databasus';
     case Datadog = 'selfhst-datadog';
     case Datapup = 'selfhst-datapup';
+    case Datasette = 'selfhst-datasette';
     case Davical = 'selfhst-davical';
     case Dawarich = 'selfhst-dawarich';
     case Daylog = 'selfhst-daylog';
@@ -397,6 +400,7 @@ enum Selfhst: string
     case Deezer = 'selfhst-deezer';
     case Defguard = 'selfhst-defguard';
     case Degoog = 'selfhst-degoog';
+    case Dell = 'selfhst-dell';
     case DeltaAirLines = 'selfhst-delta-air-lines';
     case DeltaChat = 'selfhst-delta-chat';
     case Deluge = 'selfhst-deluge';
@@ -407,6 +411,7 @@ enum Selfhst: string
     case DfirIris = 'selfhst-dfir-iris';
     case Dflow = 'selfhst-dflow';
     case Dhl = 'selfhst-dhl';
+    case Dify = 'selfhst-dify';
     case Digikam = 'selfhst-digikam';
     case Digitalocean = 'selfhst-digitalocean';
     case Dillinger = 'selfhst-dillinger';
@@ -541,6 +546,7 @@ enum Selfhst: string
     case Fastgpt = 'selfhst-fastgpt';
     case Fastmail = 'selfhst-fastmail';
     case Fava = 'selfhst-fava';
+    case Faved = 'selfhst-faved';
     case Fedex = 'selfhst-fedex';
     case Fediverse = 'selfhst-fediverse';
     case Fedora = 'selfhst-fedora';
@@ -588,6 +594,7 @@ enum Selfhst: string
     case Flashpaper = 'selfhst-flashpaper';
     case Flathub = 'selfhst-flathub';
     case Flatnotes = 'selfhst-flatnotes';
+    case FleetDm = 'selfhst-fleet-dm';
     case FliSo = 'selfhst-fli-so';
     case Flightradar24 = 'selfhst-flightradar24';
     case Flint = 'selfhst-flint';
@@ -741,10 +748,12 @@ enum Selfhst: string
     case Grav = 'selfhst-grav';
     case Grayjay = 'selfhst-grayjay';
     case Graylog = 'selfhst-graylog';
+    case Grimmory = 'selfhst-grimmory';
     case Grimoire = 'selfhst-grimoire';
     case Grist = 'selfhst-grist';
     case Grocy = 'selfhst-grocy';
     case Grok = 'selfhst-grok';
+    case Groly = 'selfhst-groly';
     case Growchief = 'selfhst-growchief';
     case Gryt = 'selfhst-gryt';
     case GuardianPlex = 'selfhst-guardian-plex';
@@ -841,6 +850,7 @@ enum Selfhst: string
     case ImmichKiosk = 'selfhst-immich-kiosk';
     case ImmichPowerTools = 'selfhst-immich-power-tools';
     case ImmichPublicProxy = 'selfhst-immich-public-proxy';
+    case Inexogy = 'selfhst-inexogy';
     case Infisical = 'selfhst-infisical';
     case Influxdb = 'selfhst-influxdb';
     case InitiativeProjectManagement = 'selfhst-initiative-project-management';
@@ -1339,6 +1349,7 @@ enum Selfhst: string
     case NodecastTv = 'selfhst-nodecast-tv';
     case Nodecosmos = 'selfhst-nodecosmos';
     case Nodemailer = 'selfhst-nodemailer';
+    case Nodyx = 'selfhst-nodyx';
     case NomadTravel = 'selfhst-nomad-travel';
     case Nordvpn = 'selfhst-nordvpn';
     case Norish = 'selfhst-norish';
@@ -1494,6 +1505,7 @@ enum Selfhst: string
     case Pandora = 'selfhst-pandora';
     case Pango = 'selfhst-pango';
     case Pangolin = 'selfhst-pangolin';
+    case PaperclipAi = 'selfhst-paperclip-ai';
     case PaperlessHome = 'selfhst-paperless-home';
     case PaperlessNgx = 'selfhst-paperless-ngx';
     case Papermark = 'selfhst-papermark';
@@ -1611,6 +1623,7 @@ enum Selfhst: string
     case Poeticmetric = 'selfhst-poeticmetric';
     case Pogocache = 'selfhst-pogocache';
     case Polaris = 'selfhst-polaris';
+    case Pomerium = 'selfhst-pomerium';
     case Porkbun = 'selfhst-porkbun';
     case Portabase = 'selfhst-portabase';
     case Portainer = 'selfhst-portainer';
@@ -2049,6 +2062,7 @@ enum Selfhst: string
     case TiesLinkSharing = 'selfhst-ties-link-sharing';
     case Tiktok = 'selfhst-tiktok';
     case Tillywork = 'selfhst-tillywork';
+    case Timeful = 'selfhst-timeful';
     case Timesy = 'selfhst-timesy';
     case Timetagger = 'selfhst-timetagger';
     case Timetracker = 'selfhst-timetracker';
@@ -2202,6 +2216,7 @@ enum Selfhst: string
     case Walmart = 'selfhst-walmart';
     case Wanderer = 'selfhst-wanderer';
     case WapyDev = 'selfhst-wapy-dev';
+    case Wardrowbe = 'selfhst-wardrowbe';
     case Warpgate = 'selfhst-warpgate';
     case Warracker = 'selfhst-warracker';
     case Wastebin = 'selfhst-wastebin';
@@ -2320,6 +2335,7 @@ enum Selfhst: string
     case ZorinOs = 'selfhst-zorin-os';
     case ZotRegistry = 'selfhst-zot-registry';
     case Zotero = 'selfhst-zotero';
+    case Zrok = 'selfhst-zrok';
     case Zublo = 'selfhst-zublo';
     case Zulip = 'selfhst-zulip';
 }
