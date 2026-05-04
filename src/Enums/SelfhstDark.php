@@ -498,6 +498,7 @@ enum SelfhstDark: string
     case Ergo = 'selfhst-ergo-dark';
     case Ersatztv = 'selfhst-ersatztv-dark';
     case Erugo = 'selfhst-erugo-dark';
+    case Espconnect = 'selfhst-espconnect-dark';
     case Esphome = 'selfhst-esphome-dark';
     case Espocrm = 'selfhst-espocrm-dark';
     case EternalVows = 'selfhst-eternal-vows-dark';
