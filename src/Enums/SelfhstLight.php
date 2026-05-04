@@ -498,6 +498,7 @@ enum SelfhstLight: string
     case Ergo = 'selfhst-ergo-light';
     case Ersatztv = 'selfhst-ersatztv-light';
     case Erugo = 'selfhst-erugo-light';
+    case Espconnect = 'selfhst-espconnect-light';
     case Esphome = 'selfhst-esphome-light';
     case Espocrm = 'selfhst-espocrm-light';
     case EternalVows = 'selfhst-eternal-vows-light';

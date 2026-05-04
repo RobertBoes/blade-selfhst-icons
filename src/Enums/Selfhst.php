@@ -522,6 +522,7 @@ enum Selfhst: string
     case Ergo = 'selfhst-ergo';
     case Ersatztv = 'selfhst-ersatztv';
     case Erugo = 'selfhst-erugo';
+    case Espconnect = 'selfhst-espconnect';
     case Esphome = 'selfhst-esphome';
     case Espocrm = 'selfhst-espocrm';
     case EternalVows = 'selfhst-eternal-vows';
