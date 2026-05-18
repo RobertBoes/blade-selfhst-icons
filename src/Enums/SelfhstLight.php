@@ -40,6 +40,7 @@ enum SelfhstLight: string
     case AgentZero = 'selfhst-agent-zero-light';
     case Agregarr = 'selfhst-agregarr-light';
     case Aiostreams = 'selfhst-aiostreams-light';
+    case Airpipe = 'selfhst-airpipe-light';
     case Airsonic = 'selfhst-airsonic-light';
     case Airtable = 'selfhst-airtable-light';
     case Akaunting = 'selfhst-akaunting-light';
@@ -239,6 +240,7 @@ enum SelfhstLight: string
     case Calagopus = 'selfhst-calagopus-light';
     case CalibreWeb = 'selfhst-calibre-web-light';
     case Calmness = 'selfhst-calmness-light';
+    case Capacitarr = 'selfhst-capacitarr-light';
     case CapacitorRuntime = 'selfhst-capacitor-runtime-light';
     case Capcut = 'selfhst-capcut-light';
     case CapitalOne = 'selfhst-capital-one-light';
@@ -967,6 +969,7 @@ enum SelfhstLight: string
     case Latex = 'selfhst-latex-light';
     case Laudspeaker = 'selfhst-laudspeaker-light';
     case Ldap = 'selfhst-ldap-light';
+    case Leafwiki = 'selfhst-leafwiki-light';
     case Leantime = 'selfhst-leantime-light';
     case Lemmy = 'selfhst-lemmy-light';
     case LetsEncrypt = 'selfhst-lets-encrypt-light';
@@ -1019,6 +1022,7 @@ enum SelfhstLight: string
     case Loandash = 'selfhst-loandash-light';
     case LobeChat = 'selfhst-lobe-chat-light';
     case Lobehub = 'selfhst-lobehub-light';
+    case LocalContentShare = 'selfhst-local-content-share-light';
     case Localess = 'selfhst-localess-light';
     case Localsend = 'selfhst-localsend-light';
     case Lodestone = 'selfhst-lodestone-light';
@@ -1299,6 +1303,7 @@ enum SelfhstLight: string
     case Nodemailer = 'selfhst-nodemailer-light';
     case Nodyx = 'selfhst-nodyx-light';
     case NomadTravel = 'selfhst-nomad-travel-light';
+    case NoodleGallery = 'selfhst-noodle-gallery-light';
     case Nordvpn = 'selfhst-nordvpn-light';
     case Norish = 'selfhst-norish-light';
     case NoteMark = 'selfhst-note-mark-light';
@@ -1935,6 +1940,7 @@ enum SelfhstLight: string
     case Suwayomi = 'selfhst-suwayomi-light';
     case Swagger = 'selfhst-swagger-light';
     case Swarmpit = 'selfhst-swarmpit-light';
+    case Swetrix = 'selfhst-swetrix-light';
     case Swiish = 'selfhst-swiish-light';
     case SwingMusic = 'selfhst-swing-music-light';
     case Swiparr = 'selfhst-swiparr-light';
@@ -2023,6 +2029,7 @@ enum SelfhstLight: string
     case TransferZip = 'selfhst-transfer-zip-light';
     case Transmission = 'selfhst-transmission-light';
     case Transmute = 'selfhst-transmute-light';
+    case Travstats = 'selfhst-travstats-light';
     case Trek = 'selfhst-trek-light';
     case Trello = 'selfhst-trello-light';
     case TriliumDeprecated = 'selfhst-trilium-deprecated-light';
@@ -2239,6 +2246,7 @@ enum SelfhstLight: string
     case Zabbix = 'selfhst-zabbix-light';
     case Zammad = 'selfhst-zammad-light';
     case Zaneops = 'selfhst-zaneops-light';
+    case Zed = 'selfhst-zed-light';
     case ZenNotes = 'selfhst-zen-notes-light';
     case Zensical = 'selfhst-zensical-light';
     case Zerobyte = 'selfhst-zerobyte-light';
