@@ -268,6 +268,7 @@ enum SelfhstDark: string
     case Chili3d = 'selfhst-chili3d-dark';
     case Chirpy = 'selfhst-chirpy-dark';
     case Chitchatter = 'selfhst-chitchatter-dark';
+    case Chorizard = 'selfhst-chorizard-dark';
     case Chromium = 'selfhst-chromium-dark';
     case Cilium = 'selfhst-cilium-dark';
     case CiliumHubble = 'selfhst-cilium-hubble-dark';
@@ -359,6 +360,7 @@ enum SelfhstDark: string
     case CuratorBookmarks = 'selfhst-curator-bookmarks-dark';
     case Cyberchef = 'selfhst-cyberchef-dark';
     case Cypht = 'selfhst-cypht-dark';
+    case Dadabik = 'selfhst-dadabik-dark';
     case DaemonSync = 'selfhst-daemon-sync-dark';
     case Dagster = 'selfhst-dagster-dark';
     case Dagu = 'selfhst-dagu-dark';
@@ -1527,6 +1529,7 @@ enum SelfhstDark: string
     case Pinepods = 'selfhst-pinepods-dark';
     case PingoraProxyManager = 'selfhst-pingora-proxy-manager-dark';
     case PingvinShare = 'selfhst-pingvin-share-dark';
+    case PingvinShareX = 'selfhst-pingvin-share-x-dark';
     case Pinkary = 'selfhst-pinkary-dark';
     case Pinterest = 'selfhst-pinterest-dark';
     case Piped = 'selfhst-piped-dark';

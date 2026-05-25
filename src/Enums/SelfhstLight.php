@@ -268,6 +268,7 @@ enum SelfhstLight: string
     case Chili3d = 'selfhst-chili3d-light';
     case Chirpy = 'selfhst-chirpy-light';
     case Chitchatter = 'selfhst-chitchatter-light';
+    case Chorizard = 'selfhst-chorizard-light';
     case Chromium = 'selfhst-chromium-light';
     case Cilium = 'selfhst-cilium-light';
     case CiliumHubble = 'selfhst-cilium-hubble-light';
@@ -359,6 +360,7 @@ enum SelfhstLight: string
     case CuratorBookmarks = 'selfhst-curator-bookmarks-light';
     case Cyberchef = 'selfhst-cyberchef-light';
     case Cypht = 'selfhst-cypht-light';
+    case Dadabik = 'selfhst-dadabik-light';
     case DaemonSync = 'selfhst-daemon-sync-light';
     case Dagster = 'selfhst-dagster-light';
     case Dagu = 'selfhst-dagu-light';
@@ -1528,6 +1530,7 @@ enum SelfhstLight: string
     case Pinepods = 'selfhst-pinepods-light';
     case PingoraProxyManager = 'selfhst-pingora-proxy-manager-light';
     case PingvinShare = 'selfhst-pingvin-share-light';
+    case PingvinShareX = 'selfhst-pingvin-share-x-light';
     case Pinkary = 'selfhst-pinkary-light';
     case Pinterest = 'selfhst-pinterest-light';
     case Piped = 'selfhst-piped-light';
