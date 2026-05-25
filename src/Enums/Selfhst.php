@@ -283,6 +283,7 @@ enum Selfhst: string
     case Chili3d = 'selfhst-chili3d';
     case Chirpy = 'selfhst-chirpy';
     case Chitchatter = 'selfhst-chitchatter';
+    case Chorizard = 'selfhst-chorizard';
     case ChromeCanary = 'selfhst-chrome-canary';
     case Chromium = 'selfhst-chromium';
     case Cilium = 'selfhst-cilium';
@@ -377,6 +378,7 @@ enum Selfhst: string
     case Cyberchef = 'selfhst-cyberchef';
     case Cypht = 'selfhst-cypht';
     case Czkawka = 'selfhst-czkawka';
+    case Dadabik = 'selfhst-dadabik';
     case DaemonSync = 'selfhst-daemon-sync';
     case Dagster = 'selfhst-dagster';
     case Dagu = 'selfhst-dagu';
@@ -1585,6 +1587,7 @@ enum Selfhst: string
     case Pinepods = 'selfhst-pinepods';
     case PingoraProxyManager = 'selfhst-pingora-proxy-manager';
     case PingvinShare = 'selfhst-pingvin-share';
+    case PingvinShareX = 'selfhst-pingvin-share-x';
     case Pinkary = 'selfhst-pinkary';
     case Pinterest = 'selfhst-pinterest';
     case Piped = 'selfhst-piped';
