@@ -159,8 +159,10 @@ enum Selfhst: string
     case Autokitteh = 'selfhst-autokitteh';
     case Automad = 'selfhst-automad';
     case Automatic1111 = 'selfhst-automatic1111';
+    case Aviato = 'selfhst-aviato';
     case Azirevpn = 'selfhst-azirevpn';
     case Azuracast = 'selfhst-azuracast';
+    case AzureDevops = 'selfhst-azure-devops';
     case BabyBuddy = 'selfhst-baby-buddy';
     case Backblaze = 'selfhst-backblaze';
     case Backrest = 'selfhst-backrest';
@@ -1101,6 +1103,7 @@ enum Selfhst: string
     case Mailgun = 'selfhst-mailgun';
     case Mailjet = 'selfhst-mailjet';
     case Mailpit = 'selfhst-mailpit';
+    case Mailstore = 'selfhst-mailstore';
     case Mainsail = 'selfhst-mainsail';
     case Maintainerr = 'selfhst-maintainerr';
     case Maintenant = 'selfhst-maintenant';
@@ -1261,6 +1264,7 @@ enum Selfhst: string
     case MozillaMonitor = 'selfhst-mozilla-monitor';
     case MozillaVpn = 'selfhst-mozilla-vpn';
     case Mqtt = 'selfhst-mqtt';
+    case Mqttx = 'selfhst-mqttx';
     case MullvadVpn = 'selfhst-mullvad-vpn';
     case MultiScrobbler = 'selfhst-multi-scrobbler';
     case Mumble = 'selfhst-mumble';
@@ -1336,6 +1340,7 @@ enum Selfhst: string
     case Nexterm = 'selfhst-nexterm';
     case Nextexplorer = 'selfhst-nextexplorer';
     case Nextpvr = 'selfhst-nextpvr';
+    case Nezha = 'selfhst-nezha';
     case Nforwardauth = 'selfhst-nforwardauth';
     case Nginx = 'selfhst-nginx';
     case NginxProxyManager = 'selfhst-nginx-proxy-manager';
@@ -1753,6 +1758,7 @@ enum Selfhst: string
     case RaspberryPi = 'selfhst-raspberry-pi';
     case Rauthy = 'selfhst-rauthy';
     case Raycast = 'selfhst-raycast';
+    case RaygunMonitoring = 'selfhst-raygun-monitoring';
     case Razer = 'selfhst-razer';
     case Rclone = 'selfhst-rclone';
     case ReCommand = 'selfhst-re-command';
@@ -1850,6 +1856,7 @@ enum Selfhst: string
     case Scanopy = 'selfhst-scanopy';
     case ScatolaMagica = 'selfhst-scatola-magica';
     case SchneiderElectric = 'selfhst-schneider-electric';
+    case Scholarsome = 'selfhst-scholarsome';
     case Schoolmessenger = 'selfhst-schoolmessenger';
     case Scraparr = 'selfhst-scraparr';
     case ScratchMap = 'selfhst-scratch-map';
@@ -1906,6 +1913,8 @@ enum Selfhst: string
     case SimplexChat = 'selfhst-simplex-chat';
     case Sipeed = 'selfhst-sipeed';
     case Siyuan = 'selfhst-siyuan';
+    case SkyliteUx = 'selfhst-skylite-ux';
+    case Skysend = 'selfhst-skysend';
     case Skyshowtime = 'selfhst-skyshowtime';
     case Slack = 'selfhst-slack';
     case Slash = 'selfhst-slash';
@@ -2085,6 +2094,7 @@ enum Selfhst: string
     case Tldraw = 'selfhst-tldraw';
     case Tmdb = 'selfhst-tmdb';
     case Todoist = 'selfhst-todoist';
+    case Tolgee = 'selfhst-tolgee';
     case Toodoom = 'selfhst-toodoom';
     case Tooljet = 'selfhst-tooljet';
     case Tor = 'selfhst-tor';
