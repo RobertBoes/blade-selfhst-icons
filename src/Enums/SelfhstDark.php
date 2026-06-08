@@ -138,6 +138,7 @@ enum SelfhstDark: string
     case Atlasnode = 'selfhst-atlasnode-dark';
     case AtomicCrm = 'selfhst-atomic-crm-dark';
     case Atria = 'selfhst-atria-dark';
+    case AtticAssets = 'selfhst-attic-assets-dark';
     case Atuin = 'selfhst-atuin-dark';
     case Audacity = 'selfhst-audacity-dark';
     case Audible = 'selfhst-audible-dark';
@@ -210,6 +211,7 @@ enum SelfhstDark: string
     case Bookheaven = 'selfhst-bookheaven-dark';
     case Booklogr = 'selfhst-booklogr-dark';
     case Booklore = 'selfhst-booklore-dark';
+    case Bookorbit = 'selfhst-bookorbit-dark';
     case Bookstack = 'selfhst-bookstack-dark';
     case BoostMobile = 'selfhst-boost-mobile-dark';
     case Borg = 'selfhst-borg-dark';
@@ -1928,6 +1930,7 @@ enum SelfhstDark: string
     case Stripe = 'selfhst-stripe-dark';
     case Stump = 'selfhst-stump-dark';
     case Stylus = 'selfhst-stylus-dark';
+    case Subarr = 'selfhst-subarr-dark';
     case Subatic = 'selfhst-subatic-dark';
     case Subtrackr = 'selfhst-subtrackr-dark';
     case Suggestarr = 'selfhst-suggestarr-dark';
@@ -2029,6 +2032,7 @@ enum SelfhstDark: string
     case Tradetally = 'selfhst-tradetally-dark';
     case Tradingview = 'selfhst-tradingview-dark';
     case Traefik = 'selfhst-traefik-dark';
+    case TraefikManager = 'selfhst-traefik-manager-dark';
     case Trailarr = 'selfhst-trailarr-dark';
     case Trakt = 'selfhst-trakt-dark';
     case TransferZip = 'selfhst-transfer-zip-dark';

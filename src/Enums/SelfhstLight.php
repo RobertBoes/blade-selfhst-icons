@@ -138,6 +138,7 @@ enum SelfhstLight: string
     case Atlasnode = 'selfhst-atlasnode-light';
     case AtomicCrm = 'selfhst-atomic-crm-light';
     case Atria = 'selfhst-atria-light';
+    case AtticAssets = 'selfhst-attic-assets-light';
     case Atuin = 'selfhst-atuin-light';
     case Audacity = 'selfhst-audacity-light';
     case Audible = 'selfhst-audible-light';
@@ -210,6 +211,7 @@ enum SelfhstLight: string
     case Bookheaven = 'selfhst-bookheaven-light';
     case Booklogr = 'selfhst-booklogr-light';
     case Booklore = 'selfhst-booklore-light';
+    case Bookorbit = 'selfhst-bookorbit-light';
     case Bookstack = 'selfhst-bookstack-light';
     case BoostMobile = 'selfhst-boost-mobile-light';
     case Borg = 'selfhst-borg-light';
@@ -1935,6 +1937,7 @@ enum SelfhstLight: string
     case Stripe = 'selfhst-stripe-light';
     case Stump = 'selfhst-stump-light';
     case Stylus = 'selfhst-stylus-light';
+    case Subarr = 'selfhst-subarr-light';
     case Subatic = 'selfhst-subatic-light';
     case Subtrackr = 'selfhst-subtrackr-light';
     case Suggestarr = 'selfhst-suggestarr-light';
@@ -2036,6 +2039,7 @@ enum SelfhstLight: string
     case Tradetally = 'selfhst-tradetally-light';
     case Tradingview = 'selfhst-tradingview-light';
     case Traefik = 'selfhst-traefik-light';
+    case TraefikManager = 'selfhst-traefik-manager-light';
     case Trailarr = 'selfhst-trailarr-light';
     case Trakt = 'selfhst-trakt-light';
     case TransferZip = 'selfhst-transfer-zip-light';

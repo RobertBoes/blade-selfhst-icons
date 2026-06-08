@@ -141,6 +141,7 @@ enum Selfhst: string
     case Atlasnode = 'selfhst-atlasnode';
     case AtomicCrm = 'selfhst-atomic-crm';
     case Atria = 'selfhst-atria';
+    case AtticAssets = 'selfhst-attic-assets';
     case Atuin = 'selfhst-atuin';
     case Audacity = 'selfhst-audacity';
     case Audible = 'selfhst-audible';
@@ -215,6 +216,7 @@ enum Selfhst: string
     case Bookheaven = 'selfhst-bookheaven';
     case Booklogr = 'selfhst-booklogr';
     case Booklore = 'selfhst-booklore';
+    case Bookorbit = 'selfhst-bookorbit';
     case Bookstack = 'selfhst-bookstack';
     case Bookwyrm = 'selfhst-bookwyrm';
     case BoostMobile = 'selfhst-boost-mobile';
@@ -1387,6 +1389,7 @@ enum Selfhst: string
     case Ntfy = 'selfhst-ntfy';
     case Nummo = 'selfhst-nummo';
     case Nutalert = 'selfhst-nutalert';
+    case Nutritrace = 'selfhst-nutritrace';
     case Nuxt = 'selfhst-nuxt';
     case Nvidia = 'selfhst-nvidia';
     case NxWitness = 'selfhst-nx-witness';
@@ -2009,6 +2012,7 @@ enum Selfhst: string
     case Stripe = 'selfhst-stripe';
     case Stump = 'selfhst-stump';
     case Stylus = 'selfhst-stylus';
+    case Subarr = 'selfhst-subarr';
     case Subatic = 'selfhst-subatic';
     case Subtrackr = 'selfhst-subtrackr';
     case Suggestarr = 'selfhst-suggestarr';
@@ -2112,6 +2116,7 @@ enum Selfhst: string
     case Tradetally = 'selfhst-tradetally';
     case Tradingview = 'selfhst-tradingview';
     case Traefik = 'selfhst-traefik';
+    case TraefikManager = 'selfhst-traefik-manager';
     case Trailarr = 'selfhst-trailarr';
     case Trakt = 'selfhst-trakt';
     case TransferZip = 'selfhst-transfer-zip';
