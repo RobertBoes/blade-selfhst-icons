@@ -1389,7 +1389,6 @@ enum Selfhst: string
     case Ntfy = 'selfhst-ntfy';
     case Nummo = 'selfhst-nummo';
     case Nutalert = 'selfhst-nutalert';
-    case Nutritrace = 'selfhst-nutritrace';
     case Nuxt = 'selfhst-nuxt';
     case Nvidia = 'selfhst-nvidia';
     case NxWitness = 'selfhst-nx-witness';
@@ -1426,6 +1425,7 @@ enum Selfhst: string
     case Omada = 'selfhst-omada';
     case Ombi = 'selfhst-ombi';
     case Omnipoly = 'selfhst-omnipoly';
+    case Omniroute = 'selfhst-omniroute';
     case Omnivore = 'selfhst-omnivore';
     case Omnom = 'selfhst-omnom';
     case OneHub = 'selfhst-one-hub';
@@ -1443,6 +1443,7 @@ enum Selfhst: string
     case OpenWebui = 'selfhst-open-webui';
     case Openadserver = 'selfhst-openadserver';
     case Openai = 'selfhst-openai';
+    case Openaudible = 'selfhst-openaudible';
     case Openbao = 'selfhst-openbao';
     case Openbooks = 'selfhst-openbooks';
     case Openccu = 'selfhst-openccu';
@@ -2342,6 +2343,7 @@ enum Selfhst: string
     case Yugabytedb = 'selfhst-yugabytedb';
     case Yundera = 'selfhst-yundera';
     case Yunohost = 'selfhst-yunohost';
+    case Yuvomi = 'selfhst-yuvomi';
     case ZWave = 'selfhst-z-wave';
     case ZWaveJsUi = 'selfhst-z-wave-js-ui';
     case Zabbix = 'selfhst-zabbix';

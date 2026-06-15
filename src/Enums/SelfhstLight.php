@@ -1370,6 +1370,7 @@ enum SelfhstLight: string
     case Omada = 'selfhst-omada-light';
     case Ombi = 'selfhst-ombi-light';
     case Omnipoly = 'selfhst-omnipoly-light';
+    case Omniroute = 'selfhst-omniroute-light';
     case Omnivore = 'selfhst-omnivore-light';
     case Omnom = 'selfhst-omnom-light';
     case OneHub = 'selfhst-one-hub-light';
@@ -1387,6 +1388,7 @@ enum SelfhstLight: string
     case OpenWebui = 'selfhst-open-webui-light';
     case Openadserver = 'selfhst-openadserver-light';
     case Openai = 'selfhst-openai-light';
+    case Openaudible = 'selfhst-openaudible-light';
     case Openbao = 'selfhst-openbao-light';
     case Openbooks = 'selfhst-openbooks-light';
     case Openccu = 'selfhst-openccu-light';
@@ -2257,6 +2259,7 @@ enum SelfhstLight: string
     case Yugabytedb = 'selfhst-yugabytedb-light';
     case Yundera = 'selfhst-yundera-light';
     case Yunohost = 'selfhst-yunohost-light';
+    case Yuvomi = 'selfhst-yuvomi-light';
     case ZWave = 'selfhst-z-wave-light';
     case ZWaveJsUi = 'selfhst-z-wave-js-ui-light';
     case Zabbix = 'selfhst-zabbix-light';
