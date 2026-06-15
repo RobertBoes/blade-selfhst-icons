@@ -1369,6 +1369,7 @@ enum SelfhstDark: string
     case Omada = 'selfhst-omada-dark';
     case Ombi = 'selfhst-ombi-dark';
     case Omnipoly = 'selfhst-omnipoly-dark';
+    case Omniroute = 'selfhst-omniroute-dark';
     case Omnivore = 'selfhst-omnivore-dark';
     case Omnom = 'selfhst-omnom-dark';
     case OneHub = 'selfhst-one-hub-dark';
@@ -1386,6 +1387,7 @@ enum SelfhstDark: string
     case OpenWebui = 'selfhst-open-webui-dark';
     case Openadserver = 'selfhst-openadserver-dark';
     case Openai = 'selfhst-openai-dark';
+    case Openaudible = 'selfhst-openaudible-dark';
     case Openbao = 'selfhst-openbao-dark';
     case Openbooks = 'selfhst-openbooks-dark';
     case Openccu = 'selfhst-openccu-dark';
@@ -2250,6 +2252,7 @@ enum SelfhstDark: string
     case Yugabytedb = 'selfhst-yugabytedb-dark';
     case Yundera = 'selfhst-yundera-dark';
     case Yunohost = 'selfhst-yunohost-dark';
+    case Yuvomi = 'selfhst-yuvomi-dark';
     case ZWave = 'selfhst-z-wave-dark';
     case ZWaveJsUi = 'selfhst-z-wave-js-ui-dark';
     case Zabbix = 'selfhst-zabbix-dark';
