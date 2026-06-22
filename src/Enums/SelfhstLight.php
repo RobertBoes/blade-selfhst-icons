@@ -11,6 +11,7 @@ enum SelfhstLight: string
     case _2fauth = 'selfhst-2fauth-light';
     case _7Zip = 'selfhst-7-zip-light';
     case _8mbLocal = 'selfhst-8mb-local-light';
+    case _9router = 'selfhst-9router-light';
     case Accent = 'selfhst-accent-light';
     case AceStream = 'selfhst-ace-stream-light';
     case Ackee = 'selfhst-ackee-light';
@@ -43,6 +44,7 @@ enum SelfhstLight: string
     case Airpipe = 'selfhst-airpipe-light';
     case Airsonic = 'selfhst-airsonic-light';
     case Airtable = 'selfhst-airtable-light';
+    case Airtrail = 'selfhst-airtrail-light';
     case Akaunting = 'selfhst-akaunting-light';
     case Akkoma = 'selfhst-akkoma-light';
     case Alarmpi = 'selfhst-alarmpi-light';
@@ -58,6 +60,7 @@ enum SelfhstLight: string
     case Altcha = 'selfhst-altcha-light';
     case Alternativeto = 'selfhst-alternativeto-light';
     case Amazon = 'selfhst-amazon-light';
+    case AmazonAlexa = 'selfhst-amazon-alexa-light';
     case AmazonMusic = 'selfhst-amazon-music-light';
     case AmazonPrime = 'selfhst-amazon-prime-light';
     case AmazonPrimeVideo = 'selfhst-amazon-prime-video-light';
@@ -1117,6 +1120,7 @@ enum SelfhstLight: string
     case Mergeable = 'selfhst-mergeable-light';
     case Mergerfs = 'selfhst-mergerfs-light';
     case Mermaid = 'selfhst-mermaid-light';
+    case Meshcore = 'selfhst-meshcore-light';
     case Meshping = 'selfhst-meshping-light';
     case Meshtastic = 'selfhst-meshtastic-light';
     case Meta = 'selfhst-meta-light';
@@ -1157,6 +1161,7 @@ enum SelfhstLight: string
     case MicrosoftOutlook2000 = 'selfhst-microsoft-outlook-2000-light';
     case MicrosoftOutlook2013 = 'selfhst-microsoft-outlook-2013-light';
     case MicrosoftOutlook2018 = 'selfhst-microsoft-outlook-2018-light';
+    case MicrosoftPowerAutomate = 'selfhst-microsoft-power-automate-light';
     case MicrosoftPowerpoint = 'selfhst-microsoft-powerpoint-light';
     case MicrosoftPowerpoint2000 = 'selfhst-microsoft-powerpoint-2000-light';
     case MicrosoftPowerpoint2013 = 'selfhst-microsoft-powerpoint-2013-light';
@@ -1668,6 +1673,7 @@ enum SelfhstLight: string
     case QuietChat = 'selfhst-quiet-chat-light';
     case Qwik = 'selfhst-qwik-light';
     case Rabbitmq = 'selfhst-rabbitmq-light';
+    case Rackpad = 'selfhst-rackpad-light';
     case Rackpeek = 'selfhst-rackpeek-light';
     case Rackula = 'selfhst-rackula-light';
     case Radarr = 'selfhst-radarr-light';
@@ -1730,6 +1736,7 @@ enum SelfhstLight: string
     case Relaticle = 'selfhst-relaticle-light';
     case RelicStorage = 'selfhst-relic-storage-light';
     case Remmina = 'selfhst-remmina-light';
+    case Remoteterm = 'selfhst-remoteterm-light';
     case Removarr = 'selfhst-removarr-light';
     case Reolink = 'selfhst-reolink-light';
     case Replane = 'selfhst-replane-light';
@@ -1873,6 +1880,7 @@ enum SelfhstLight: string
     case Sofe = 'selfhst-sofe-light';
     case Sofi = 'selfhst-sofi-light';
     case Sogo = 'selfhst-sogo-light';
+    case Solarassistant = 'selfhst-solarassistant-light';
     case Solectrus = 'selfhst-solectrus-light';
     case Solidtime = 'selfhst-solidtime-light';
     case Sonarqube = 'selfhst-sonarqube-light';
@@ -1902,6 +1910,7 @@ enum SelfhstLight: string
     case Spliit = 'selfhst-spliit-light';
     case Splitpro = 'selfhst-splitpro-light';
     case Splunk = 'selfhst-splunk-light';
+    case Sponsorblock = 'selfhst-sponsorblock-light';
     case Spoolman = 'selfhst-spoolman-light';
     case Spooty = 'selfhst-spooty-light';
     case Sportarr = 'selfhst-sportarr-light';
@@ -2246,6 +2255,7 @@ enum SelfhstLight: string
     case Yelp = 'selfhst-yelp-light';
     case Ynab = 'selfhst-ynab-light';
     case Yoink = 'selfhst-yoink-light';
+    case Yopass = 'selfhst-yopass-light';
     case YourSpotify = 'selfhst-your-spotify-light';
     case Yourls = 'selfhst-yourls-light';
     case Youtrack = 'selfhst-youtrack-light';

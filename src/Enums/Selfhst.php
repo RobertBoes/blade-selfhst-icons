@@ -11,6 +11,7 @@ enum Selfhst: string
     case _2fauth = 'selfhst-2fauth';
     case _7Zip = 'selfhst-7-zip';
     case _8mbLocal = 'selfhst-8mb-local';
+    case _9router = 'selfhst-9router';
     case Accent = 'selfhst-accent';
     case AceStream = 'selfhst-ace-stream';
     case Ackee = 'selfhst-ackee';
@@ -44,6 +45,7 @@ enum Selfhst: string
     case Airpipe = 'selfhst-airpipe';
     case Airsonic = 'selfhst-airsonic';
     case Airtable = 'selfhst-airtable';
+    case Airtrail = 'selfhst-airtrail';
     case Akaunting = 'selfhst-akaunting';
     case Akkoma = 'selfhst-akkoma';
     case Alarmpi = 'selfhst-alarmpi';
@@ -59,6 +61,7 @@ enum Selfhst: string
     case Altcha = 'selfhst-altcha';
     case Alternativeto = 'selfhst-alternativeto';
     case Amazon = 'selfhst-amazon';
+    case AmazonAlexa = 'selfhst-amazon-alexa';
     case AmazonMusic = 'selfhst-amazon-music';
     case AmazonPrime = 'selfhst-amazon-prime';
     case AmazonPrimeVideo = 'selfhst-amazon-prime-video';
@@ -1166,6 +1169,7 @@ enum Selfhst: string
     case Mergeable = 'selfhst-mergeable';
     case Mergerfs = 'selfhst-mergerfs';
     case Mermaid = 'selfhst-mermaid';
+    case Meshcore = 'selfhst-meshcore';
     case Meshping = 'selfhst-meshping';
     case Meshtastic = 'selfhst-meshtastic';
     case Meta = 'selfhst-meta';
@@ -1196,6 +1200,7 @@ enum Selfhst: string
     case MicrosoftForms = 'selfhst-microsoft-forms';
     case MicrosoftForms2016 = 'selfhst-microsoft-forms-2016';
     case MicrosoftForms2019 = 'selfhst-microsoft-forms-2019';
+    case MicrosoftFoundry = 'selfhst-microsoft-foundry';
     case MicrosoftOffice = 'selfhst-microsoft-office';
     case MicrosoftOnedrive = 'selfhst-microsoft-onedrive';
     case MicrosoftOnedrive2018 = 'selfhst-microsoft-onedrive-2018';
@@ -1206,6 +1211,7 @@ enum Selfhst: string
     case MicrosoftOutlook2000 = 'selfhst-microsoft-outlook-2000';
     case MicrosoftOutlook2013 = 'selfhst-microsoft-outlook-2013';
     case MicrosoftOutlook2018 = 'selfhst-microsoft-outlook-2018';
+    case MicrosoftPowerAutomate = 'selfhst-microsoft-power-automate';
     case MicrosoftPowerpoint = 'selfhst-microsoft-powerpoint';
     case MicrosoftPowerpoint2000 = 'selfhst-microsoft-powerpoint-2000';
     case MicrosoftPowerpoint2013 = 'selfhst-microsoft-powerpoint-2013';
@@ -1731,6 +1737,7 @@ enum Selfhst: string
     case QuietChat = 'selfhst-quiet-chat';
     case Qwik = 'selfhst-qwik';
     case Rabbitmq = 'selfhst-rabbitmq';
+    case Rackpad = 'selfhst-rackpad';
     case Rackpeek = 'selfhst-rackpeek';
     case Rackula = 'selfhst-rackula';
     case Radarr = 'selfhst-radarr';
@@ -1795,6 +1802,7 @@ enum Selfhst: string
     case Relaticle = 'selfhst-relaticle';
     case RelicStorage = 'selfhst-relic-storage';
     case Remmina = 'selfhst-remmina';
+    case Remoteterm = 'selfhst-remoteterm';
     case Removarr = 'selfhst-removarr';
     case Reolink = 'selfhst-reolink';
     case Replane = 'selfhst-replane';
@@ -1943,6 +1951,7 @@ enum Selfhst: string
     case Sofe = 'selfhst-sofe';
     case Sofi = 'selfhst-sofi';
     case Sogo = 'selfhst-sogo';
+    case Solarassistant = 'selfhst-solarassistant';
     case Solectrus = 'selfhst-solectrus';
     case Solidtime = 'selfhst-solidtime';
     case Sonarqube = 'selfhst-sonarqube';
@@ -1974,6 +1983,7 @@ enum Selfhst: string
     case Spliit = 'selfhst-spliit';
     case Splitpro = 'selfhst-splitpro';
     case Splunk = 'selfhst-splunk';
+    case Sponsorblock = 'selfhst-sponsorblock';
     case Spoolman = 'selfhst-spoolman';
     case Spooty = 'selfhst-spooty';
     case Sportarr = 'selfhst-sportarr';
@@ -2330,6 +2340,7 @@ enum Selfhst: string
     case Yelp = 'selfhst-yelp';
     case Ynab = 'selfhst-ynab';
     case Yoink = 'selfhst-yoink';
+    case Yopass = 'selfhst-yopass';
     case YourSpotify = 'selfhst-your-spotify';
     case Yourls = 'selfhst-yourls';
     case Youtrack = 'selfhst-youtrack';
