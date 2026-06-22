@@ -17,24 +17,24 @@ final class BladeSelfhstIconsServiceProvider extends ServiceProvider
         $this->callAfterResolving(Factory::class, function (Factory $factory, Container $container) {
             $config = $container->make('config')->get('blade-selfhst-icons', []);
 
-            $factory->add('selfhst-icons', array_merge(['path' => __DIR__.'/../resources/svg'], $config));
+            $factory->add('selfhst-icons', array_merge(['path' => __DIR__ . '/../resources/svg'], $config));
         });
     }
 
     private function registerConfig(): void
     {
-        $this->mergeConfigFrom(__DIR__.'/../config/blade-selfhst-icons.php', 'blade-selfhst-icons');
+        $this->mergeConfigFrom(__DIR__ . '/../config/blade-selfhst-icons.php', 'blade-selfhst-icons');
     }
 
     public function boot(): void
     {
         if ($this->app->runningInConsole()) {
             $this->publishes([
-                __DIR__.'/../resources/svg' => public_path('vendor/blade-selfhst-icons'),
+                __DIR__ . '/../resources/svg' => public_path('vendor/blade-selfhst-icons'),
             ], 'blade-selfhst-icons');
 
             $this->publishes([
-                __DIR__.'/../config/blade-selfhst-icons.php' => $this->app->configPath('blade-selfhst-icons.php'),
+                __DIR__ . '/../config/blade-selfhst-icons.php' => $this->app->configPath('blade-selfhst-icons.php'),
             ], 'blade-selfhst-icons-config');
         }
     }
