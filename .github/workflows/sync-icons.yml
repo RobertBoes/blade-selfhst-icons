@@ -85,12 +85,26 @@ jobs:
           # Write to file to avoid escaping issues
           echo -e "$BODY" > /tmp/pr-changelog.md
 
+          # Distinct icon counts (collapse -dark / -light variants) for the commit summary
+          distinct() { printf '%s\n' "$1" | grep -v '^$' | sed -E 's/-(dark|light)$//' | sort -u | grep -c '^'; }
+          ADDED_N=$(distinct "$ADDED")
+          REMOVED_N=$(distinct "$REMOVED")
+          MODIFIED_N=$(distinct "$MODIFIED")
+
+          # Conventional-commit summary so release-please can build the changelog
+          SUMMARY="feat:"; SEP=" "
+          [ "$ADDED_N" -gt 0 ]    && { SUMMARY="${SUMMARY}${SEP}add ${ADDED_N}";    SEP=", "; }
+          [ "$REMOVED_N" -gt 0 ]  && { SUMMARY="${SUMMARY}${SEP}remove ${REMOVED_N}"; SEP=", "; }
+          [ "$MODIFIED_N" -gt 0 ] && { SUMMARY="${SUMMARY}${SEP}update ${MODIFIED_N}"; SEP=", "; }
+          SUMMARY="${SUMMARY} icons"
+          echo "summary=${SUMMARY}" >> "$GITHUB_OUTPUT"
+
       - name: Create Pull Request
         if: steps.changes.outputs.changed == 'true'
         uses: peter-evans/create-pull-request@5f6978faf089d4d20b00c7766989d076bb2fc7f1 # v8.1.1
         with:
-          commit-message: 'Update selfh.st icons'
-          title: 'Update selfh.st icons'
+          commit-message: ${{ steps.changelog.outputs.summary }}
+          title: ${{ steps.changelog.outputs.summary }}
           body-path: /tmp/pr-changelog.md
           branch: update-icons
           delete-branch: true
