@@ -173,6 +173,7 @@ enum Selfhst: string
     case Backuppc = 'selfhst-backuppc';
     case Bagisto = 'selfhst-bagisto';
     case Baidu = 'selfhst-baidu';
+    case Baikal = 'selfhst-baikal';
     case Bandcamp = 'selfhst-bandcamp';
     case BankOfAmerica = 'selfhst-bank-of-america';
     case BarAssistant = 'selfhst-bar-assistant';
@@ -357,6 +358,7 @@ enum Selfhst: string
     case Coolify = 'selfhst-coolify';
     case Copyparty = 'selfhst-copyparty';
     case Corecontrol = 'selfhst-corecontrol';
+    case Coredns = 'selfhst-coredns';
     case Costco = 'selfhst-costco';
     case Couchdb = 'selfhst-couchdb';
     case CounterAnalytics = 'selfhst-counter-analytics';
@@ -472,6 +474,7 @@ enum Selfhst: string
     case Dosvault = 'selfhst-dosvault';
     case DoubleTake = 'selfhst-double-take';
     case Dovecot = 'selfhst-dovecot';
+    case Downtify = 'selfhst-downtify';
     case Dozzle = 'selfhst-dozzle';
     case Drasl = 'selfhst-drasl';
     case DrawIo = 'selfhst-draw-io';
@@ -621,6 +624,7 @@ enum Selfhst: string
     case Fluidcalendar = 'selfhst-fluidcalendar';
     case Fluidd = 'selfhst-fluidd';
     case Fluxer = 'selfhst-fluxer';
+    case Fmd = 'selfhst-fmd';
     case Fnos = 'selfhst-fnos';
     case Focalboard = 'selfhst-focalboard';
     case Foldergram = 'selfhst-foldergram';
@@ -685,6 +689,7 @@ enum Selfhst: string
     case Geopulse = 'selfhst-geopulse';
     case Gerbera = 'selfhst-gerbera';
     case Getcomics = 'selfhst-getcomics';
+    case Ghidra = 'selfhst-ghidra';
     case Ghostboard = 'selfhst-ghostboard';
     case Ghostfolio = 'selfhst-ghostfolio';
     case Ghostty = 'selfhst-ghostty';
@@ -1064,6 +1069,7 @@ enum Selfhst: string
     case Littlelink = 'selfhst-littlelink';
     case LiveBlog = 'selfhst-live-blog';
     case Livebook = 'selfhst-livebook';
+    case Livinity = 'selfhst-livinity';
     case Liwan = 'selfhst-liwan';
     case LlamaCpp = 'selfhst-llama-cpp';
     case Lldap = 'selfhst-lldap';
@@ -1712,6 +1718,7 @@ enum Selfhst: string
     case PulpProject = 'selfhst-pulp-project';
     case Pulsarr = 'selfhst-pulsarr';
     case Pulse = 'selfhst-pulse';
+    case Pulseweaver = 'selfhst-pulseweaver';
     case Punipuni = 'selfhst-punipuni';
     case Punyshort = 'selfhst-punyshort';
     case Purpurmc = 'selfhst-purpurmc';
@@ -1843,6 +1850,7 @@ enum Selfhst: string
     case Rssbox = 'selfhst-rssbox';
     case Rsshub = 'selfhst-rsshub';
     case Rssrise = 'selfhst-rssrise';
+    case Rudder = 'selfhst-rudder';
     case Rundeck = 'selfhst-rundeck';
     case Runson = 'selfhst-runson';
     case Runtipi = 'selfhst-runtipi';
@@ -1875,6 +1883,7 @@ enum Selfhst: string
     case Screenlite = 'selfhst-screenlite';
     case Scrobblex = 'selfhst-scrobblex';
     case Scrutiny = 'selfhst-scrutiny';
+    case Scrypted = 'selfhst-scrypted';
     case Scuttle = 'selfhst-scuttle';
     case Seafile = 'selfhst-seafile';
     case Seagate = 'selfhst-seagate';
@@ -2038,6 +2047,7 @@ enum Selfhst: string
     case Surveyjs = 'selfhst-surveyjs';
     case Surveymonkey = 'selfhst-surveymonkey';
     case Suwayomi = 'selfhst-suwayomi';
+    case SveltiaCms = 'selfhst-sveltia-cms';
     case Swagger = 'selfhst-swagger';
     case Swarmpit = 'selfhst-swarmpit';
     case Swetrix = 'selfhst-swetrix';
@@ -2161,10 +2171,12 @@ enum Selfhst: string
     case Twitch = 'selfhst-twitch';
     case Twitchrise = 'selfhst-twitchrise';
     case Twitter = 'selfhst-twitter';
+    case Tymeslot = 'selfhst-tymeslot';
     case Typebot = 'selfhst-typebot';
     case Typemill = 'selfhst-typemill';
     case Typescript = 'selfhst-typescript';
     case Typesense = 'selfhst-typesense';
+    case Typetype = 'selfhst-typetype';
     case Typo3 = 'selfhst-typo3';
     case USBank = 'selfhst-u-s-bank';
     case Uber = 'selfhst-uber';

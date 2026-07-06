@@ -170,6 +170,7 @@ enum SelfhstLight: string
     case Backuppc = 'selfhst-backuppc-light';
     case Bagisto = 'selfhst-bagisto-light';
     case Baidu = 'selfhst-baidu-light';
+    case Baikal = 'selfhst-baikal-light';
     case Bandcamp = 'selfhst-bandcamp-light';
     case BankOfAmerica = 'selfhst-bank-of-america-light';
     case BarAssistant = 'selfhst-bar-assistant-light';
@@ -340,6 +341,7 @@ enum SelfhstLight: string
     case Coolify = 'selfhst-coolify-light';
     case Copyparty = 'selfhst-copyparty-light';
     case Corecontrol = 'selfhst-corecontrol-light';
+    case Coredns = 'selfhst-coredns-light';
     case Costco = 'selfhst-costco-light';
     case Couchdb = 'selfhst-couchdb-light';
     case CounterAnalytics = 'selfhst-counter-analytics-light';
@@ -448,6 +450,7 @@ enum SelfhstLight: string
     case Dosvault = 'selfhst-dosvault-light';
     case DoubleTake = 'selfhst-double-take-light';
     case Dovecot = 'selfhst-dovecot-light';
+    case Downtify = 'selfhst-downtify-light';
     case Dozzle = 'selfhst-dozzle-light';
     case Drasl = 'selfhst-drasl-light';
     case DrawIo = 'selfhst-draw-io-light';
@@ -593,6 +596,7 @@ enum SelfhstLight: string
     case Fluidcalendar = 'selfhst-fluidcalendar-light';
     case Fluidd = 'selfhst-fluidd-light';
     case Fluxer = 'selfhst-fluxer-light';
+    case Fmd = 'selfhst-fmd-light';
     case Fnos = 'selfhst-fnos-light';
     case Focalboard = 'selfhst-focalboard-light';
     case Foldergram = 'selfhst-foldergram-light';
@@ -655,6 +659,7 @@ enum SelfhstLight: string
     case Geopulse = 'selfhst-geopulse-light';
     case Gerbera = 'selfhst-gerbera-light';
     case Getcomics = 'selfhst-getcomics-light';
+    case Ghidra = 'selfhst-ghidra-light';
     case Ghostboard = 'selfhst-ghostboard-light';
     case Ghostfolio = 'selfhst-ghostfolio-light';
     case Ghostty = 'selfhst-ghostty-light';
@@ -1024,6 +1029,7 @@ enum SelfhstLight: string
     case LittleChat = 'selfhst-little-chat-light';
     case Littlelink = 'selfhst-littlelink-light';
     case LiveBlog = 'selfhst-live-blog-light';
+    case Livinity = 'selfhst-livinity-light';
     case Liwan = 'selfhst-liwan-light';
     case LlamaCpp = 'selfhst-llama-cpp-light';
     case Lldap = 'selfhst-lldap-light';
@@ -1648,6 +1654,7 @@ enum SelfhstLight: string
     case PulpProject = 'selfhst-pulp-project-light';
     case Pulsarr = 'selfhst-pulsarr-light';
     case Pulse = 'selfhst-pulse-light';
+    case Pulseweaver = 'selfhst-pulseweaver-light';
     case Punipuni = 'selfhst-punipuni-light';
     case Punyshort = 'selfhst-punyshort-light';
     case Purpurmc = 'selfhst-purpurmc-light';
@@ -1776,6 +1783,7 @@ enum SelfhstLight: string
     case Rssbox = 'selfhst-rssbox-light';
     case Rsshub = 'selfhst-rsshub-light';
     case Rssrise = 'selfhst-rssrise-light';
+    case Rudder = 'selfhst-rudder-light';
     case Rundeck = 'selfhst-rundeck-light';
     case Runson = 'selfhst-runson-light';
     case Runtipi = 'selfhst-runtipi-light';
@@ -1807,6 +1815,7 @@ enum SelfhstLight: string
     case Screenlite = 'selfhst-screenlite-light';
     case Scrobblex = 'selfhst-scrobblex-light';
     case Scrutiny = 'selfhst-scrutiny-light';
+    case Scrypted = 'selfhst-scrypted-light';
     case Scuttle = 'selfhst-scuttle-light';
     case Seafile = 'selfhst-seafile-light';
     case Seagate = 'selfhst-seagate-light';
@@ -1963,6 +1972,7 @@ enum SelfhstLight: string
     case Surveyjs = 'selfhst-surveyjs-light';
     case Surveymonkey = 'selfhst-surveymonkey-light';
     case Suwayomi = 'selfhst-suwayomi-light';
+    case SveltiaCms = 'selfhst-sveltia-cms-light';
     case Swagger = 'selfhst-swagger-light';
     case Swarmpit = 'selfhst-swarmpit-light';
     case Swetrix = 'selfhst-swetrix-light';
@@ -2088,6 +2098,7 @@ enum SelfhstLight: string
     case Typemill = 'selfhst-typemill-light';
     case Typescript = 'selfhst-typescript-light';
     case Typesense = 'selfhst-typesense-light';
+    case Typetype = 'selfhst-typetype-light';
     case Typo3 = 'selfhst-typo3-light';
     case USBank = 'selfhst-u-s-bank-light';
     case Uber = 'selfhst-uber-light';
