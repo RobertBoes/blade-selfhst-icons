@@ -86,7 +86,7 @@ jobs:
           echo -e "$BODY" > /tmp/pr-changelog.md
 
           # Distinct icon counts (collapse -dark / -light variants) for the commit summary
-          distinct() { printf '%s\n' "$1" | grep -v '^$' | sed -E 's/-(dark|light)$//' | sort -u | grep -c '^'; }
+          distinct() { printf '%s\n' "$1" | grep -v '^$' | sed -E 's/-(dark|light)$//' | sort -u | grep -c '^' || true; }
           ADDED_N=$(distinct "$ADDED")
           REMOVED_N=$(distinct "$REMOVED")
           MODIFIED_N=$(distinct "$MODIFIED")
