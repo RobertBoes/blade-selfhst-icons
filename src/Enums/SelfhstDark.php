@@ -260,6 +260,7 @@ enum SelfhstDark: string
     case Centos = 'selfhst-centos-dark';
     case Ceph = 'selfhst-ceph-dark';
     case Cerbos = 'selfhst-cerbos-dark';
+    case CertManager = 'selfhst-cert-manager-dark';
     case Certimate = 'selfhst-certimate-dark';
     case Changedetection = 'selfhst-changedetection-dark';
     case ChangelogNightly = 'selfhst-changelog-nightly-dark';
@@ -293,6 +294,7 @@ enum SelfhstDark: string
     case Cloudflare = 'selfhst-cloudflare-dark';
     case CloudflareZeroTrust = 'selfhst-cloudflare-zero-trust-dark';
     case Cloudinary = 'selfhst-cloudinary-dark';
+    case Cloudnativepg = 'selfhst-cloudnativepg-dark';
     case Cloudpanel = 'selfhst-cloudpanel-dark';
     case Cloudreve = 'selfhst-cloudreve-dark';
     case Cloudron = 'selfhst-cloudron-dark';
@@ -552,6 +554,7 @@ enum SelfhstDark: string
     case Ferrishare = 'selfhst-ferrishare-dark';
     case Ferron = 'selfhst-ferron-dark';
     case Fhem = 'selfhst-fhem-dark';
+    case Fiberstore = 'selfhst-fiberstore-dark';
     case Fidelity = 'selfhst-fidelity-dark';
     case Fider = 'selfhst-fider-dark';
     case Filameter = 'selfhst-filameter-dark';
@@ -600,6 +603,7 @@ enum SelfhstDark: string
     case Fnos = 'selfhst-fnos-dark';
     case Focalboard = 'selfhst-focalboard-dark';
     case Foldergram = 'selfhst-foldergram-dark';
+    case Folderhost = 'selfhst-folderhost-dark';
     case FoldingHome = 'selfhst-folding-home-dark';
     case Folo = 'selfhst-folo-dark';
     case Forauth = 'selfhst-forauth-dark';
@@ -971,6 +975,7 @@ enum SelfhstDark: string
     case KwsxRadio = 'selfhst-kwsx-radio-dark';
     case Kyoo = 'selfhst-kyoo-dark';
     case LabDash = 'selfhst-lab-dash-dark';
+    case Labelito = 'selfhst-labelito-dark';
     case Ladder = 'selfhst-ladder-dark';
     case LancacheNet = 'selfhst-lancache-net-dark';
     case Lancommander = 'selfhst-lancommander-dark';
@@ -1068,6 +1073,7 @@ enum SelfhstDark: string
     case MailArchiver = 'selfhst-mail-archiver-dark';
     case Mailchimp = 'selfhst-mailchimp-dark';
     case Mailcow = 'selfhst-mailcow-dark';
+    case MailflowSh = 'selfhst-mailflow-sh-dark';
     case Mailgun = 'selfhst-mailgun-dark';
     case Mailjet = 'selfhst-mailjet-dark';
     case Mailpit = 'selfhst-mailpit-dark';
@@ -1435,6 +1441,7 @@ enum SelfhstDark: string
     case Opentalk = 'selfhst-opentalk-dark';
     case Opentelemetry = 'selfhst-opentelemetry-dark';
     case Opentofu = 'selfhst-opentofu-dark';
+    case Opentogethertube = 'selfhst-opentogethertube-dark';
     case Openttd = 'selfhst-openttd-dark';
     case Openuem = 'selfhst-openuem-dark';
     case Openvas = 'selfhst-openvas-dark';
@@ -1678,6 +1685,7 @@ enum SelfhstDark: string
     case QuietChat = 'selfhst-quiet-chat-dark';
     case Qwik = 'selfhst-qwik-dark';
     case Rabbitmq = 'selfhst-rabbitmq-dark';
+    case Rachio = 'selfhst-rachio-dark';
     case Rackpad = 'selfhst-rackpad-dark';
     case Rackpeek = 'selfhst-rackpeek-dark';
     case Rackula = 'selfhst-rackula-dark';
@@ -1828,6 +1836,7 @@ enum SelfhstDark: string
     case SelfhSt = 'selfhst-selfh-st-dark';
     case Semaphore = 'selfhst-semaphore-dark';
     case SemaphoreUi = 'selfhst-semaphore-ui-dark';
+    case Sencho = 'selfhst-sencho-dark';
     case SendVisee = 'selfhst-send-visee-dark';
     case Sendgrid = 'selfhst-sendgrid-dark';
     case Senlo = 'selfhst-senlo-dark';
@@ -2005,6 +2014,7 @@ enum SelfhstDark: string
     case Temu = 'selfhst-temu-dark';
     case Termix = 'selfhst-termix-dark';
     case Teslamate = 'selfhst-teslamate-dark';
+    case Thanos = 'selfhst-thanos-dark';
     case TheLounge = 'selfhst-the-lounge-dark';
     case TheNewYorkTimes = 'selfhst-the-new-york-times-dark';
     case TheVerge = 'selfhst-the-verge-dark';
