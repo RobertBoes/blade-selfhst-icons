@@ -273,6 +273,7 @@ enum Selfhst: string
     case Centos = 'selfhst-centos';
     case Ceph = 'selfhst-ceph';
     case Cerbos = 'selfhst-cerbos';
+    case CertManager = 'selfhst-cert-manager';
     case Certimate = 'selfhst-certimate';
     case Changedetection = 'selfhst-changedetection';
     case ChangelogNightly = 'selfhst-changelog-nightly';
@@ -309,6 +310,7 @@ enum Selfhst: string
     case Cloudflare = 'selfhst-cloudflare';
     case CloudflareZeroTrust = 'selfhst-cloudflare-zero-trust';
     case Cloudinary = 'selfhst-cloudinary';
+    case Cloudnativepg = 'selfhst-cloudnativepg';
     case Cloudpanel = 'selfhst-cloudpanel';
     case Cloudreve = 'selfhst-cloudreve';
     case Cloudron = 'selfhst-cloudron';
@@ -577,6 +579,7 @@ enum Selfhst: string
     case Ferrishare = 'selfhst-ferrishare';
     case Ferron = 'selfhst-ferron';
     case Fhem = 'selfhst-fhem';
+    case Fiberstore = 'selfhst-fiberstore';
     case Fidelity = 'selfhst-fidelity';
     case Fider = 'selfhst-fider';
     case Filameter = 'selfhst-filameter';
@@ -628,6 +631,7 @@ enum Selfhst: string
     case Fnos = 'selfhst-fnos';
     case Focalboard = 'selfhst-focalboard';
     case Foldergram = 'selfhst-foldergram';
+    case Folderhost = 'selfhst-folderhost';
     case FoldingHome = 'selfhst-folding-home';
     case Folo = 'selfhst-folo';
     case Forauth = 'selfhst-forauth';
@@ -1009,6 +1013,7 @@ enum Selfhst: string
     case KwsxRadio = 'selfhst-kwsx-radio';
     case Kyoo = 'selfhst-kyoo';
     case LabDash = 'selfhst-lab-dash';
+    case Labelito = 'selfhst-labelito';
     case Ladder = 'selfhst-ladder';
     case LancacheNet = 'selfhst-lancache-net';
     case Lancommander = 'selfhst-lancommander';
@@ -1111,6 +1116,7 @@ enum Selfhst: string
     case MailInABox = 'selfhst-mail-in-a-box';
     case Mailchimp = 'selfhst-mailchimp';
     case Mailcow = 'selfhst-mailcow';
+    case MailflowSh = 'selfhst-mailflow-sh';
     case Mailgun = 'selfhst-mailgun';
     case Mailjet = 'selfhst-mailjet';
     case Mailpit = 'selfhst-mailpit';
@@ -1492,6 +1498,7 @@ enum Selfhst: string
     case Opentalk = 'selfhst-opentalk';
     case Opentelemetry = 'selfhst-opentelemetry';
     case Opentofu = 'selfhst-opentofu';
+    case Opentogethertube = 'selfhst-opentogethertube';
     case Openttd = 'selfhst-openttd';
     case Openuem = 'selfhst-openuem';
     case Openvas = 'selfhst-openvas';
@@ -1744,6 +1751,7 @@ enum Selfhst: string
     case QuietChat = 'selfhst-quiet-chat';
     case Qwik = 'selfhst-qwik';
     case Rabbitmq = 'selfhst-rabbitmq';
+    case Rachio = 'selfhst-rachio';
     case Rackpad = 'selfhst-rackpad';
     case Rackpeek = 'selfhst-rackpeek';
     case Rackula = 'selfhst-rackula';
@@ -1901,6 +1909,7 @@ enum Selfhst: string
     case SelfhSt = 'selfhst-selfh-st';
     case Semaphore = 'selfhst-semaphore';
     case SemaphoreUi = 'selfhst-semaphore-ui';
+    case Sencho = 'selfhst-sencho';
     case SendVisee = 'selfhst-send-visee';
     case Sendgrid = 'selfhst-sendgrid';
     case Senlo = 'selfhst-senlo';
@@ -2085,8 +2094,10 @@ enum Selfhst: string
     case Teleport = 'selfhst-teleport';
     case Temps = 'selfhst-temps';
     case Temu = 'selfhst-temu';
+    case Tenzu = 'selfhst-tenzu';
     case Termix = 'selfhst-termix';
     case Teslamate = 'selfhst-teslamate';
+    case Thanos = 'selfhst-thanos';
     case TheLounge = 'selfhst-the-lounge';
     case TheNewYorkTimes = 'selfhst-the-new-york-times';
     case TheVerge = 'selfhst-the-verge';
