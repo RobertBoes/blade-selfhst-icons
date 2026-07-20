@@ -5,6 +5,14 @@ and is maintained automatically by [release-please](https://github.com/googleapi
 Icon counts are de-duplicated across light/dark variants; see each release's pull
 requests for the full list of affected icons.
 
+## [0.3.6](https://github.com/RobertBoes/blade-selfhst-icons/compare/v0.3.5...v0.3.6) (2026-07-20)
+
+
+### Features
+
+* add 11, update 2 icons ([#23](https://github.com/RobertBoes/blade-selfhst-icons/issues/23)) ([e3dfed3](https://github.com/RobertBoes/blade-selfhst-icons/commit/e3dfed3a5ac264fb07fed4498aecfe27de7a6edb))
+* add 7, update 3 icons ([#25](https://github.com/RobertBoes/blade-selfhst-icons/issues/25)) ([6508060](https://github.com/RobertBoes/blade-selfhst-icons/commit/65080605c9f3af24e3e356f929a0222a6ca7c5d5))
+
 ## [0.3.5](https://github.com/RobertBoes/blade-selfhst-icons/compare/v0.3.4...v0.3.5) (2026-07-06)
 
 
