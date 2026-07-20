@@ -234,6 +234,7 @@ enum SelfhstDark: string
     case Buggregator = 'selfhst-buggregator-dark';
     case Buildbot = 'selfhst-buildbot-dark';
     case Bulwark = 'selfhst-bulwark-dark';
+    case Bumpsight = 'selfhst-bumpsight-dark';
     case Bunkerweb = 'selfhst-bunkerweb-dark';
     case BuyMeACoffee = 'selfhst-buy-me-a-coffee-dark';
     case Byparr = 'selfhst-byparr-dark';
@@ -738,6 +739,7 @@ enum SelfhstDark: string
     case Grayjay = 'selfhst-grayjay-dark';
     case Graylog = 'selfhst-graylog-dark';
     case Grimmory = 'selfhst-grimmory-dark';
+    case GrimoireTtrpg = 'selfhst-grimoire-ttrpg-dark';
     case Grist = 'selfhst-grist-dark';
     case Grocy = 'selfhst-grocy-dark';
     case Grok = 'selfhst-grok-dark';
@@ -1008,6 +1010,7 @@ enum SelfhstDark: string
     case Librum = 'selfhst-librum-dark';
     case Lidarr = 'selfhst-lidarr-dark';
     case Lidbrainz = 'selfhst-lidbrainz-dark';
+    case Lightningrod = 'selfhst-lightningrod-dark';
     case Limesurvey = 'selfhst-limesurvey-dark';
     case Linear = 'selfhst-linear-dark';
     case Lingarr = 'selfhst-lingarr-dark';
@@ -1246,6 +1249,7 @@ enum SelfhstDark: string
     case Mysterium = 'selfhst-mysterium-dark';
     case N8n = 'selfhst-n8n-dark';
     case Nagios = 'selfhst-nagios-dark';
+    case Nakama = 'selfhst-nakama-dark';
     case Namecheap = 'selfhst-namecheap-dark';
     case Nametag = 'selfhst-nametag-dark';
     case Nanoclaw = 'selfhst-nanoclaw-dark';
@@ -1380,6 +1384,7 @@ enum SelfhstDark: string
     case Odoo = 'selfhst-odoo-dark';
     case Odysee = 'selfhst-odysee-dark';
     case Oikos = 'selfhst-oikos-dark';
+    case Okd = 'selfhst-okd-dark';
     case OldNavy = 'selfhst-old-navy-dark';
     case Olivetin = 'selfhst-olivetin-dark';
     case Ollama = 'selfhst-ollama-dark';
@@ -1431,6 +1436,7 @@ enum SelfhstDark: string
     case Openreads = 'selfhst-openreads-dark';
     case Openrouter = 'selfhst-openrouter-dark';
     case Opensearch = 'selfhst-opensearch-dark';
+    case Openshift = 'selfhst-openshift-dark';
     case Openspeedtest = 'selfhst-openspeedtest-dark';
     case Opensuse = 'selfhst-opensuse-dark';
     case OpensuseAlp = 'selfhst-opensuse-alp-dark';
@@ -1471,6 +1477,7 @@ enum SelfhstDark: string
     case Overseerr = 'selfhst-overseerr-dark';
     case Ovh = 'selfhst-ovh-dark';
     case Ovpn = 'selfhst-ovpn-dark';
+    case Ovumcy = 'selfhst-ovumcy-dark';
     case Owncast = 'selfhst-owncast-dark';
     case Owncloud = 'selfhst-owncloud-dark';
     case Ownfoil = 'selfhst-ownfoil-dark';

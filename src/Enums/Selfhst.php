@@ -240,6 +240,7 @@ enum Selfhst: string
     case Buggregator = 'selfhst-buggregator';
     case Buildbot = 'selfhst-buildbot';
     case Bulwark = 'selfhst-bulwark';
+    case Bumpsight = 'selfhst-bumpsight';
     case Bunkerweb = 'selfhst-bunkerweb';
     case BuyMeACoffee = 'selfhst-buy-me-a-coffee';
     case Byparr = 'selfhst-byparr';
@@ -771,6 +772,7 @@ enum Selfhst: string
     case Graylog = 'selfhst-graylog';
     case Grimmory = 'selfhst-grimmory';
     case Grimoire = 'selfhst-grimoire';
+    case GrimoireTtrpg = 'selfhst-grimoire-ttrpg';
     case Grist = 'selfhst-grist';
     case Grocy = 'selfhst-grocy';
     case Grok = 'selfhst-grok';
@@ -1048,6 +1050,7 @@ enum Selfhst: string
     case Lidarr = 'selfhst-lidarr';
     case LidarrRadarr = 'selfhst-lidarr-radarr';
     case Lidbrainz = 'selfhst-lidbrainz';
+    case Lightningrod = 'selfhst-lightningrod';
     case Limesurvey = 'selfhst-limesurvey';
     case Linear = 'selfhst-linear';
     case Lingarr = 'selfhst-lingarr';
@@ -1302,6 +1305,7 @@ enum Selfhst: string
     case Mysterium = 'selfhst-mysterium';
     case N8n = 'selfhst-n8n';
     case Nagios = 'selfhst-nagios';
+    case Nakama = 'selfhst-nakama';
     case Namecheap = 'selfhst-namecheap';
     case Nametag = 'selfhst-nametag';
     case Nanoclaw = 'selfhst-nanoclaw';
@@ -1437,6 +1441,7 @@ enum Selfhst: string
     case Odoo = 'selfhst-odoo';
     case Odysee = 'selfhst-odysee';
     case Oikos = 'selfhst-oikos';
+    case Okd = 'selfhst-okd';
     case OldNavy = 'selfhst-old-navy';
     case Olivetin = 'selfhst-olivetin';
     case Ollama = 'selfhst-ollama';
@@ -1488,6 +1493,7 @@ enum Selfhst: string
     case Openreads = 'selfhst-openreads';
     case Openrouter = 'selfhst-openrouter';
     case Opensearch = 'selfhst-opensearch';
+    case Openshift = 'selfhst-openshift';
     case Openspeedtest = 'selfhst-openspeedtest';
     case Opensuse = 'selfhst-opensuse';
     case OpensuseAlp = 'selfhst-opensuse-alp';
@@ -1529,6 +1535,7 @@ enum Selfhst: string
     case Overseerr = 'selfhst-overseerr';
     case Ovh = 'selfhst-ovh';
     case Ovpn = 'selfhst-ovpn';
+    case Ovumcy = 'selfhst-ovumcy';
     case Owlistic = 'selfhst-owlistic';
     case Owncast = 'selfhst-owncast';
     case Owncloud = 'selfhst-owncloud';
