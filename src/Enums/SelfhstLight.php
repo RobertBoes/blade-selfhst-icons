@@ -234,6 +234,7 @@ enum SelfhstLight: string
     case Buggregator = 'selfhst-buggregator-light';
     case Buildbot = 'selfhst-buildbot-light';
     case Bulwark = 'selfhst-bulwark-light';
+    case Bumpsight = 'selfhst-bumpsight-light';
     case Bunkerweb = 'selfhst-bunkerweb-light';
     case BuyMeACoffee = 'selfhst-buy-me-a-coffee-light';
     case Byparr = 'selfhst-byparr-light';
@@ -738,6 +739,7 @@ enum SelfhstLight: string
     case Grayjay = 'selfhst-grayjay-light';
     case Graylog = 'selfhst-graylog-light';
     case Grimmory = 'selfhst-grimmory-light';
+    case GrimoireTtrpg = 'selfhst-grimoire-ttrpg-light';
     case Grist = 'selfhst-grist-light';
     case Grocy = 'selfhst-grocy-light';
     case Grok = 'selfhst-grok-light';
@@ -1009,6 +1011,7 @@ enum SelfhstLight: string
     case Lidarr = 'selfhst-lidarr-light';
     case LidarrRadarr = 'selfhst-lidarr-radarr-light';
     case Lidbrainz = 'selfhst-lidbrainz-light';
+    case Lightningrod = 'selfhst-lightningrod-light';
     case Limesurvey = 'selfhst-limesurvey-light';
     case Linear = 'selfhst-linear-light';
     case Lingarr = 'selfhst-lingarr-light';
@@ -1247,6 +1250,7 @@ enum SelfhstLight: string
     case Mysterium = 'selfhst-mysterium-light';
     case N8n = 'selfhst-n8n-light';
     case Nagios = 'selfhst-nagios-light';
+    case Nakama = 'selfhst-nakama-light';
     case Namecheap = 'selfhst-namecheap-light';
     case Nametag = 'selfhst-nametag-light';
     case Nanoclaw = 'selfhst-nanoclaw-light';
@@ -1381,6 +1385,7 @@ enum SelfhstLight: string
     case Odoo = 'selfhst-odoo-light';
     case Odysee = 'selfhst-odysee-light';
     case Oikos = 'selfhst-oikos-light';
+    case Okd = 'selfhst-okd-light';
     case OldNavy = 'selfhst-old-navy-light';
     case Olivetin = 'selfhst-olivetin-light';
     case Ollama = 'selfhst-ollama-light';
@@ -1432,6 +1437,7 @@ enum SelfhstLight: string
     case Openreads = 'selfhst-openreads-light';
     case Openrouter = 'selfhst-openrouter-light';
     case Opensearch = 'selfhst-opensearch-light';
+    case Openshift = 'selfhst-openshift-light';
     case Openspeedtest = 'selfhst-openspeedtest-light';
     case Opensuse = 'selfhst-opensuse-light';
     case OpensuseAlp = 'selfhst-opensuse-alp-light';
@@ -1472,6 +1478,7 @@ enum SelfhstLight: string
     case Overseerr = 'selfhst-overseerr-light';
     case Ovh = 'selfhst-ovh-light';
     case Ovpn = 'selfhst-ovpn-light';
+    case Ovumcy = 'selfhst-ovumcy-light';
     case Owncast = 'selfhst-owncast-light';
     case Owncloud = 'selfhst-owncloud-light';
     case Ownfoil = 'selfhst-ownfoil-light';
