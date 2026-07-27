@@ -1842,6 +1842,7 @@ enum Selfhst: string
     case Rgallery = 'selfhst-rgallery';
     case Rhasspy = 'selfhst-rhasspy';
     case Richy = 'selfhst-richy';
+    case Rimgo = 'selfhst-rimgo';
     case Ring = 'selfhst-ring';
     case Ringlink = 'selfhst-ringlink';
     case RipeAtlas = 'selfhst-ripe-atlas';
