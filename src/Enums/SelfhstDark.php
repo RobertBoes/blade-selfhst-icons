@@ -1772,6 +1772,7 @@ enum SelfhstDark: string
     case Rgallery = 'selfhst-rgallery-dark';
     case Rhasspy = 'selfhst-rhasspy-dark';
     case Richy = 'selfhst-richy-dark';
+    case Rimgo = 'selfhst-rimgo-dark';
     case Ring = 'selfhst-ring-dark';
     case Ringlink = 'selfhst-ringlink-dark';
     case RipeAtlas = 'selfhst-ripe-atlas-dark';

@@ -1776,6 +1776,7 @@ enum SelfhstLight: string
     case Rgallery = 'selfhst-rgallery-light';
     case Rhasspy = 'selfhst-rhasspy-light';
     case Richy = 'selfhst-richy-light';
+    case Rimgo = 'selfhst-rimgo-light';
     case Ring = 'selfhst-ring-light';
     case Ringlink = 'selfhst-ringlink-light';
     case RipeAtlas = 'selfhst-ripe-atlas-light';
