@@ -126,6 +126,7 @@ enum SelfhstLight: string
     case ArgonTheme = 'selfhst-argon-theme-light';
     case Argus = 'selfhst-argus-light';
     case Aria2 = 'selfhst-aria2-light';
+    case ArrDashboard = 'selfhst-arr-dashboard-light';
     case Arrmatey = 'selfhst-arrmatey-light';
     case ArsTechnica = 'selfhst-ars-technica-light';
     case Asciinema = 'selfhst-asciinema-light';
@@ -249,6 +250,7 @@ enum SelfhstLight: string
     case Calagopus = 'selfhst-calagopus-light';
     case CalibreWeb = 'selfhst-calibre-web-light';
     case Calmness = 'selfhst-calmness-light';
+    case Calnode = 'selfhst-calnode-light';
     case Capacitarr = 'selfhst-capacitarr-light';
     case CapacitorRuntime = 'selfhst-capacitor-runtime-light';
     case Capcut = 'selfhst-capcut-light';
@@ -360,6 +362,7 @@ enum SelfhstLight: string
     case CrowCi = 'selfhst-crow-ci-light';
     case Crowdsec = 'selfhst-crowdsec-light';
     case CrowdsecManager = 'selfhst-crowdsec-manager-light';
+    case Crowdstrike = 'selfhst-crowdstrike-light';
     case CrtSh = 'selfhst-crt-sh-light';
     case Crunchyroll = 'selfhst-crunchyroll-light';
     case Cryptgeon = 'selfhst-cryptgeon-light';
@@ -371,6 +374,7 @@ enum SelfhstLight: string
     case Cups = 'selfhst-cups-light';
     case CuratorBookmarks = 'selfhst-curator-bookmarks-light';
     case Cyberchef = 'selfhst-cyberchef-light';
+    case Cyberhaven = 'selfhst-cyberhaven-light';
     case Cypht = 'selfhst-cypht-light';
     case Dadabik = 'selfhst-dadabik-light';
     case DaemonSync = 'selfhst-daemon-sync-light';
@@ -449,6 +453,7 @@ enum SelfhstLight: string
     case Donetick = 'selfhst-donetick-light';
     case Doordash = 'selfhst-doordash-light';
     case Dooropener = 'selfhst-dooropener-light';
+    case DopeSecurity = 'selfhst-dope-security-light';
     case Doppler = 'selfhst-doppler-light';
     case Dosvault = 'selfhst-dosvault-light';
     case DoubleTake = 'selfhst-double-take-light';
@@ -575,6 +580,7 @@ enum SelfhstLight: string
     case Filezilla = 'selfhst-filezilla-light';
     case Finn = 'selfhst-finn-light';
     case Firebase = 'selfhst-firebase-light';
+    case Firecrawl = 'selfhst-firecrawl-light';
     case FireflyIii = 'selfhst-firefly-iii-light';
     case Fireshare = 'selfhst-fireshare-light';
     case Firewalla = 'selfhst-firewalla-light';
@@ -669,6 +675,7 @@ enum SelfhstLight: string
     case Ghostfolio = 'selfhst-ghostfolio-light';
     case Ghostty = 'selfhst-ghostty-light';
     case Gimp = 'selfhst-gimp-light';
+    case Giraffile = 'selfhst-giraffile-light';
     case Git = 'selfhst-git-light';
     case GitPages = 'selfhst-git-pages-light';
     case Gitbundle = 'selfhst-gitbundle-light';
@@ -902,6 +909,7 @@ enum SelfhstLight: string
     case Jula = 'selfhst-jula-light';
     case Jump = 'selfhst-jump-light';
     case Jumpserver = 'selfhst-jumpserver-light';
+    case Jupiterone = 'selfhst-jupiterone-light';
     case Jupyter = 'selfhst-jupyter-light';
     case JwtIo = 'selfhst-jwt-io-light';
     case Kagi = 'selfhst-kagi-light';
@@ -927,6 +935,7 @@ enum SelfhstLight: string
     case Kestra = 'selfhst-kestra-light';
     case Keycloak = 'selfhst-keycloak-light';
     case Keyhelp = 'selfhst-keyhelp-light';
+    case Kherad = 'selfhst-kherad-light';
     case Khoj = 'selfhst-khoj-light';
     case Kibana = 'selfhst-kibana-light';
     case Kickstarter = 'selfhst-kickstarter-light';
@@ -1141,6 +1150,7 @@ enum SelfhstLight: string
     case Meta = 'selfhst-meta-light';
     case Metabase = 'selfhst-metabase-light';
     case MetadataRemote = 'selfhst-metadata-remote-light';
+    case Metatana = 'selfhst-metatana-light';
     case Metube = 'selfhst-metube-light';
     case MicroCenter = 'selfhst-micro-center-light';
     case Microbin = 'selfhst-microbin-light';
@@ -1314,6 +1324,7 @@ enum SelfhstLight: string
     case Nginx = 'selfhst-nginx-light';
     case NginxProxyManager = 'selfhst-nginx-proxy-manager-light';
     case NginxUi = 'selfhst-nginx-ui-light';
+    case NicotinePlus = 'selfhst-nicotine-plus-light';
     case Nightlio = 'selfhst-nightlio-light';
     case Nightscout = 'selfhst-nightscout-light';
     case Nike = 'selfhst-nike-light';
@@ -1672,6 +1683,7 @@ enum SelfhstLight: string
     case Punipuni = 'selfhst-punipuni-light';
     case Punyshort = 'selfhst-punyshort-light';
     case Purpurmc = 'selfhst-purpurmc-light';
+    case PushSecurity = 'selfhst-push-security-light';
     case Pushbase = 'selfhst-pushbase-light';
     case Pushover = 'selfhst-pushover-light';
     case Putty = 'selfhst-putty-light';
@@ -1829,6 +1841,7 @@ enum SelfhstLight: string
     case Scraparr = 'selfhst-scraparr-light';
     case ScratchMap = 'selfhst-scratch-map-light';
     case Screenlite = 'selfhst-screenlite-light';
+    case Scrob = 'selfhst-scrob-light';
     case Scrobblex = 'selfhst-scrobblex-light';
     case Scrutiny = 'selfhst-scrutiny-light';
     case Scrypted = 'selfhst-scrypted-light';
@@ -2251,6 +2264,7 @@ enum SelfhstLight: string
     case Woocommerce = 'selfhst-woocommerce-light';
     case WoodpeckerCi = 'selfhst-woodpecker-ci-light';
     case Wordpress = 'selfhst-wordpress-light';
+    case Workbrew = 'selfhst-workbrew-light';
     case Worklenz = 'selfhst-worklenz-light';
     case WorldMonitor = 'selfhst-world-monitor-light';
     case Writefreely = 'selfhst-writefreely-light';
@@ -2294,6 +2308,7 @@ enum SelfhstLight: string
     case YoutubeShorts = 'selfhst-youtube-shorts-light';
     case YoutubeWatcher = 'selfhst-youtube-watcher-light';
     case YtDlpWebPlayer = 'selfhst-yt-dlp-web-player-light';
+    case YtZero = 'selfhst-yt-zero-light';
     case Yubal = 'selfhst-yubal-light';
     case Yugabytedb = 'selfhst-yugabytedb-light';
     case Yundera = 'selfhst-yundera-light';
@@ -2322,6 +2337,7 @@ enum SelfhstLight: string
     case ZotRegistry = 'selfhst-zot-registry-light';
     case Zotero = 'selfhst-zotero-light';
     case Zrok = 'selfhst-zrok-light';
+    case Zscaler = 'selfhst-zscaler-light';
     case Zublo = 'selfhst-zublo-light';
     case Zulip = 'selfhst-zulip-light';
 }
