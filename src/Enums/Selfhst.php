@@ -252,6 +252,7 @@ enum Selfhst: string
     case Caddymanager = 'selfhst-caddymanager';
     case Caderno = 'selfhst-caderno';
     case Cadvisor = 'selfhst-cadvisor';
+    case Cairn = 'selfhst-cairn';
     case CalCom = 'selfhst-cal-com';
     case Calagopus = 'selfhst-calagopus';
     case Calibre = 'selfhst-calibre';
@@ -413,6 +414,7 @@ enum Selfhst: string
     case Daylog = 'selfhst-daylog';
     case Dazn = 'selfhst-dazn';
     case DbUi = 'selfhst-db-ui';
+    case Dbackup = 'selfhst-dbackup';
     case Ddclient = 'selfhst-ddclient';
     case DdnsUpdater = 'selfhst-ddns-updater';
     case Debian = 'selfhst-debian';
@@ -790,6 +792,7 @@ enum Selfhst: string
     case HabitatSocial = 'selfhst-habitat-social';
     case Habitica = 'selfhst-habitica';
     case HackerNews = 'selfhst-hacker-news';
+    case HammerEditor = 'selfhst-hammer-editor';
     case Hanko = 'selfhst-hanko';
     case Haproxy = 'selfhst-haproxy';
     case Haptic = 'selfhst-haptic';
@@ -820,6 +823,7 @@ enum Selfhst: string
     case Helm = 'selfhst-helm';
     case Hemmelig = 'selfhst-hemmelig';
     case HereNow = 'selfhst-here-now';
+    case Hermesseg = 'selfhst-hermesseg';
     case Heroku = 'selfhst-heroku';
     case Hetrixtools = 'selfhst-hetrixtools';
     case Hetzner = 'selfhst-hetzner';
@@ -847,7 +851,6 @@ enum Selfhst: string
     case Homepage = 'selfhst-homepage';
     case Homer = 'selfhst-homer';
     case HomescreenHero = 'selfhst-homescreen-hero';
-    case Homey = 'selfhst-homey';
     case Hoodik = 'selfhst-hoodik';
     case Hook0 = 'selfhst-hook0';
     case Hoppscotch = 'selfhst-hoppscotch';
@@ -915,6 +918,7 @@ enum Selfhst: string
     case Ironcalc = 'selfhst-ironcalc';
     case Ironmount = 'selfhst-ironmount';
     case Irs = 'selfhst-irs';
+    case Iru = 'selfhst-iru';
     case ItGlue = 'selfhst-it-glue';
     case ItTools = 'selfhst-it-tools';
     case ItsmNg = 'selfhst-itsm-ng';
@@ -1026,6 +1030,7 @@ enum Selfhst: string
     case LabDash = 'selfhst-lab-dash';
     case Labelito = 'selfhst-labelito';
     case Ladder = 'selfhst-ladder';
+    case LanOrangutan = 'selfhst-lan-orangutan';
     case LancacheNet = 'selfhst-lancache-net';
     case Lancommander = 'selfhst-lancommander';
     case Langflow = 'selfhst-langflow';
@@ -1109,10 +1114,12 @@ enum Selfhst: string
     case Loki = 'selfhst-loki';
     case LollypopMusicPlayer = 'selfhst-lollypop-music-player';
     case Loops = 'selfhst-loops';
+    case LoreEpicGames = 'selfhst-lore-epic-games';
     case Lowcoder = 'selfhst-lowcoder';
     case Lufin = 'selfhst-lufin';
     case Lufthansa = 'selfhst-lufthansa';
     case Lululemon = 'selfhst-lululemon';
+    case Lumio = 'selfhst-lumio';
     case LunaDashboard = 'selfhst-luna-dashboard';
     case Lunalytics = 'selfhst-lunalytics';
     case Lunar = 'selfhst-lunar';
@@ -1404,6 +1411,7 @@ enum Selfhst: string
     case NoodleGallery = 'selfhst-noodle-gallery';
     case Nordvpn = 'selfhst-nordvpn';
     case Norish = 'selfhst-norish';
+    case NorthPoleSecurity = 'selfhst-north-pole-security';
     case NoteMark = 'selfhst-note-mark';
     case Notebooklm = 'selfhst-notebooklm';
     case Notediscovery = 'selfhst-notediscovery';
@@ -1866,6 +1874,7 @@ enum Selfhst: string
     case Roblox = 'selfhst-roblox';
     case RocketChat = 'selfhst-rocket-chat';
     case RockyLinux = 'selfhst-rocky-linux';
+    case Romarr = 'selfhst-romarr';
     case Romm = 'selfhst-romm';
     case RommPs2 = 'selfhst-romm-ps2';
     case RommSnes = 'selfhst-romm-snes';
@@ -1883,6 +1892,7 @@ enum Selfhst: string
     case Rundeck = 'selfhst-rundeck';
     case Runson = 'selfhst-runson';
     case Runtipi = 'selfhst-runtipi';
+    case Rurdesk = 'selfhst-rurdesk';
     case Rust = 'selfhst-rust';
     case Rusta = 'selfhst-rusta';
     case Rustdesk = 'selfhst-rustdesk';
@@ -1922,6 +1932,7 @@ enum Selfhst: string
     case Secluso = 'selfhst-secluso';
     case Secrover = 'selfhst-secrover';
     case SecureaiTools = 'selfhst-secureai-tools';
+    case Securo = 'selfhst-securo';
     case Seedsync = 'selfhst-seedsync';
     case Seelf = 'selfhst-seelf';
     case Seerr = 'selfhst-seerr';
@@ -1978,6 +1989,7 @@ enum Selfhst: string
     case SmartGarage = 'selfhst-smart-garage';
     case Smartfox = 'selfhst-smartfox';
     case Smlight = 'selfhst-smlight';
+    case SmoreNewsletter = 'selfhst-smore-newsletter';
     case Snapcast = 'selfhst-snapcast';
     case Snapchat = 'selfhst-snapchat';
     case Snapdrop = 'selfhst-snapdrop';
@@ -2219,6 +2231,7 @@ enum Selfhst: string
     case Ubuntu = 'selfhst-ubuntu';
     case UgreenNas = 'selfhst-ugreen-nas';
     case UiBakery = 'selfhst-ui-bakery';
+    case UltimateCertificateManager = 'selfhst-ultimate-certificate-manager';
     case Umami = 'selfhst-umami';
     case Umbrelos = 'selfhst-umbrelos';
     case Unblink = 'selfhst-unblink';
@@ -2279,6 +2292,7 @@ enum Selfhst: string
     case VisualStudioCode = 'selfhst-visual-studio-code';
     case Vitepress = 'selfhst-vitepress';
     case Vito = 'selfhst-vito';
+    case Vllm = 'selfhst-vllm';
     case VmwareEsx = 'selfhst-vmware-esx';
     case VmwareWorkstationPro = 'selfhst-vmware-workstation-pro';
     case Vodia = 'selfhst-vodia';
