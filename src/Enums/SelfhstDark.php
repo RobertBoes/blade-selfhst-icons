@@ -39,6 +39,7 @@ enum SelfhstDark: string
     case Affine = 'selfhst-affine-dark';
     case AgamSpace = 'selfhst-agam-space-dark';
     case AgentZero = 'selfhst-agent-zero-dark';
+    case Agentgateway = 'selfhst-agentgateway-dark';
     case Agregarr = 'selfhst-agregarr-dark';
     case Aiostreams = 'selfhst-aiostreams-dark';
     case Airpipe = 'selfhst-airpipe-dark';
@@ -1693,6 +1694,7 @@ enum SelfhstDark: string
     case Pushover = 'selfhst-pushover-dark';
     case Putty = 'selfhst-putty-dark';
     case PveNotebuddy = 'selfhst-pve-notebuddy-dark';
+    case PveUps = 'selfhst-pve-ups-dark';
     case Pyload = 'selfhst-pyload-dark';
     case Pyshelf = 'selfhst-pyshelf-dark';
     case Python = 'selfhst-python-dark';
@@ -1891,6 +1893,9 @@ enum SelfhstDark: string
     case Shuthost = 'selfhst-shuthost-dark';
     case Sid = 'selfhst-sid-dark';
     case Sidekiq = 'selfhst-sidekiq-dark';
+    case Sidero = 'selfhst-sidero-dark';
+    case SideroOmni = 'selfhst-sidero-omni-dark';
+    case SideroTalos = 'selfhst-sidero-talos-dark';
     case Signal = 'selfhst-signal-dark';
     case SignaturePdf = 'selfhst-signature-pdf-dark';
     case Signoz = 'selfhst-signoz-dark';
@@ -2186,6 +2191,7 @@ enum SelfhstDark: string
     case Vertiv = 'selfhst-vertiv-dark';
     case Viaplay = 'selfhst-viaplay-dark';
     case Victoriametrics = 'selfhst-victoriametrics-dark';
+    case Videogametrackarr = 'selfhst-videogametrackarr-dark';
     case Vidzy = 'selfhst-vidzy-dark';
     case Vikunja = 'selfhst-vikunja-dark';
     case Vimeo = 'selfhst-vimeo-dark';
@@ -2193,6 +2199,7 @@ enum SelfhstDark: string
     case Virola = 'selfhst-virola-dark';
     case Virtualbox = 'selfhst-virtualbox-dark';
     case Visa = 'selfhst-visa-dark';
+    case Visernic = 'selfhst-visernic-dark';
     case VisibleByVerizon = 'selfhst-visible-by-verizon-dark';
     case VisioMeet = 'selfhst-visio-meet-dark';
     case VisualDb = 'selfhst-visual-db-dark';

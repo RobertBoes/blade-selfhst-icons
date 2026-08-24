@@ -40,6 +40,7 @@ enum Selfhst: string
     case AgamSpace = 'selfhst-agam-space';
     case AgentDvr = 'selfhst-agent-dvr';
     case AgentZero = 'selfhst-agent-zero';
+    case Agentgateway = 'selfhst-agentgateway';
     case Agregarr = 'selfhst-agregarr';
     case Aiostreams = 'selfhst-aiostreams';
     case Airpipe = 'selfhst-airpipe';
@@ -1761,6 +1762,7 @@ enum Selfhst: string
     case Pushover = 'selfhst-pushover';
     case Putty = 'selfhst-putty';
     case PveNotebuddy = 'selfhst-pve-notebuddy';
+    case PveUps = 'selfhst-pve-ups';
     case Pyload = 'selfhst-pyload';
     case Pyshelf = 'selfhst-pyshelf';
     case Python = 'selfhst-python';
@@ -1966,6 +1968,9 @@ enum Selfhst: string
     case Shuthost = 'selfhst-shuthost';
     case Sid = 'selfhst-sid';
     case Sidekiq = 'selfhst-sidekiq';
+    case Sidero = 'selfhst-sidero';
+    case SideroOmni = 'selfhst-sidero-omni';
+    case SideroTalos = 'selfhst-sidero-talos';
     case Signal = 'selfhst-signal';
     case Signalcow = 'selfhst-signalcow';
     case SignaturePdf = 'selfhst-signature-pdf';
@@ -1983,6 +1988,7 @@ enum Selfhst: string
     case Slash = 'selfhst-slash';
     case Slashdot = 'selfhst-slashdot';
     case Slickdeals = 'selfhst-slickdeals';
+    case Slidev = 'selfhst-slidev';
     case Slotpoll = 'selfhst-slotpoll';
     case Slskd = 'selfhst-slskd';
     case Smallstep = 'selfhst-smallstep';
@@ -2277,6 +2283,7 @@ enum Selfhst: string
     case Vertiv = 'selfhst-vertiv';
     case Viaplay = 'selfhst-viaplay';
     case Victoriametrics = 'selfhst-victoriametrics';
+    case Videogametrackarr = 'selfhst-videogametrackarr';
     case Vidzy = 'selfhst-vidzy';
     case Vikunja = 'selfhst-vikunja';
     case Vimeo = 'selfhst-vimeo';
@@ -2285,6 +2292,7 @@ enum Selfhst: string
     case Virtualbox = 'selfhst-virtualbox';
     case Virtualbox2010 = 'selfhst-virtualbox-2010';
     case Visa = 'selfhst-visa';
+    case Visernic = 'selfhst-visernic';
     case Viseron = 'selfhst-viseron';
     case VisibleByVerizon = 'selfhst-visible-by-verizon';
     case VisioMeet = 'selfhst-visio-meet';

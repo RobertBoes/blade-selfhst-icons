@@ -39,6 +39,7 @@ enum SelfhstLight: string
     case Affine = 'selfhst-affine-light';
     case AgamSpace = 'selfhst-agam-space-light';
     case AgentZero = 'selfhst-agent-zero-light';
+    case Agentgateway = 'selfhst-agentgateway-light';
     case Agregarr = 'selfhst-agregarr-light';
     case Aiostreams = 'selfhst-aiostreams-light';
     case Airpipe = 'selfhst-airpipe-light';
@@ -1695,6 +1696,7 @@ enum SelfhstLight: string
     case Pushover = 'selfhst-pushover-light';
     case Putty = 'selfhst-putty-light';
     case PveNotebuddy = 'selfhst-pve-notebuddy-light';
+    case PveUps = 'selfhst-pve-ups-light';
     case Pyload = 'selfhst-pyload-light';
     case Pyshelf = 'selfhst-pyshelf-light';
     case Python = 'selfhst-python-light';
@@ -1895,6 +1897,9 @@ enum SelfhstLight: string
     case Shuthost = 'selfhst-shuthost-light';
     case Sid = 'selfhst-sid-light';
     case Sidekiq = 'selfhst-sidekiq-light';
+    case Sidero = 'selfhst-sidero-light';
+    case SideroOmni = 'selfhst-sidero-omni-light';
+    case SideroTalos = 'selfhst-sidero-talos-light';
     case Signal = 'selfhst-signal-light';
     case SignaturePdf = 'selfhst-signature-pdf-light';
     case Signoz = 'selfhst-signoz-light';
@@ -2193,6 +2198,7 @@ enum SelfhstLight: string
     case Vertiv = 'selfhst-vertiv-light';
     case Viaplay = 'selfhst-viaplay-light';
     case Victoriametrics = 'selfhst-victoriametrics-light';
+    case Videogametrackarr = 'selfhst-videogametrackarr-light';
     case Vidzy = 'selfhst-vidzy-light';
     case Vikunja = 'selfhst-vikunja-light';
     case Vimeo = 'selfhst-vimeo-light';
@@ -2200,6 +2206,7 @@ enum SelfhstLight: string
     case Virola = 'selfhst-virola-light';
     case Virtualbox = 'selfhst-virtualbox-light';
     case Visa = 'selfhst-visa-light';
+    case Visernic = 'selfhst-visernic-light';
     case VisibleByVerizon = 'selfhst-visible-by-verizon-light';
     case VisioMeet = 'selfhst-visio-meet-light';
     case VisualDb = 'selfhst-visual-db-light';
