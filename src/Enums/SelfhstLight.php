@@ -251,6 +251,7 @@ enum SelfhstLight: string
     case CalCom = 'selfhst-cal-com-light';
     case Calagopus = 'selfhst-calagopus-light';
     case CalibreWeb = 'selfhst-calibre-web-light';
+    case Calico = 'selfhst-calico-light';
     case Calmness = 'selfhst-calmness-light';
     case Calnode = 'selfhst-calnode-light';
     case Capacitarr = 'selfhst-capacitarr-light';
@@ -439,6 +440,7 @@ enum SelfhstLight: string
     case DockingStation = 'selfhst-docking-station-light';
     case Dockpeek = 'selfhst-dockpeek-light';
     case Dockprobe = 'selfhst-dockprobe-light';
+    case Docktail = 'selfhst-docktail-light';
     case Docmost = 'selfhst-docmost-light';
     case DocoCd = 'selfhst-doco-cd-light';
     case DocsCollaboration = 'selfhst-docs-collaboration-light';
@@ -521,7 +523,6 @@ enum SelfhstLight: string
     case Ephemera = 'selfhst-ephemera-light';
     case EpicGames = 'selfhst-epic-games-light';
     case Ergo = 'selfhst-ergo-light';
-    case Ersatztv = 'selfhst-ersatztv-light';
     case Erugo = 'selfhst-erugo-light';
     case Espconnect = 'selfhst-espconnect-light';
     case Esphome = 'selfhst-esphome-light';
@@ -740,6 +741,8 @@ enum SelfhstLight: string
     case GrafanaAlertsDashboard = 'selfhst-grafana-alerts-dashboard-light';
     case GrafanaAlloy = 'selfhst-grafana-alloy-light';
     case GrafanaMimir = 'selfhst-grafana-mimir-light';
+    case GrafanaPyroscope = 'selfhst-grafana-pyroscope-light';
+    case GrafanaTempo = 'selfhst-grafana-tempo-light';
     case Gramps = 'selfhst-gramps-light';
     case Grapheneos = 'selfhst-grapheneos-light';
     case Graphhopper = 'selfhst-graphhopper-light';
@@ -1015,6 +1018,7 @@ enum SelfhstLight: string
     case LiberaChat = 'selfhst-libera-chat-light';
     case Librarything = 'selfhst-librarything-light';
     case Librechat = 'selfhst-librechat-light';
+    case LibredbStudio = 'selfhst-libredb-studio-light';
     case Librenms = 'selfhst-librenms-light';
     case Libreoffice = 'selfhst-libreoffice-light';
     case Librephotos = 'selfhst-librephotos-light';
@@ -1658,7 +1662,6 @@ enum SelfhstLight: string
     case PrivateInternetAccess = 'selfhst-private-internet-access-light';
     case Privatebin = 'selfhst-privatebin-light';
     case Privatefolio = 'selfhst-privatefolio-light';
-    case Profilarr = 'selfhst-profilarr-light';
     case Progressive = 'selfhst-progressive-light';
     case Projectsend = 'selfhst-projectsend-light';
     case Prometheus = 'selfhst-prometheus-light';
@@ -1713,6 +1716,7 @@ enum SelfhstLight: string
     case Quickstack = 'selfhst-quickstack-light';
     case Quickwit = 'selfhst-quickwit-light';
     case QuietChat = 'selfhst-quiet-chat-light';
+    case QuireInk = 'selfhst-quire-ink-light';
     case Qwik = 'selfhst-qwik-light';
     case Rabbitmq = 'selfhst-rabbitmq-light';
     case Rachio = 'selfhst-rachio-light';
@@ -2078,6 +2082,7 @@ enum SelfhstLight: string
     case Tiddlywiki = 'selfhst-tiddlywiki-light';
     case Tidyquest = 'selfhst-tidyquest-light';
     case TiesLinkSharing = 'selfhst-ties-link-sharing-light';
+    case Tigera = 'selfhst-tigera-light';
     case Tiktok = 'selfhst-tiktok-light';
     case Tillywork = 'selfhst-tillywork-light';
     case Timeful = 'selfhst-timeful-light';

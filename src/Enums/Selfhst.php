@@ -243,6 +243,7 @@ enum Selfhst: string
     case Buildbot = 'selfhst-buildbot';
     case Bulwark = 'selfhst-bulwark';
     case Bumpsight = 'selfhst-bumpsight';
+    case Bun = 'selfhst-bun';
     case Bunkerweb = 'selfhst-bunkerweb';
     case BuyMeACoffee = 'selfhst-buy-me-a-coffee';
     case Byparr = 'selfhst-byparr';
@@ -258,6 +259,7 @@ enum Selfhst: string
     case Calagopus = 'selfhst-calagopus';
     case Calibre = 'selfhst-calibre';
     case CalibreWeb = 'selfhst-calibre-web';
+    case Calico = 'selfhst-calico';
     case Calmness = 'selfhst-calmness';
     case Calnode = 'selfhst-calnode';
     case Cannery = 'selfhst-cannery';
@@ -460,6 +462,7 @@ enum Selfhst: string
     case DockingStation = 'selfhst-docking-station';
     case Dockpeek = 'selfhst-dockpeek';
     case Dockprobe = 'selfhst-dockprobe';
+    case Docktail = 'selfhst-docktail';
     case Docmost = 'selfhst-docmost';
     case DocoCd = 'selfhst-doco-cd';
     case DocsCollaboration = 'selfhst-docs-collaboration';
@@ -772,6 +775,8 @@ enum Selfhst: string
     case GrafanaAlertsDashboard = 'selfhst-grafana-alerts-dashboard';
     case GrafanaAlloy = 'selfhst-grafana-alloy';
     case GrafanaMimir = 'selfhst-grafana-mimir';
+    case GrafanaPyroscope = 'selfhst-grafana-pyroscope';
+    case GrafanaTempo = 'selfhst-grafana-tempo';
     case Gramps = 'selfhst-gramps';
     case Grapheneos = 'selfhst-grapheneos';
     case Graphhopper = 'selfhst-graphhopper';
@@ -919,7 +924,6 @@ enum Selfhst: string
     case Ironcalc = 'selfhst-ironcalc';
     case Ironmount = 'selfhst-ironmount';
     case Irs = 'selfhst-irs';
-    case Iru = 'selfhst-iru';
     case ItGlue = 'selfhst-it-glue';
     case ItTools = 'selfhst-it-tools';
     case ItsmNg = 'selfhst-itsm-ng';
@@ -1055,6 +1059,7 @@ enum Selfhst: string
     case LiberaChat = 'selfhst-libera-chat';
     case Librarything = 'selfhst-librarything';
     case Librechat = 'selfhst-librechat';
+    case LibredbStudio = 'selfhst-libredb-studio';
     case Librenms = 'selfhst-librenms';
     case Libreoffice = 'selfhst-libreoffice';
     case Librephotos = 'selfhst-librephotos';
@@ -1779,6 +1784,7 @@ enum Selfhst: string
     case Quickstack = 'selfhst-quickstack';
     case Quickwit = 'selfhst-quickwit';
     case QuietChat = 'selfhst-quiet-chat';
+    case QuireInk = 'selfhst-quire-ink';
     case Qwik = 'selfhst-qwik';
     case Rabbitmq = 'selfhst-rabbitmq';
     case Rachio = 'selfhst-rachio';
@@ -2158,6 +2164,7 @@ enum Selfhst: string
     case Tiddlywiki = 'selfhst-tiddlywiki';
     case Tidyquest = 'selfhst-tidyquest';
     case TiesLinkSharing = 'selfhst-ties-link-sharing';
+    case Tigera = 'selfhst-tigera';
     case Tiktok = 'selfhst-tiktok';
     case Tillywork = 'selfhst-tillywork';
     case Timeful = 'selfhst-timeful';
