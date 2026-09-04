@@ -251,6 +251,7 @@ enum SelfhstDark: string
     case CalCom = 'selfhst-cal-com-dark';
     case Calagopus = 'selfhst-calagopus-dark';
     case CalibreWeb = 'selfhst-calibre-web-dark';
+    case Calico = 'selfhst-calico-dark';
     case Calmness = 'selfhst-calmness-dark';
     case Calnode = 'selfhst-calnode-dark';
     case Capacitarr = 'selfhst-capacitarr-dark';
@@ -439,6 +440,7 @@ enum SelfhstDark: string
     case DockingStation = 'selfhst-docking-station-dark';
     case Dockpeek = 'selfhst-dockpeek-dark';
     case Dockprobe = 'selfhst-dockprobe-dark';
+    case Docktail = 'selfhst-docktail-dark';
     case Docmost = 'selfhst-docmost-dark';
     case DocoCd = 'selfhst-doco-cd-dark';
     case DocsCollaboration = 'selfhst-docs-collaboration-dark';
@@ -521,7 +523,6 @@ enum SelfhstDark: string
     case Ephemera = 'selfhst-ephemera-dark';
     case EpicGames = 'selfhst-epic-games-dark';
     case Ergo = 'selfhst-ergo-dark';
-    case Ersatztv = 'selfhst-ersatztv-dark';
     case Erugo = 'selfhst-erugo-dark';
     case Espconnect = 'selfhst-espconnect-dark';
     case Esphome = 'selfhst-esphome-dark';
@@ -740,6 +741,8 @@ enum SelfhstDark: string
     case GrafanaAlertsDashboard = 'selfhst-grafana-alerts-dashboard-dark';
     case GrafanaAlloy = 'selfhst-grafana-alloy-dark';
     case GrafanaMimir = 'selfhst-grafana-mimir-dark';
+    case GrafanaPyroscope = 'selfhst-grafana-pyroscope-dark';
+    case GrafanaTempo = 'selfhst-grafana-tempo-dark';
     case Gramps = 'selfhst-gramps-dark';
     case Grapheneos = 'selfhst-grapheneos-dark';
     case Graphhopper = 'selfhst-graphhopper-dark';
@@ -1015,6 +1018,7 @@ enum SelfhstDark: string
     case LiberaChat = 'selfhst-libera-chat-dark';
     case Librarything = 'selfhst-librarything-dark';
     case Librechat = 'selfhst-librechat-dark';
+    case LibredbStudio = 'selfhst-libredb-studio-dark';
     case Librenms = 'selfhst-librenms-dark';
     case Libreoffice = 'selfhst-libreoffice-dark';
     case Librephotos = 'selfhst-librephotos-dark';
@@ -1657,7 +1661,6 @@ enum SelfhstDark: string
     case PrivateInternetAccess = 'selfhst-private-internet-access-dark';
     case Privatebin = 'selfhst-privatebin-dark';
     case Privatefolio = 'selfhst-privatefolio-dark';
-    case Profilarr = 'selfhst-profilarr-dark';
     case Progressive = 'selfhst-progressive-dark';
     case Projectsend = 'selfhst-projectsend-dark';
     case Prometheus = 'selfhst-prometheus-dark';
@@ -1711,6 +1714,7 @@ enum SelfhstDark: string
     case Quickstack = 'selfhst-quickstack-dark';
     case Quickwit = 'selfhst-quickwit-dark';
     case QuietChat = 'selfhst-quiet-chat-dark';
+    case QuireInk = 'selfhst-quire-ink-dark';
     case Qwik = 'selfhst-qwik-dark';
     case Rabbitmq = 'selfhst-rabbitmq-dark';
     case Rachio = 'selfhst-rachio-dark';
@@ -2071,6 +2075,7 @@ enum SelfhstDark: string
     case Tiddlywiki = 'selfhst-tiddlywiki-dark';
     case Tidyquest = 'selfhst-tidyquest-dark';
     case TiesLinkSharing = 'selfhst-ties-link-sharing-dark';
+    case Tigera = 'selfhst-tigera-dark';
     case Tiktok = 'selfhst-tiktok-dark';
     case Tillywork = 'selfhst-tillywork-dark';
     case Timeful = 'selfhst-timeful-dark';
