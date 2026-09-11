@@ -997,6 +997,7 @@ enum Selfhst: string
     case KoFi = 'selfhst-ko-fi';
     case Kodi = 'selfhst-kodi';
     case Koel = 'selfhst-koel';
+    case Kohls = 'selfhst-kohls';
     case Koito = 'selfhst-koito';
     case Komelia = 'selfhst-komelia';
     case Kometa = 'selfhst-kometa';
