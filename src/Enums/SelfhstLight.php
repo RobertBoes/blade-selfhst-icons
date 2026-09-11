@@ -958,6 +958,7 @@ enum SelfhstLight: string
     case KoFi = 'selfhst-ko-fi-light';
     case Kodi = 'selfhst-kodi-light';
     case Koel = 'selfhst-koel-light';
+    case Kohls = 'selfhst-kohls-light';
     case Koito = 'selfhst-koito-light';
     case Komelia = 'selfhst-komelia-light';
     case Kometa = 'selfhst-kometa-light';

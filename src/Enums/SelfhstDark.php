@@ -958,6 +958,7 @@ enum SelfhstDark: string
     case KoFi = 'selfhst-ko-fi-dark';
     case Kodi = 'selfhst-kodi-dark';
     case Koel = 'selfhst-koel-dark';
+    case Kohls = 'selfhst-kohls-dark';
     case Koito = 'selfhst-koito-dark';
     case Komelia = 'selfhst-komelia-dark';
     case Kometa = 'selfhst-kometa-dark';
