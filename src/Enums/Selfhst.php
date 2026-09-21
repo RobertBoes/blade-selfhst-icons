@@ -312,7 +312,9 @@ enum Selfhst: string
     case CleanSlate = 'selfhst-clean-slate';
     case Clickhouse = 'selfhst-clickhouse';
     case Clipable = 'selfhst-clipable';
+    case Cliparr = 'selfhst-cliparr';
     case Clipcascade = 'selfhst-clipcascade';
+    case CloudInABottle = 'selfhst-cloud-in-a-bottle';
     case Cloudbeaver = 'selfhst-cloudbeaver';
     case Cloudflare = 'selfhst-cloudflare';
     case CloudflareZeroTrust = 'selfhst-cloudflare-zero-trust';
@@ -337,6 +339,7 @@ enum Selfhst: string
     case Comfyui = 'selfhst-comfyui';
     case Commafeed = 'selfhst-commafeed';
     case Commento = 'selfhst-commento';
+    case CompassDashboard = 'selfhst-compass-dashboard';
     case ComposeCraft = 'selfhst-compose-craft';
     case Composerize = 'selfhst-composerize';
     case Composetoolbox = 'selfhst-composetoolbox';
@@ -553,6 +556,7 @@ enum Selfhst: string
     case Espconnect = 'selfhst-espconnect';
     case Esphome = 'selfhst-esphome';
     case Espocrm = 'selfhst-espocrm';
+    case Etcd = 'selfhst-etcd';
     case EternalVows = 'selfhst-eternal-vows';
     case Etesync = 'selfhst-etesync';
     case Etherpad = 'selfhst-etherpad';
@@ -594,6 +598,7 @@ enum Selfhst: string
     case Fiberstore = 'selfhst-fiberstore';
     case Fidelity = 'selfhst-fidelity';
     case Fider = 'selfhst-fider';
+    case Figma = 'selfhst-figma';
     case Filameter = 'selfhst-filameter';
     case FileBrowser = 'selfhst-file-browser';
     case FileExplorer = 'selfhst-file-explorer';
@@ -817,6 +822,8 @@ enum Selfhst: string
     case HashicorpWaypoint = 'selfhst-hashicorp-waypoint';
     case Hauk = 'selfhst-hauk';
     case Haus = 'selfhst-haus';
+    case Haven = 'selfhst-haven';
+    case Hawser = 'selfhst-hawser';
     case Hbo = 'selfhst-hbo';
     case HboMax = 'selfhst-hbo-max';
     case Hdhomerun = 'selfhst-hdhomerun';
@@ -829,6 +836,7 @@ enum Selfhst: string
     case Helm = 'selfhst-helm';
     case Hemmelig = 'selfhst-hemmelig';
     case HereNow = 'selfhst-here-now';
+    case HermesAgent = 'selfhst-hermes-agent';
     case Hermesseg = 'selfhst-hermesseg';
     case Heroku = 'selfhst-heroku';
     case Hetrixtools = 'selfhst-hetrixtools';
@@ -857,6 +865,7 @@ enum Selfhst: string
     case Homepage = 'selfhst-homepage';
     case Homer = 'selfhst-homer';
     case HomescreenHero = 'selfhst-homescreen-hero';
+    case Hometube = 'selfhst-hometube';
     case Hoodik = 'selfhst-hoodik';
     case Hook0 = 'selfhst-hook0';
     case Hoppscotch = 'selfhst-hoppscotch';
@@ -958,6 +967,7 @@ enum Selfhst: string
     case Jupiterone = 'selfhst-jupiterone';
     case Jupyter = 'selfhst-jupyter';
     case JwtIo = 'selfhst-jwt-io';
+    case K7 = 'selfhst-k7';
     case Kagi = 'selfhst-kagi';
     case KaliLinux = 'selfhst-kali-linux';
     case KaliLinuxWordmark = 'selfhst-kali-linux-wordmark';
@@ -1031,6 +1041,7 @@ enum Selfhst: string
     case Kubetail = 'selfhst-kubetail';
     case Kubuntu = 'selfhst-kubuntu';
     case Kumiho = 'selfhst-kumiho';
+    case Kuvasz = 'selfhst-kuvasz';
     case KwsxRadio = 'selfhst-kwsx-radio';
     case Kyoo = 'selfhst-kyoo';
     case LabDash = 'selfhst-lab-dash';
@@ -1142,10 +1153,12 @@ enum Selfhst: string
     case MailInABox = 'selfhst-mail-in-a-box';
     case Mailchimp = 'selfhst-mailchimp';
     case Mailcow = 'selfhst-mailcow';
+    case Maildev = 'selfhst-maildev';
     case MailflowSh = 'selfhst-mailflow-sh';
     case Mailgun = 'selfhst-mailgun';
     case Mailjet = 'selfhst-mailjet';
     case Mailpit = 'selfhst-mailpit';
+    case Mailrise = 'selfhst-mailrise';
     case Mailstore = 'selfhst-mailstore';
     case Mainsail = 'selfhst-mainsail';
     case Maintainerr = 'selfhst-maintainerr';
@@ -1154,7 +1167,6 @@ enum Selfhst: string
     case MakersVault = 'selfhst-makers-vault';
     case Maloja = 'selfhst-maloja';
     case Manifest = 'selfhst-manifest';
-    case Mantrae = 'selfhst-mantrae';
     case ManyNotes = 'selfhst-many-notes';
     case Mariadb = 'selfhst-mariadb';
     case Markstack = 'selfhst-markstack';
@@ -1658,6 +1670,7 @@ enum Selfhst: string
     case Pixelfed = 'selfhst-pixelfed';
     case Pixelfin = 'selfhst-pixelfin';
     case Pixiv = 'selfhst-pixiv';
+    case Pkvault = 'selfhst-pkvault';
     case Plakar = 'selfhst-plakar';
     case Planarally = 'selfhst-planarally';
     case Plane = 'selfhst-plane';
@@ -1720,6 +1733,7 @@ enum Selfhst: string
     case PowershellUniversal = 'selfhst-powershell-universal';
     case Poznote = 'selfhst-poznote';
     case Prestashop = 'selfhst-prestashop';
+    case Pricebuddy = 'selfhst-pricebuddy';
     case Priceghost = 'selfhst-priceghost';
     case Printables = 'selfhst-printables';
     case Privadovpn = 'selfhst-privadovpn';
@@ -1840,6 +1854,8 @@ enum Selfhst: string
     case Recipesage = 'selfhst-recipesage';
     case Reclaimerr = 'selfhst-reclaimerr';
     case Recyclarr = 'selfhst-recyclarr';
+    case RedHat = 'selfhst-red-hat';
+    case RedHatLightspeed = 'selfhst-red-hat-lightspeed';
     case Reddit = 'selfhst-reddit';
     case RedditDownvote = 'selfhst-reddit-downvote';
     case RedditUpvote = 'selfhst-reddit-upvote';
@@ -1871,6 +1887,7 @@ enum Selfhst: string
     case Revolt = 'selfhst-revolt';
     case Rgallery = 'selfhst-rgallery';
     case Rhasspy = 'selfhst-rhasspy';
+    case Rhel = 'selfhst-rhel';
     case Richy = 'selfhst-richy';
     case Rimgo = 'selfhst-rimgo';
     case Ring = 'selfhst-ring';
@@ -2145,6 +2162,7 @@ enum Selfhst: string
     case Tenzu = 'selfhst-tenzu';
     case Termix = 'selfhst-termix';
     case Teslamate = 'selfhst-teslamate';
+    case TetherTraefik = 'selfhst-tether-traefik';
     case Thanos = 'selfhst-thanos';
     case TheLounge = 'selfhst-the-lounge';
     case TheNewYorkTimes = 'selfhst-the-new-york-times';
@@ -2162,6 +2180,7 @@ enum Selfhst: string
     case Ticktick = 'selfhst-ticktick';
     case Ticky = 'selfhst-ticky';
     case Tidal = 'selfhst-tidal';
+    case Tidarr = 'selfhst-tidarr';
     case Tiddlywiki = 'selfhst-tiddlywiki';
     case Tidyquest = 'selfhst-tidyquest';
     case TiesLinkSharing = 'selfhst-ties-link-sharing';
@@ -2221,6 +2240,7 @@ enum Selfhst: string
     case Tududi = 'selfhst-tududi';
     case Tugtainer = 'selfhst-tugtainer';
     case Tumblr = 'selfhst-tumblr';
+    case TuringSmartScreen = 'selfhst-turing-smart-screen';
     case TurnkeyLinux = 'selfhst-turnkey-linux';
     case Tv2Play = 'selfhst-tv2-play';
     case Tvdb = 'selfhst-tvdb';
@@ -2273,6 +2293,7 @@ enum Selfhst: string
     case Utorrent = 'selfhst-utorrent';
     case V2raya = 'selfhst-v2raya';
     case Valetudo = 'selfhst-valetudo';
+    case ValhallaMaps = 'selfhst-valhalla-maps';
     case Valkey = 'selfhst-valkey';
     case Vanguard = 'selfhst-vanguard';
     case VanillaCookbook = 'selfhst-vanilla-cookbook';
