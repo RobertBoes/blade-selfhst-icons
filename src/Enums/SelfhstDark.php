@@ -41,6 +41,7 @@ enum SelfhstDark: string
     case AgentZero = 'selfhst-agent-zero-dark';
     case Agentgateway = 'selfhst-agentgateway-dark';
     case Agregarr = 'selfhst-agregarr-dark';
+    case Aiometadata = 'selfhst-aiometadata-dark';
     case Aiostreams = 'selfhst-aiostreams-dark';
     case Airpipe = 'selfhst-airpipe-dark';
     case Airsonic = 'selfhst-airsonic-dark';
@@ -268,6 +269,7 @@ enum SelfhstDark: string
     case Cerbos = 'selfhst-cerbos-dark';
     case CertManager = 'selfhst-cert-manager-dark';
     case Certimate = 'selfhst-certimate-dark';
+    case Cetusguard = 'selfhst-cetusguard-dark';
     case Changedetection = 'selfhst-changedetection-dark';
     case ChangelogNightly = 'selfhst-changelog-nightly-dark';
     case CharlesSchwab = 'selfhst-charles-schwab-dark';
@@ -365,6 +367,7 @@ enum SelfhstDark: string
     case CrossSeed = 'selfhst-cross-seed-dark';
     case Crosswatch = 'selfhst-crosswatch-dark';
     case CrowCi = 'selfhst-crow-ci-dark';
+    case Crowbarr = 'selfhst-crowbarr-dark';
     case Crowdsec = 'selfhst-crowdsec-dark';
     case CrowdsecManager = 'selfhst-crowdsec-manager-dark';
     case Crowdstrike = 'selfhst-crowdstrike-dark';
@@ -1543,6 +1546,7 @@ enum SelfhstDark: string
     case Pastefy = 'selfhst-pastefy-dark';
     case Patchmon = 'selfhst-patchmon-dark';
     case Patreon = 'selfhst-patreon-dark';
+    case Patzer = 'selfhst-patzer-dark';
     case Payload = 'selfhst-payload-dark';
     case Paymenter = 'selfhst-paymenter-dark';
     case Paypal = 'selfhst-paypal-dark';
@@ -1569,6 +1573,7 @@ enum SelfhstDark: string
     case Pfsense = 'selfhst-pfsense-dark';
     case PgBackWeb = 'selfhst-pg-back-web-dark';
     case Pgadmin = 'selfhst-pgadmin-dark';
+    case PgstySilo = 'selfhst-pgsty-silo-dark';
     case Phanpy = 'selfhst-phanpy-dark';
     case Phice = 'selfhst-phice-dark';
     case PhilipsHue = 'selfhst-philips-hue-dark';
@@ -1919,6 +1924,7 @@ enum SelfhstDark: string
     case SignaturePdf = 'selfhst-signature-pdf-dark';
     case Signoz = 'selfhst-signoz-dark';
     case Silex = 'selfhst-silex-dark';
+    case SiloMediaServer = 'selfhst-silo-media-server-dark';
     case Simpledms = 'selfhst-simpledms-dark';
     case Simplelogin = 'selfhst-simplelogin-dark';
     case SimplexChat = 'selfhst-simplex-chat-dark';
