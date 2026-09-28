@@ -41,6 +41,7 @@ enum SelfhstLight: string
     case AgentZero = 'selfhst-agent-zero-light';
     case Agentgateway = 'selfhst-agentgateway-light';
     case Agregarr = 'selfhst-agregarr-light';
+    case Aiometadata = 'selfhst-aiometadata-light';
     case Aiostreams = 'selfhst-aiostreams-light';
     case Airpipe = 'selfhst-airpipe-light';
     case Airsonic = 'selfhst-airsonic-light';
@@ -268,6 +269,7 @@ enum SelfhstLight: string
     case Cerbos = 'selfhst-cerbos-light';
     case CertManager = 'selfhst-cert-manager-light';
     case Certimate = 'selfhst-certimate-light';
+    case Cetusguard = 'selfhst-cetusguard-light';
     case Changedetection = 'selfhst-changedetection-light';
     case ChangelogNightly = 'selfhst-changelog-nightly-light';
     case CharlesSchwab = 'selfhst-charles-schwab-light';
@@ -365,6 +367,7 @@ enum SelfhstLight: string
     case CrossSeed = 'selfhst-cross-seed-light';
     case Crosswatch = 'selfhst-crosswatch-light';
     case CrowCi = 'selfhst-crow-ci-light';
+    case Crowbarr = 'selfhst-crowbarr-light';
     case Crowdsec = 'selfhst-crowdsec-light';
     case CrowdsecManager = 'selfhst-crowdsec-manager-light';
     case Crowdstrike = 'selfhst-crowdstrike-light';
@@ -1544,6 +1547,7 @@ enum SelfhstLight: string
     case Pastefy = 'selfhst-pastefy-light';
     case Patchmon = 'selfhst-patchmon-light';
     case Patreon = 'selfhst-patreon-light';
+    case Patzer = 'selfhst-patzer-light';
     case Payload = 'selfhst-payload-light';
     case Paymenter = 'selfhst-paymenter-light';
     case Paypal = 'selfhst-paypal-light';
@@ -1570,6 +1574,7 @@ enum SelfhstLight: string
     case Pfsense = 'selfhst-pfsense-light';
     case PgBackWeb = 'selfhst-pg-back-web-light';
     case Pgadmin = 'selfhst-pgadmin-light';
+    case PgstySilo = 'selfhst-pgsty-silo-light';
     case Phanpy = 'selfhst-phanpy-light';
     case Phice = 'selfhst-phice-light';
     case PhilipsHue = 'selfhst-philips-hue-light';
@@ -1923,6 +1928,7 @@ enum SelfhstLight: string
     case SignaturePdf = 'selfhst-signature-pdf-light';
     case Signoz = 'selfhst-signoz-light';
     case Silex = 'selfhst-silex-light';
+    case SiloMediaServer = 'selfhst-silo-media-server-light';
     case Simpledms = 'selfhst-simpledms-light';
     case Simplelogin = 'selfhst-simplelogin-light';
     case SimplexChat = 'selfhst-simplex-chat-light';

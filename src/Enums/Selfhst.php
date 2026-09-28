@@ -42,6 +42,7 @@ enum Selfhst: string
     case AgentZero = 'selfhst-agent-zero';
     case Agentgateway = 'selfhst-agentgateway';
     case Agregarr = 'selfhst-agregarr';
+    case Aiometadata = 'selfhst-aiometadata';
     case Aiostreams = 'selfhst-aiostreams';
     case Airpipe = 'selfhst-airpipe';
     case Airsonic = 'selfhst-airsonic';
@@ -282,6 +283,7 @@ enum Selfhst: string
     case Cerbos = 'selfhst-cerbos';
     case CertManager = 'selfhst-cert-manager';
     case Certimate = 'selfhst-certimate';
+    case Cetusguard = 'selfhst-cetusguard';
     case Changedetection = 'selfhst-changedetection';
     case ChangelogNightly = 'selfhst-changelog-nightly';
     case ChannelsDvr = 'selfhst-channels-dvr';
@@ -384,6 +386,7 @@ enum Selfhst: string
     case CrossSeed = 'selfhst-cross-seed';
     case Crosswatch = 'selfhst-crosswatch';
     case CrowCi = 'selfhst-crow-ci';
+    case Crowbarr = 'selfhst-crowbarr';
     case Crowdsec = 'selfhst-crowdsec';
     case CrowdsecManager = 'selfhst-crowdsec-manager';
     case Crowdstrike = 'selfhst-crowdstrike';
@@ -1607,6 +1610,7 @@ enum Selfhst: string
     case Pastefy = 'selfhst-pastefy';
     case Patchmon = 'selfhst-patchmon';
     case Patreon = 'selfhst-patreon';
+    case Patzer = 'selfhst-patzer';
     case Payload = 'selfhst-payload';
     case Paymenter = 'selfhst-paymenter';
     case Paypal = 'selfhst-paypal';
@@ -1633,6 +1637,7 @@ enum Selfhst: string
     case Pfsense = 'selfhst-pfsense';
     case PgBackWeb = 'selfhst-pg-back-web';
     case Pgadmin = 'selfhst-pgadmin';
+    case PgstySilo = 'selfhst-pgsty-silo';
     case Phanpy = 'selfhst-phanpy';
     case Phice = 'selfhst-phice';
     case PhilipsHue = 'selfhst-philips-hue';
@@ -2000,6 +2005,7 @@ enum Selfhst: string
     case SignaturePdf = 'selfhst-signature-pdf';
     case Signoz = 'selfhst-signoz';
     case Silex = 'selfhst-silex';
+    case SiloMediaServer = 'selfhst-silo-media-server';
     case Simpledms = 'selfhst-simpledms';
     case Simplelogin = 'selfhst-simplelogin';
     case SimplexChat = 'selfhst-simplex-chat';
@@ -2393,6 +2399,7 @@ enum Selfhst: string
     case WindowsDefender2016 = 'selfhst-windows-defender-2016';
     case WindowsRetro = 'selfhst-windows-retro';
     case WindowsTerminal = 'selfhst-windows-terminal';
+    case Windshift = 'selfhst-windshift';
     case Wiredoor = 'selfhst-wiredoor';
     case Wireguard = 'selfhst-wireguard';
     case WireguardTransparent = 'selfhst-wireguard-transparent';
