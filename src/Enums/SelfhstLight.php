@@ -269,6 +269,7 @@ enum SelfhstLight: string
     case Cerbos = 'selfhst-cerbos-light';
     case CertManager = 'selfhst-cert-manager-light';
     case Certimate = 'selfhst-certimate-light';
+    case Certshell = 'selfhst-certshell-light';
     case Cetusguard = 'selfhst-cetusguard-light';
     case Changedetection = 'selfhst-changedetection-light';
     case ChangelogNightly = 'selfhst-changelog-nightly-light';
@@ -315,6 +316,7 @@ enum SelfhstLight: string
     case Codepen = 'selfhst-codepen-light';
     case CodeprojectAiServer = 'selfhst-codeproject-ai-server-light';
     case Coder = 'selfhst-coder-light';
+    case Coffer = 'selfhst-coffer-light';
     case Coinmarketcap = 'selfhst-coinmarketcap-light';
     case Colanode = 'selfhst-colanode-light';
     case Colota = 'selfhst-colota-light';
@@ -331,6 +333,7 @@ enum SelfhstLight: string
     case Conduit = 'selfhst-conduit-light';
     case ConduitOpenWebui = 'selfhst-conduit-open-webui-light';
     case Conduwuit = 'selfhst-conduwuit-light';
+    case Conduyt = 'selfhst-conduyt-light';
     case Coneshare = 'selfhst-coneshare-light';
     case Configarr = 'selfhst-configarr-light';
     case Configclarity = 'selfhst-configclarity-light';
@@ -472,6 +475,7 @@ enum SelfhstLight: string
     case Dozzle = 'selfhst-dozzle-light';
     case Drasl = 'selfhst-drasl-light';
     case DrawIo = 'selfhst-draw-io-light';
+    case Dreeve = 'selfhst-dreeve-light';
     case Dribdat = 'selfhst-dribdat-light';
     case Drivebase = 'selfhst-drivebase-light';
     case DroneCi = 'selfhst-drone-ci-light';
@@ -665,6 +669,7 @@ enum SelfhstLight: string
     case Frigate = 'selfhst-frigate-light';
     case Frigoligo = 'selfhst-frigoligo-light';
     case Fritz = 'selfhst-fritz-light';
+    case Fromkai = 'selfhst-fromkai-light';
     case Fubotv = 'selfhst-fubotv-light';
     case Funkwhale = 'selfhst-funkwhale-light';
     case Fusionauth = 'selfhst-fusionauth-light';
@@ -799,6 +804,7 @@ enum SelfhstLight: string
     case Headplane = 'selfhst-headplane-light';
     case Headscale = 'selfhst-headscale-light';
     case Healthchecks = 'selfhst-healthchecks-light';
+    case Healthlog = 'selfhst-healthlog-light';
     case Hedgedoc = 'selfhst-hedgedoc-light';
     case Heimdall = 'selfhst-heimdall-light';
     case HeliumMobile = 'selfhst-helium-mobile-light';
@@ -1288,6 +1294,7 @@ enum SelfhstLight: string
     case Myip = 'selfhst-myip-light';
     case Mysql = 'selfhst-mysql-light';
     case Mysterium = 'selfhst-mysterium-light';
+    case MysteriumNode = 'selfhst-mysterium-node-light';
     case N8n = 'selfhst-n8n-light';
     case Nagios = 'selfhst-nagios-light';
     case Nakama = 'selfhst-nakama-light';
@@ -1466,6 +1473,7 @@ enum SelfhstLight: string
     case Openfga = 'selfhst-openfga-light';
     case Opengist = 'selfhst-opengist-light';
     case Opengrammar = 'selfhst-opengrammar-light';
+    case Opengym = 'selfhst-opengym-light';
     case Openhab = 'selfhst-openhab-light';
     case Openhands = 'selfhst-openhands-light';
     case Openldap = 'selfhst-openldap-light';
@@ -1653,6 +1661,7 @@ enum SelfhstLight: string
     case Poeticmetric = 'selfhst-poeticmetric-light';
     case Pogocache = 'selfhst-pogocache-light';
     case Polaris = 'selfhst-polaris-light';
+    case PolarisGameStreaming = 'selfhst-polaris-game-streaming-light';
     case Pomerium = 'selfhst-pomerium-light';
     case Porkbun = 'selfhst-porkbun-light';
     case Portabase = 'selfhst-portabase-light';
@@ -1699,6 +1708,7 @@ enum SelfhstLight: string
     case ProtonVpn = 'selfhst-proton-vpn-light';
     case ProtonWallet = 'selfhst-proton-wallet-light';
     case Protondb = 'selfhst-protondb-light';
+    case Proval = 'selfhst-proval-light';
     case Prowlarr = 'selfhst-prowlarr-light';
     case ProwlarrRadarr = 'selfhst-prowlarr-radarr-light';
     case Proxcenter = 'selfhst-proxcenter-light';
@@ -2026,7 +2036,6 @@ enum SelfhstLight: string
     case Storyteller = 'selfhst-storyteller-light';
     case Strapi = 'selfhst-strapi-light';
     case Strava = 'selfhst-strava-light';
-    case StravaStatistics = 'selfhst-strava-statistics-light';
     case Streamlink = 'selfhst-streamlink-light';
     case Streamx = 'selfhst-streamx-light';
     case Streamyfin = 'selfhst-streamyfin-light';
@@ -2067,6 +2076,7 @@ enum SelfhstLight: string
     case Synology = 'selfhst-synology-light';
     case System76 = 'selfhst-system76-light';
     case TMobile = 'selfhst-t-mobile-light';
+    case T3Code = 'selfhst-t3-code-light';
     case Tableau = 'selfhst-tableau-light';
     case Taiga = 'selfhst-taiga-light';
     case Tailscale = 'selfhst-tailscale-light';
