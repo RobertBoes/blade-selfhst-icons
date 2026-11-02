@@ -569,6 +569,7 @@ enum SelfhstLight: string
     case Feedlynx = 'selfhst-feedlynx-light';
     case Feedpushr = 'selfhst-feedpushr-light';
     case FeedsFun = 'selfhst-feeds-fun-light';
+    case Felicloud = 'selfhst-felicloud-light';
     case Ferdium = 'selfhst-ferdium-light';
     case Ferretdb = 'selfhst-ferretdb-light';
     case Ferrishare = 'selfhst-ferrishare-light';
@@ -586,6 +587,7 @@ enum SelfhstLight: string
     case FilebrowserQuantum = 'selfhst-filebrowser-quantum-light';
     case Filedrop = 'selfhst-filedrop-light';
     case Fileflows = 'selfhst-fileflows-light';
+    case FileflowsForge = 'selfhst-fileflows-forge-light';
     case Filegator = 'selfhst-filegator-light';
     case Filen = 'selfhst-filen-light';
     case Filerise = 'selfhst-filerise-light';
@@ -620,6 +622,7 @@ enum SelfhstLight: string
     case Fluffychat = 'selfhst-fluffychat-light';
     case Fluidcalendar = 'selfhst-fluidcalendar-light';
     case Fluidd = 'selfhst-fluidd-light';
+    case FluxOperator = 'selfhst-flux-operator-light';
     case Fluxer = 'selfhst-fluxer-light';
     case Fmd = 'selfhst-fmd-light';
     case Fnos = 'selfhst-fnos-light';
@@ -821,6 +824,7 @@ enum SelfhstLight: string
     case Heyform = 'selfhst-heyform-light';
     case HhfTechnology = 'selfhst-hhf-technology-light';
     case HiEvents = 'selfhst-hi-events-light';
+    case Hindsight = 'selfhst-hindsight-light';
     case Hister = 'selfhst-hister-light';
     case Hitkeep = 'selfhst-hitkeep-light';
     case Hivemq = 'selfhst-hivemq-light';
@@ -1385,6 +1389,7 @@ enum SelfhstLight: string
     case Nordvpn = 'selfhst-nordvpn-light';
     case Norish = 'selfhst-norish-light';
     case NorthPoleSecurity = 'selfhst-north-pole-security-light';
+    case Nostos = 'selfhst-nostos-light';
     case NoteMark = 'selfhst-note-mark-light';
     case Notebooklm = 'selfhst-notebooklm-light';
     case Notediscovery = 'selfhst-notediscovery-light';
@@ -2067,6 +2072,7 @@ enum SelfhstLight: string
     case SwingMusic = 'selfhst-swing-music-light';
     case Swiparr = 'selfhst-swiparr-light';
     case Swizzin = 'selfhst-swizzin-light';
+    case Synaplan = 'selfhst-synaplan-light';
     case Synapse = 'selfhst-synapse-light';
     case SyncIn = 'selfhst-sync-in-light';
     case Syncloud = 'selfhst-syncloud-light';
@@ -2139,6 +2145,7 @@ enum SelfhstLight: string
     case Tolgee = 'selfhst-tolgee-light';
     case Toodoom = 'selfhst-toodoom-light';
     case Tooljet = 'selfhst-tooljet-light';
+    case Toparr = 'selfhst-toparr-light';
     case Tor = 'selfhst-tor-light';
     case TorBrowser = 'selfhst-tor-browser-light';
     case Toyota = 'selfhst-toyota-light';
