@@ -5,6 +5,18 @@ and is maintained automatically by [release-please](https://github.com/googleapi
 Icon counts are de-duplicated across light/dark variants; see each release's pull
 requests for the full list of affected icons.
 
+## [0.4.0](https://github.com/RobertBoes/blade-selfhst-icons/compare/v0.3.12...v0.4.0) (2026-11-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* drop Laravel 11 support ([#46](https://github.com/RobertBoes/blade-selfhst-icons/issues/46))
+
+### Features
+
+* add 9, update 4 icons ([#45](https://github.com/RobertBoes/blade-selfhst-icons/issues/45)) ([7a1ec5a](https://github.com/RobertBoes/blade-selfhst-icons/commit/7a1ec5a21c314e4ba5a0539a2420ce2259b9bc36))
+* drop Laravel 11 support ([#46](https://github.com/RobertBoes/blade-selfhst-icons/issues/46)) ([084fb97](https://github.com/RobertBoes/blade-selfhst-icons/commit/084fb9748eb99b2e4276dc7ff2f2c78abb2c41bb))
+
 ## [0.3.12](https://github.com/RobertBoes/blade-selfhst-icons/compare/v0.3.11...v0.3.12) (2026-10-19)
 
 
