@@ -569,6 +569,7 @@ enum SelfhstDark: string
     case Feedlynx = 'selfhst-feedlynx-dark';
     case Feedpushr = 'selfhst-feedpushr-dark';
     case FeedsFun = 'selfhst-feeds-fun-dark';
+    case Felicloud = 'selfhst-felicloud-dark';
     case Ferdium = 'selfhst-ferdium-dark';
     case Ferretdb = 'selfhst-ferretdb-dark';
     case Ferrishare = 'selfhst-ferrishare-dark';
@@ -586,6 +587,7 @@ enum SelfhstDark: string
     case FilebrowserQuantum = 'selfhst-filebrowser-quantum-dark';
     case Filedrop = 'selfhst-filedrop-dark';
     case Fileflows = 'selfhst-fileflows-dark';
+    case FileflowsForge = 'selfhst-fileflows-forge-dark';
     case Filegator = 'selfhst-filegator-dark';
     case Filen = 'selfhst-filen-dark';
     case Filerise = 'selfhst-filerise-dark';
@@ -620,6 +622,7 @@ enum SelfhstDark: string
     case Fluffychat = 'selfhst-fluffychat-dark';
     case Fluidcalendar = 'selfhst-fluidcalendar-dark';
     case Fluidd = 'selfhst-fluidd-dark';
+    case FluxOperator = 'selfhst-flux-operator-dark';
     case Fluxer = 'selfhst-fluxer-dark';
     case Fmd = 'selfhst-fmd-dark';
     case Fnos = 'selfhst-fnos-dark';
@@ -821,6 +824,7 @@ enum SelfhstDark: string
     case Heyform = 'selfhst-heyform-dark';
     case HhfTechnology = 'selfhst-hhf-technology-dark';
     case HiEvents = 'selfhst-hi-events-dark';
+    case Hindsight = 'selfhst-hindsight-dark';
     case Hister = 'selfhst-hister-dark';
     case Hitkeep = 'selfhst-hitkeep-dark';
     case Hivemq = 'selfhst-hivemq-dark';
@@ -1384,6 +1388,7 @@ enum SelfhstDark: string
     case Nordvpn = 'selfhst-nordvpn-dark';
     case Norish = 'selfhst-norish-dark';
     case NorthPoleSecurity = 'selfhst-north-pole-security-dark';
+    case Nostos = 'selfhst-nostos-dark';
     case NoteMark = 'selfhst-note-mark-dark';
     case Notebooklm = 'selfhst-notebooklm-dark';
     case Notediscovery = 'selfhst-notediscovery-dark';
@@ -2060,6 +2065,7 @@ enum SelfhstDark: string
     case SwingMusic = 'selfhst-swing-music-dark';
     case Swiparr = 'selfhst-swiparr-dark';
     case Swizzin = 'selfhst-swizzin-dark';
+    case Synaplan = 'selfhst-synaplan-dark';
     case Synapse = 'selfhst-synapse-dark';
     case SyncIn = 'selfhst-sync-in-dark';
     case Syncloud = 'selfhst-syncloud-dark';
@@ -2132,6 +2138,7 @@ enum SelfhstDark: string
     case Tolgee = 'selfhst-tolgee-dark';
     case Toodoom = 'selfhst-toodoom-dark';
     case Tooljet = 'selfhst-tooljet-dark';
+    case Toparr = 'selfhst-toparr-dark';
     case Tor = 'selfhst-tor-dark';
     case TorBrowser = 'selfhst-tor-browser-dark';
     case Toyota = 'selfhst-toyota-dark';

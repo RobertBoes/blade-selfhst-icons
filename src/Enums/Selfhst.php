@@ -599,6 +599,7 @@ enum Selfhst: string
     case Feedlynx = 'selfhst-feedlynx';
     case Feedpushr = 'selfhst-feedpushr';
     case FeedsFun = 'selfhst-feeds-fun';
+    case Felicloud = 'selfhst-felicloud';
     case Fenrus = 'selfhst-fenrus';
     case Ferdium = 'selfhst-ferdium';
     case Ferretdb = 'selfhst-ferretdb';
@@ -617,6 +618,7 @@ enum Selfhst: string
     case FilebrowserQuantum = 'selfhst-filebrowser-quantum';
     case Filedrop = 'selfhst-filedrop';
     case Fileflows = 'selfhst-fileflows';
+    case FileflowsForge = 'selfhst-fileflows-forge';
     case Filegator = 'selfhst-filegator';
     case Filen = 'selfhst-filen';
     case Filepizza = 'selfhst-filepizza';
@@ -654,6 +656,7 @@ enum Selfhst: string
     case Fluffychat = 'selfhst-fluffychat';
     case Fluidcalendar = 'selfhst-fluidcalendar';
     case Fluidd = 'selfhst-fluidd';
+    case FluxOperator = 'selfhst-flux-operator';
     case Fluxer = 'selfhst-fluxer';
     case Fmd = 'selfhst-fmd';
     case Fnos = 'selfhst-fnos';
@@ -860,6 +863,7 @@ enum Selfhst: string
     case Heyform = 'selfhst-heyform';
     case HhfTechnology = 'selfhst-hhf-technology';
     case HiEvents = 'selfhst-hi-events';
+    case Hindsight = 'selfhst-hindsight';
     case Hister = 'selfhst-hister';
     case Hitkeep = 'selfhst-hitkeep';
     case Hivedav = 'selfhst-hivedav';
@@ -1098,6 +1102,7 @@ enum Selfhst: string
     case LidarrRadarr = 'selfhst-lidarr-radarr';
     case Lidbrainz = 'selfhst-lidbrainz';
     case Lightningrod = 'selfhst-lightningrod';
+    case Lightpanda = 'selfhst-lightpanda';
     case Limesurvey = 'selfhst-limesurvey';
     case Linear = 'selfhst-linear';
     case Lingarr = 'selfhst-lingarr';
@@ -1450,6 +1455,7 @@ enum Selfhst: string
     case Nordvpn = 'selfhst-nordvpn';
     case Norish = 'selfhst-norish';
     case NorthPoleSecurity = 'selfhst-north-pole-security';
+    case Nostos = 'selfhst-nostos';
     case NoteMark = 'selfhst-note-mark';
     case Notebooklm = 'selfhst-notebooklm';
     case Notediscovery = 'selfhst-notediscovery';
@@ -2077,6 +2083,7 @@ enum Selfhst: string
     case Sortarr = 'selfhst-sortarr';
     case Sortifyr = 'selfhst-sortifyr';
     case Sosse = 'selfhst-sosse';
+    case Soulbeet = 'selfhst-soulbeet';
     case Soulseek = 'selfhst-soulseek';
     case Soundcloud = 'selfhst-soundcloud';
     case Sourcehut = 'selfhst-sourcehut';
@@ -2157,6 +2164,7 @@ enum Selfhst: string
     case SwingMusic = 'selfhst-swing-music';
     case Swiparr = 'selfhst-swiparr';
     case Swizzin = 'selfhst-swizzin';
+    case Synaplan = 'selfhst-synaplan';
     case Synapse = 'selfhst-synapse';
     case SyncIn = 'selfhst-sync-in';
     case Syncloud = 'selfhst-syncloud';
@@ -2231,6 +2239,7 @@ enum Selfhst: string
     case Tolgee = 'selfhst-tolgee';
     case Toodoom = 'selfhst-toodoom';
     case Tooljet = 'selfhst-tooljet';
+    case Toparr = 'selfhst-toparr';
     case Tor = 'selfhst-tor';
     case TorBrowser = 'selfhst-tor-browser';
     case Touitomamout = 'selfhst-touitomamout';
