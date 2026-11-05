@@ -17,7 +17,7 @@ For a full list of available icons see [the SVG directory](resources/svg) or pre
 ## Requirements
 
 - PHP 8.2 or higher
-- Laravel 11.0 or higher
+- Laravel 12.0 or higher
 
 ## Installation
 
