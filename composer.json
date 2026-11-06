@@ -1,6 +1,7 @@
 {
     "name": "robertboes/blade-selfhst-icons",
     "description": "A package to easily make use of selfh.st Icons in your Laravel Blade views.",
+    "type": "library",
     "keywords": ["Blade", "selfh.st", "Icons", "Laravel"],
     "homepage": "https://github.com/RobertBoes/blade-selfhst-icons",
     "license": "MIT",
