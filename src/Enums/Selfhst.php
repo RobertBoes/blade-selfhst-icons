@@ -532,6 +532,7 @@ enum Selfhst: string
     case EasyRedmine = 'selfhst-easy-redmine';
     case Easypanel = 'selfhst-easypanel';
     case Ebay = 'selfhst-ebay';
+    case Ech0 = 'selfhst-ech0';
     case Ecowitt = 'selfhst-ecowitt';
     case Edentext = 'selfhst-edentext';
     case Edubuntu = 'selfhst-edubuntu';
@@ -812,6 +813,7 @@ enum Selfhst: string
     case Grok = 'selfhst-grok';
     case Groly = 'selfhst-groly';
     case Growchief = 'selfhst-growchief';
+    case Gryffi = 'selfhst-gryffi';
     case Gryt = 'selfhst-gryt';
     case GuardianPlex = 'selfhst-guardian-plex';
     case HabitatSocial = 'selfhst-habitat-social';
@@ -1007,6 +1009,7 @@ enum Selfhst: string
     case Keeper = 'selfhst-keeper';
     case Keila = 'selfhst-keila';
     case Kener = 'selfhst-kener';
+    case KeptInventory = 'selfhst-kept-inventory';
     case Kestra = 'selfhst-kestra';
     case Keycloak = 'selfhst-keycloak';
     case Keyhelp = 'selfhst-keyhelp';
@@ -1340,6 +1343,7 @@ enum Selfhst: string
     case Morphos = 'selfhst-morphos';
     case Mosquitto = 'selfhst-mosquitto';
     case Motioneye = 'selfhst-motioneye';
+    case Mousehole = 'selfhst-mousehole';
     case Movary = 'selfhst-movary';
     case Movim = 'selfhst-movim';
     case Mozilla = 'selfhst-mozilla';
@@ -1610,6 +1614,7 @@ enum Selfhst: string
     case Owntracks = 'selfhst-owntracks';
     case Oxicloud = 'selfhst-oxicloud';
     case Oxker = 'selfhst-oxker';
+    case Oxynote = 'selfhst-oxynote';
     case Pairdrop = 'selfhst-pairdrop';
     case Palmr = 'selfhst-palmr';
     case PaloAltoNetworks = 'selfhst-palo-alto-networks';
@@ -1726,6 +1731,7 @@ enum Selfhst: string
     case Plexamp = 'selfhst-plexamp';
     case Plezy = 'selfhst-plezy';
     case Plikshare = 'selfhst-plikshare';
+    case Plmail = 'selfhst-plmail';
     case Plumio = 'selfhst-plumio';
     case Pluton = 'selfhst-pluton';
     case Pocket = 'selfhst-pocket';
@@ -1739,6 +1745,7 @@ enum Selfhst: string
     case Pogocache = 'selfhst-pogocache';
     case Polaris = 'selfhst-polaris';
     case PolarisGameStreaming = 'selfhst-polaris-game-streaming';
+    case Pollaris = 'selfhst-pollaris';
     case Pomerium = 'selfhst-pomerium';
     case Porkbun = 'selfhst-porkbun';
     case Portabase = 'selfhst-portabase';
@@ -1775,6 +1782,7 @@ enum Selfhst: string
     case Progressive = 'selfhst-progressive';
     case Projectsend = 'selfhst-projectsend';
     case Prometheus = 'selfhst-prometheus';
+    case Pronote = 'selfhst-pronote';
     case Proshop = 'selfhst-proshop';
     case Prosody = 'selfhst-prosody';
     case Proton = 'selfhst-proton';
@@ -1901,6 +1909,7 @@ enum Selfhst: string
     case RegistryConsole = 'selfhst-registry-console';
     case Reitti = 'selfhst-reitti';
     case Relaticle = 'selfhst-relaticle';
+    case Relaytv = 'selfhst-relaytv';
     case RelicStorage = 'selfhst-relic-storage';
     case Remmina = 'selfhst-remmina';
     case Remoteterm = 'selfhst-remoteterm';
@@ -1918,6 +1927,7 @@ enum Selfhst: string
     case Revel = 'selfhst-revel';
     case ReviewBoard = 'selfhst-review-board';
     case Revolt = 'selfhst-revolt';
+    case Rewindarr = 'selfhst-rewindarr';
     case Rgallery = 'selfhst-rgallery';
     case Rhasspy = 'selfhst-rhasspy';
     case Rhel = 'selfhst-rhel';
@@ -1928,6 +1938,7 @@ enum Selfhst: string
     case RipeAtlas = 'selfhst-ripe-atlas';
     case Riven = 'selfhst-riven';
     case RiversideFm = 'selfhst-riverside-fm';
+    case RobinTracking = 'selfhst-robin-tracking';
     case Robinhood = 'selfhst-robinhood';
     case Robinson = 'selfhst-robinson';
     case Roblox = 'selfhst-roblox';
@@ -2181,6 +2192,7 @@ enum Selfhst: string
     case TandoorRecipes = 'selfhst-tandoor-recipes';
     case TangerineUi = 'selfhst-tangerine-ui';
     case Target = 'selfhst-target';
+    case Taskade = 'selfhst-taskade';
     case Tasktrove = 'selfhst-tasktrove';
     case Tasmoadmin = 'selfhst-tasmoadmin';
     case Tasmocompiler = 'selfhst-tasmocompiler';
@@ -2249,6 +2261,7 @@ enum Selfhst: string
     case Trac = 'selfhst-trac';
     case Traccar = 'selfhst-traccar';
     case Tracearr = 'selfhst-tracearr';
+    case Traceway = 'selfhst-traceway';
     case Trackly = 'selfhst-trackly';
     case Tracktor = 'selfhst-tracktor';
     case TradeRepublic = 'selfhst-trade-republic';
