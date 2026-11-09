@@ -504,6 +504,7 @@ enum SelfhstDark: string
     case EasyRedmine = 'selfhst-easy-redmine-dark';
     case Easypanel = 'selfhst-easypanel-dark';
     case Ebay = 'selfhst-ebay-dark';
+    case Ech0 = 'selfhst-ech0-dark';
     case Ecowitt = 'selfhst-ecowitt-dark';
     case Edubuntu = 'selfhst-edubuntu-dark';
     case Eenvo = 'selfhst-eenvo-dark';
@@ -773,6 +774,7 @@ enum SelfhstDark: string
     case Grok = 'selfhst-grok-dark';
     case Groly = 'selfhst-groly-dark';
     case Growchief = 'selfhst-growchief-dark';
+    case Gryffi = 'selfhst-gryffi-dark';
     case Gryt = 'selfhst-gryt-dark';
     case GuardianPlex = 'selfhst-guardian-plex-dark';
     case HabitatSocial = 'selfhst-habitat-social-dark';
@@ -965,6 +967,7 @@ enum SelfhstDark: string
     case Keeper = 'selfhst-keeper-dark';
     case Keila = 'selfhst-keila-dark';
     case Kener = 'selfhst-kener-dark';
+    case KeptInventory = 'selfhst-kept-inventory-dark';
     case Kestra = 'selfhst-kestra-dark';
     case Keycloak = 'selfhst-keycloak-dark';
     case Keyhelp = 'selfhst-keyhelp-dark';
@@ -1275,6 +1278,7 @@ enum SelfhstDark: string
     case Moodle = 'selfhst-moodle-dark';
     case Mosquitto = 'selfhst-mosquitto-dark';
     case Motioneye = 'selfhst-motioneye-dark';
+    case Mousehole = 'selfhst-mousehole-dark';
     case Movary = 'selfhst-movary-dark';
     case Movim = 'selfhst-movim-dark';
     case Mozilla = 'selfhst-mozilla-dark';
@@ -1540,6 +1544,7 @@ enum SelfhstDark: string
     case Owntracks = 'selfhst-owntracks-dark';
     case Oxicloud = 'selfhst-oxicloud-dark';
     case Oxker = 'selfhst-oxker-dark';
+    case Oxynote = 'selfhst-oxynote-dark';
     case Pairdrop = 'selfhst-pairdrop-dark';
     case Palmr = 'selfhst-palmr-dark';
     case PaloAltoNetworks = 'selfhst-palo-alto-networks-dark';
@@ -1654,6 +1659,7 @@ enum SelfhstDark: string
     case Plexamp = 'selfhst-plexamp-dark';
     case Plezy = 'selfhst-plezy-dark';
     case Plikshare = 'selfhst-plikshare-dark';
+    case Plmail = 'selfhst-plmail-dark';
     case Plumio = 'selfhst-plumio-dark';
     case Pluton = 'selfhst-pluton-dark';
     case Pocket = 'selfhst-pocket-dark';
@@ -1666,6 +1672,7 @@ enum SelfhstDark: string
     case Pogocache = 'selfhst-pogocache-dark';
     case Polaris = 'selfhst-polaris-dark';
     case PolarisGameStreaming = 'selfhst-polaris-game-streaming-dark';
+    case Pollaris = 'selfhst-pollaris-dark';
     case Pomerium = 'selfhst-pomerium-dark';
     case Porkbun = 'selfhst-porkbun-dark';
     case Portabase = 'selfhst-portabase-dark';
@@ -1700,6 +1707,7 @@ enum SelfhstDark: string
     case Progressive = 'selfhst-progressive-dark';
     case Projectsend = 'selfhst-projectsend-dark';
     case Prometheus = 'selfhst-prometheus-dark';
+    case Pronote = 'selfhst-pronote-dark';
     case Proshop = 'selfhst-proshop-dark';
     case Prosody = 'selfhst-prosody-dark';
     case Proton = 'selfhst-proton-dark';
@@ -1818,6 +1826,7 @@ enum SelfhstDark: string
     case RegistryConsole = 'selfhst-registry-console-dark';
     case Reitti = 'selfhst-reitti-dark';
     case Relaticle = 'selfhst-relaticle-dark';
+    case Relaytv = 'selfhst-relaytv-dark';
     case RelicStorage = 'selfhst-relic-storage-dark';
     case Remmina = 'selfhst-remmina-dark';
     case Remoteterm = 'selfhst-remoteterm-dark';
@@ -1835,6 +1844,7 @@ enum SelfhstDark: string
     case Revel = 'selfhst-revel-dark';
     case ReviewBoard = 'selfhst-review-board-dark';
     case Revolt = 'selfhst-revolt-dark';
+    case Rewindarr = 'selfhst-rewindarr-dark';
     case Rgallery = 'selfhst-rgallery-dark';
     case Rhasspy = 'selfhst-rhasspy-dark';
     case Rhel = 'selfhst-rhel-dark';
@@ -2082,6 +2092,7 @@ enum SelfhstDark: string
     case TandoorRecipes = 'selfhst-tandoor-recipes-dark';
     case TangerineUi = 'selfhst-tangerine-ui-dark';
     case Target = 'selfhst-target-dark';
+    case Taskade = 'selfhst-taskade-dark';
     case Tasktrove = 'selfhst-tasktrove-dark';
     case Tasmoadmin = 'selfhst-tasmoadmin-dark';
     case Tasmocompiler = 'selfhst-tasmocompiler-dark';
@@ -2147,6 +2158,7 @@ enum SelfhstDark: string
     case Trac = 'selfhst-trac-dark';
     case Traccar = 'selfhst-traccar-dark';
     case Tracearr = 'selfhst-tracearr-dark';
+    case Traceway = 'selfhst-traceway-dark';
     case Trackly = 'selfhst-trackly-dark';
     case Tracktor = 'selfhst-tracktor-dark';
     case TradeRepublic = 'selfhst-trade-republic-dark';
