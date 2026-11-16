@@ -155,6 +155,8 @@ enum Selfhst: string
     case Audiobookrequest = 'selfhst-audiobookrequest';
     case Audiobookshelf = 'selfhst-audiobookshelf';
     case Audiodeck = 'selfhst-audiodeck';
+    case Audiosilo = 'selfhst-audiosilo';
+    case Auditorr = 'selfhst-auditorr';
     case Aureus = 'selfhst-aureus';
     case Aurral = 'selfhst-aurral';
     case Authelia = 'selfhst-authelia';
@@ -301,6 +303,7 @@ enum Selfhst: string
     case ChhotoUrl = 'selfhst-chhoto-url';
     case Chibisafe = 'selfhst-chibisafe';
     case Chili3d = 'selfhst-chili3d';
+    case Chirpstack = 'selfhst-chirpstack';
     case Chirpy = 'selfhst-chirpy';
     case Chitchatter = 'selfhst-chitchatter';
     case Chorizard = 'selfhst-chorizard';
@@ -496,6 +499,7 @@ enum Selfhst: string
     case Dooropener = 'selfhst-dooropener';
     case DopeSecurity = 'selfhst-dope-security';
     case Doppler = 'selfhst-doppler';
+    case Doska = 'selfhst-doska';
     case Dosvault = 'selfhst-dosvault';
     case DoubleTake = 'selfhst-double-take';
     case Dovecot = 'selfhst-dovecot';
@@ -730,6 +734,7 @@ enum Selfhst: string
     case Ghostboard = 'selfhst-ghostboard';
     case Ghostfolio = 'selfhst-ghostfolio';
     case Ghostty = 'selfhst-ghostty';
+    case Ghstats = 'selfhst-ghstats';
     case Gimp = 'selfhst-gimp';
     case Giraffile = 'selfhst-giraffile';
     case Git = 'selfhst-git';
@@ -872,6 +877,7 @@ enum Selfhst: string
     case Hivemq = 'selfhst-hivemq';
     case Hoarder = 'selfhst-hoarder';
     case Hollo = 'selfhst-hollo';
+    case Holyarrs = 'selfhst-holyarrs';
     case Homarr = 'selfhst-homarr';
     case HomeAssistant = 'selfhst-home-assistant';
     case HomeAssistantMatterHub = 'selfhst-home-assistant-matter-hub';
@@ -1092,6 +1098,7 @@ enum Selfhst: string
     case Libation = 'selfhst-libation';
     case LiberaChat = 'selfhst-libera-chat';
     case Librarything = 'selfhst-librarything';
+    case LibreCloset = 'selfhst-libre-closet';
     case Librechat = 'selfhst-librechat';
     case LibredbStudio = 'selfhst-libredb-studio';
     case Librenms = 'selfhst-librenms';
@@ -1368,6 +1375,7 @@ enum Selfhst: string
     case Mysql = 'selfhst-mysql';
     case Mysterium = 'selfhst-mysterium';
     case MysteriumNode = 'selfhst-mysterium-node';
+    case Mytview = 'selfhst-mytview';
     case N8n = 'selfhst-n8n';
     case Nagios = 'selfhst-nagios';
     case Nakama = 'selfhst-nakama';
@@ -1603,6 +1611,7 @@ enum Selfhst: string
     case Outline = 'selfhst-outline';
     case Overleaf = 'selfhst-overleaf';
     case Overseerr = 'selfhst-overseerr';
+    case Overtchat = 'selfhst-overtchat';
     case Ovh = 'selfhst-ovh';
     case Ovpn = 'selfhst-ovpn';
     case Ovumcy = 'selfhst-ovumcy';
@@ -1705,6 +1714,7 @@ enum Selfhst: string
     case Pixelfin = 'selfhst-pixelfin';
     case Pixiv = 'selfhst-pixiv';
     case Pkvault = 'selfhst-pkvault';
+    case PlainWeek = 'selfhst-plain-week';
     case Plakar = 'selfhst-plakar';
     case Planarally = 'selfhst-planarally';
     case Plane = 'selfhst-plane';
@@ -2081,6 +2091,7 @@ enum Selfhst: string
     case Sogo = 'selfhst-sogo';
     case Solarassistant = 'selfhst-solarassistant';
     case Solectrus = 'selfhst-solectrus';
+    case Solidcraft = 'selfhst-solidcraft';
     case Solidping = 'selfhst-solidping';
     case Solidtime = 'selfhst-solidtime';
     case Sonarqube = 'selfhst-sonarqube';
@@ -2287,6 +2298,7 @@ enum Selfhst: string
     case TruenasScale = 'selfhst-truenas-scale';
     case TrustedCgi = 'selfhst-trusted-cgi';
     case Tsdproxy = 'selfhst-tsdproxy';
+    case Tubehaus = 'selfhst-tubehaus';
     case Tubesync = 'selfhst-tubesync';
     case Tubetimeout = 'selfhst-tubetimeout';
     case Tududi = 'selfhst-tududi';
@@ -2330,6 +2342,7 @@ enum Selfhst: string
     case UniventionCorporateServer = 'selfhst-univention-corporate-server';
     case Unraid = 'selfhst-unraid';
     case Unregistry = 'selfhst-unregistry';
+    case UploadAssistant = 'selfhst-upload-assistant';
     case Ups = 'selfhst-ups';
     case Upsnap = 'selfhst-upsnap';
     case UptimeKuma = 'selfhst-uptime-kuma';
@@ -2394,6 +2407,7 @@ enum Selfhst: string
     case Vouchervault = 'selfhst-vouchervault';
     case Voux = 'selfhst-voux';
     case VoxmediaCoral = 'selfhst-voxmedia-coral';
+    case VpnSentinel = 'selfhst-vpn-sentinel';
     case Vscodium = 'selfhst-vscodium';
     case VueJs = 'selfhst-vue-js';
     case Vuetorrent = 'selfhst-vuetorrent';

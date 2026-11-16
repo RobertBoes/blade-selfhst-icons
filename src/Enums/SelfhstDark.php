@@ -152,6 +152,8 @@ enum SelfhstDark: string
     case Audiobookrequest = 'selfhst-audiobookrequest-dark';
     case Audiobookshelf = 'selfhst-audiobookshelf-dark';
     case Audiodeck = 'selfhst-audiodeck-dark';
+    case Audiosilo = 'selfhst-audiosilo-dark';
+    case Auditorr = 'selfhst-auditorr-dark';
     case Aureus = 'selfhst-aureus-dark';
     case Aurral = 'selfhst-aurral-dark';
     case Authelia = 'selfhst-authelia-dark';
@@ -284,6 +286,7 @@ enum SelfhstDark: string
     case ChhotoUrl = 'selfhst-chhoto-url-dark';
     case Chibisafe = 'selfhst-chibisafe-dark';
     case Chili3d = 'selfhst-chili3d-dark';
+    case Chirpstack = 'selfhst-chirpstack-dark';
     case Chirpy = 'selfhst-chirpy-dark';
     case Chitchatter = 'selfhst-chitchatter-dark';
     case Chorizard = 'selfhst-chorizard-dark';
@@ -369,7 +372,6 @@ enum SelfhstDark: string
     case CrontabGuru = 'selfhst-crontab-guru-dark';
     case CrossSeed = 'selfhst-cross-seed-dark';
     case Crosswatch = 'selfhst-crosswatch-dark';
-    case CrowCi = 'selfhst-crow-ci-dark';
     case Crowbarr = 'selfhst-crowbarr-dark';
     case Crowdsec = 'selfhst-crowdsec-dark';
     case CrowdsecManager = 'selfhst-crowdsec-manager-dark';
@@ -458,6 +460,7 @@ enum SelfhstDark: string
     case Docuseal = 'selfhst-docuseal-dark';
     case Dokemon = 'selfhst-dokemon-dark';
     case Dokploy = 'selfhst-dokploy-dark';
+    case Dokuwiki = 'selfhst-dokuwiki-dark';
     case Dolibarr = 'selfhst-dolibarr-dark';
     case DomainLocker = 'selfhst-domain-locker-dark';
     case DomainMonitor = 'selfhst-domain-monitor-dark';
@@ -468,6 +471,7 @@ enum SelfhstDark: string
     case Dooropener = 'selfhst-dooropener-dark';
     case DopeSecurity = 'selfhst-dope-security-dark';
     case Doppler = 'selfhst-doppler-dark';
+    case Doska = 'selfhst-doska-dark';
     case Dosvault = 'selfhst-dosvault-dark';
     case DoubleTake = 'selfhst-double-take-dark';
     case Dovecot = 'selfhst-dovecot-dark';
@@ -694,6 +698,7 @@ enum SelfhstDark: string
     case Ghostboard = 'selfhst-ghostboard-dark';
     case Ghostfolio = 'selfhst-ghostfolio-dark';
     case Ghostty = 'selfhst-ghostty-dark';
+    case Ghstats = 'selfhst-ghstats-dark';
     case Gimp = 'selfhst-gimp-dark';
     case Giraffile = 'selfhst-giraffile-dark';
     case Git = 'selfhst-git-dark';
@@ -832,6 +837,7 @@ enum SelfhstDark: string
     case Hivemq = 'selfhst-hivemq-dark';
     case Hoarder = 'selfhst-hoarder-dark';
     case Hollo = 'selfhst-hollo-dark';
+    case Holyarrs = 'selfhst-holyarrs-dark';
     case Homarr = 'selfhst-homarr-dark';
     case HomeAssistant = 'selfhst-home-assistant-dark';
     case HomeAssistantMatterHub = 'selfhst-home-assistant-matter-hub-dark';
@@ -1046,6 +1052,7 @@ enum SelfhstDark: string
     case Libation = 'selfhst-libation-dark';
     case LiberaChat = 'selfhst-libera-chat-dark';
     case Librarything = 'selfhst-librarything-dark';
+    case LibreCloset = 'selfhst-libre-closet-dark';
     case Librechat = 'selfhst-librechat-dark';
     case LibredbStudio = 'selfhst-libredb-studio-dark';
     case Librenms = 'selfhst-librenms-dark';
@@ -1137,6 +1144,7 @@ enum SelfhstDark: string
     case Maintenant = 'selfhst-maintenant-dark';
     case MakerManagementPlatform = 'selfhst-maker-management-platform-dark';
     case MakersVault = 'selfhst-makers-vault-dark';
+    case MalcolmNetworking = 'selfhst-malcolm-networking-dark';
     case Maloja = 'selfhst-maloja-dark';
     case Manifest = 'selfhst-manifest-dark';
     case ManyNotes = 'selfhst-many-notes-dark';
@@ -1258,6 +1266,7 @@ enum SelfhstDark: string
     case Minimus = 'selfhst-minimus-dark';
     case Minio = 'selfhst-minio-dark';
     case Minthcm = 'selfhst-minthcm-dark';
+    case Minuspod = 'selfhst-minuspod-dark';
     case Mirotalk = 'selfhst-mirotalk-dark';
     case Misskey = 'selfhst-misskey-dark';
     case MistralAi = 'selfhst-mistral-ai-dark';
@@ -1302,6 +1311,7 @@ enum SelfhstDark: string
     case Mysql = 'selfhst-mysql-dark';
     case Mysterium = 'selfhst-mysterium-dark';
     case MysteriumNode = 'selfhst-mysterium-node-dark';
+    case Mytview = 'selfhst-mytview-dark';
     case N8n = 'selfhst-n8n-dark';
     case Nagios = 'selfhst-nagios-dark';
     case Nakama = 'selfhst-nakama-dark';
@@ -1534,6 +1544,7 @@ enum SelfhstDark: string
     case Outline = 'selfhst-outline-dark';
     case Overleaf = 'selfhst-overleaf-dark';
     case Overseerr = 'selfhst-overseerr-dark';
+    case Overtchat = 'selfhst-overtchat-dark';
     case Ovh = 'selfhst-ovh-dark';
     case Ovpn = 'selfhst-ovpn-dark';
     case Ovumcy = 'selfhst-ovumcy-dark';
@@ -1633,6 +1644,7 @@ enum SelfhstDark: string
     case Piwigo = 'selfhst-piwigo-dark';
     case Pixelfin = 'selfhst-pixelfin-dark';
     case Pixiv = 'selfhst-pixiv-dark';
+    case PlainWeek = 'selfhst-plain-week-dark';
     case Plakar = 'selfhst-plakar-dark';
     case Planarally = 'selfhst-planarally-dark';
     case Plane = 'selfhst-plane-dark';
@@ -1990,6 +2002,7 @@ enum SelfhstDark: string
     case Sogo = 'selfhst-sogo-dark';
     case Solarassistant = 'selfhst-solarassistant-dark';
     case Solectrus = 'selfhst-solectrus-dark';
+    case Solidcraft = 'selfhst-solidcraft-dark';
     case Solidtime = 'selfhst-solidtime-dark';
     case Sonarqube = 'selfhst-sonarqube-dark';
     case Sonarr = 'selfhst-sonarr-dark';
@@ -2184,6 +2197,7 @@ enum SelfhstDark: string
     case TruenasScale = 'selfhst-truenas-scale-dark';
     case TrustedCgi = 'selfhst-trusted-cgi-dark';
     case Tsdproxy = 'selfhst-tsdproxy-dark';
+    case Tubehaus = 'selfhst-tubehaus-dark';
     case Tubesync = 'selfhst-tubesync-dark';
     case Tubetimeout = 'selfhst-tubetimeout-dark';
     case Tududi = 'selfhst-tududi-dark';
@@ -2226,6 +2240,7 @@ enum SelfhstDark: string
     case UniventionCorporateServer = 'selfhst-univention-corporate-server-dark';
     case Unraid = 'selfhst-unraid-dark';
     case Unregistry = 'selfhst-unregistry-dark';
+    case UploadAssistant = 'selfhst-upload-assistant-dark';
     case Ups = 'selfhst-ups-dark';
     case UptimeKuma = 'selfhst-uptime-kuma-dark';
     case UptimeMonitor = 'selfhst-uptime-monitor-dark';
@@ -2285,6 +2300,7 @@ enum SelfhstDark: string
     case Vouchervault = 'selfhst-vouchervault-dark';
     case Voux = 'selfhst-voux-dark';
     case VoxmediaCoral = 'selfhst-voxmedia-coral-dark';
+    case VpnSentinel = 'selfhst-vpn-sentinel-dark';
     case Vscodium = 'selfhst-vscodium-dark';
     case VueJs = 'selfhst-vue-js-dark';
     case Vuetorrent = 'selfhst-vuetorrent-dark';
