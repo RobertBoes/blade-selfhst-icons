@@ -152,6 +152,8 @@ enum SelfhstLight: string
     case Audiobookrequest = 'selfhst-audiobookrequest-light';
     case Audiobookshelf = 'selfhst-audiobookshelf-light';
     case Audiodeck = 'selfhst-audiodeck-light';
+    case Audiosilo = 'selfhst-audiosilo-light';
+    case Auditorr = 'selfhst-auditorr-light';
     case Aureus = 'selfhst-aureus-light';
     case Aurral = 'selfhst-aurral-light';
     case Authelia = 'selfhst-authelia-light';
@@ -284,6 +286,7 @@ enum SelfhstLight: string
     case ChhotoUrl = 'selfhst-chhoto-url-light';
     case Chibisafe = 'selfhst-chibisafe-light';
     case Chili3d = 'selfhst-chili3d-light';
+    case Chirpstack = 'selfhst-chirpstack-light';
     case Chirpy = 'selfhst-chirpy-light';
     case Chitchatter = 'selfhst-chitchatter-light';
     case Chorizard = 'selfhst-chorizard-light';
@@ -369,7 +372,6 @@ enum SelfhstLight: string
     case CrontabGuru = 'selfhst-crontab-guru-light';
     case CrossSeed = 'selfhst-cross-seed-light';
     case Crosswatch = 'selfhst-crosswatch-light';
-    case CrowCi = 'selfhst-crow-ci-light';
     case Crowbarr = 'selfhst-crowbarr-light';
     case Crowdsec = 'selfhst-crowdsec-light';
     case CrowdsecManager = 'selfhst-crowdsec-manager-light';
@@ -458,6 +460,7 @@ enum SelfhstLight: string
     case Docuseal = 'selfhst-docuseal-light';
     case Dokemon = 'selfhst-dokemon-light';
     case Dokploy = 'selfhst-dokploy-light';
+    case Dokuwiki = 'selfhst-dokuwiki-light';
     case Dolibarr = 'selfhst-dolibarr-light';
     case DomainLocker = 'selfhst-domain-locker-light';
     case DomainMonitor = 'selfhst-domain-monitor-light';
@@ -468,6 +471,7 @@ enum SelfhstLight: string
     case Dooropener = 'selfhst-dooropener-light';
     case DopeSecurity = 'selfhst-dope-security-light';
     case Doppler = 'selfhst-doppler-light';
+    case Doska = 'selfhst-doska-light';
     case Dosvault = 'selfhst-dosvault-light';
     case DoubleTake = 'selfhst-double-take-light';
     case Dovecot = 'selfhst-dovecot-light';
@@ -694,6 +698,7 @@ enum SelfhstLight: string
     case Ghostboard = 'selfhst-ghostboard-light';
     case Ghostfolio = 'selfhst-ghostfolio-light';
     case Ghostty = 'selfhst-ghostty-light';
+    case Ghstats = 'selfhst-ghstats-light';
     case Gimp = 'selfhst-gimp-light';
     case Giraffile = 'selfhst-giraffile-light';
     case Git = 'selfhst-git-light';
@@ -832,6 +837,7 @@ enum SelfhstLight: string
     case Hivemq = 'selfhst-hivemq-light';
     case Hoarder = 'selfhst-hoarder-light';
     case Hollo = 'selfhst-hollo-light';
+    case Holyarrs = 'selfhst-holyarrs-light';
     case Homarr = 'selfhst-homarr-light';
     case HomeAssistant = 'selfhst-home-assistant-light';
     case HomeAssistantMatterHub = 'selfhst-home-assistant-matter-hub-light';
@@ -1046,6 +1052,7 @@ enum SelfhstLight: string
     case Libation = 'selfhst-libation-light';
     case LiberaChat = 'selfhst-libera-chat-light';
     case Librarything = 'selfhst-librarything-light';
+    case LibreCloset = 'selfhst-libre-closet-light';
     case Librechat = 'selfhst-librechat-light';
     case LibredbStudio = 'selfhst-libredb-studio-light';
     case Librenms = 'selfhst-librenms-light';
@@ -1138,6 +1145,7 @@ enum SelfhstLight: string
     case Maintenant = 'selfhst-maintenant-light';
     case MakerManagementPlatform = 'selfhst-maker-management-platform-light';
     case MakersVault = 'selfhst-makers-vault-light';
+    case MalcolmNetworking = 'selfhst-malcolm-networking-light';
     case Maloja = 'selfhst-maloja-light';
     case Manifest = 'selfhst-manifest-light';
     case ManyNotes = 'selfhst-many-notes-light';
@@ -1259,6 +1267,7 @@ enum SelfhstLight: string
     case Minimus = 'selfhst-minimus-light';
     case Minio = 'selfhst-minio-light';
     case Minthcm = 'selfhst-minthcm-light';
+    case Minuspod = 'selfhst-minuspod-light';
     case Mirotalk = 'selfhst-mirotalk-light';
     case Misskey = 'selfhst-misskey-light';
     case MistralAi = 'selfhst-mistral-ai-light';
@@ -1303,6 +1312,7 @@ enum SelfhstLight: string
     case Mysql = 'selfhst-mysql-light';
     case Mysterium = 'selfhst-mysterium-light';
     case MysteriumNode = 'selfhst-mysterium-node-light';
+    case Mytview = 'selfhst-mytview-light';
     case N8n = 'selfhst-n8n-light';
     case Nagios = 'selfhst-nagios-light';
     case Nakama = 'selfhst-nakama-light';
@@ -1535,6 +1545,7 @@ enum SelfhstLight: string
     case Outline = 'selfhst-outline-light';
     case Overleaf = 'selfhst-overleaf-light';
     case Overseerr = 'selfhst-overseerr-light';
+    case Overtchat = 'selfhst-overtchat-light';
     case Ovh = 'selfhst-ovh-light';
     case Ovpn = 'selfhst-ovpn-light';
     case Ovumcy = 'selfhst-ovumcy-light';
@@ -1634,6 +1645,7 @@ enum SelfhstLight: string
     case Piwigo = 'selfhst-piwigo-light';
     case Pixelfin = 'selfhst-pixelfin-light';
     case Pixiv = 'selfhst-pixiv-light';
+    case PlainWeek = 'selfhst-plain-week-light';
     case Plakar = 'selfhst-plakar-light';
     case Planarally = 'selfhst-planarally-light';
     case Plane = 'selfhst-plane-light';
@@ -1994,6 +2006,7 @@ enum SelfhstLight: string
     case Sogo = 'selfhst-sogo-light';
     case Solarassistant = 'selfhst-solarassistant-light';
     case Solectrus = 'selfhst-solectrus-light';
+    case Solidcraft = 'selfhst-solidcraft-light';
     case Solidtime = 'selfhst-solidtime-light';
     case Sonarqube = 'selfhst-sonarqube-light';
     case Sonarr = 'selfhst-sonarr-light';
@@ -2191,6 +2204,7 @@ enum SelfhstLight: string
     case TruenasScale = 'selfhst-truenas-scale-light';
     case TrustedCgi = 'selfhst-trusted-cgi-light';
     case Tsdproxy = 'selfhst-tsdproxy-light';
+    case Tubehaus = 'selfhst-tubehaus-light';
     case Tubesync = 'selfhst-tubesync-light';
     case Tubetimeout = 'selfhst-tubetimeout-light';
     case Tududi = 'selfhst-tududi-light';
@@ -2233,6 +2247,7 @@ enum SelfhstLight: string
     case UniventionCorporateServer = 'selfhst-univention-corporate-server-light';
     case Unraid = 'selfhst-unraid-light';
     case Unregistry = 'selfhst-unregistry-light';
+    case UploadAssistant = 'selfhst-upload-assistant-light';
     case Ups = 'selfhst-ups-light';
     case UptimeKuma = 'selfhst-uptime-kuma-light';
     case UptimeMonitor = 'selfhst-uptime-monitor-light';
@@ -2292,6 +2307,7 @@ enum SelfhstLight: string
     case Vouchervault = 'selfhst-vouchervault-light';
     case Voux = 'selfhst-voux-light';
     case VoxmediaCoral = 'selfhst-voxmedia-coral-light';
+    case VpnSentinel = 'selfhst-vpn-sentinel-light';
     case Vscodium = 'selfhst-vscodium-light';
     case VueJs = 'selfhst-vue-js-light';
     case Vuetorrent = 'selfhst-vuetorrent-light';
